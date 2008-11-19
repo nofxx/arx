@@ -1,8 +1,8 @@
 class CreateVersions < ActiveRecord::Migration
   def self.up
     create_table :versions do |t|
-      t.references :pkg
-      t.string :name
+      t.references :pkg, :null => false
+      t.string :name, :null => false
       t.text :desc
 
       t.timestamps

@@ -1,8 +1,8 @@
 class CreateInstalls < ActiveRecord::Migration
   def self.up
     create_table :installs do |t|
-      t.references :pkg
-      t.boolean :code
+      t.references :pkg, :null => false
+      t.boolean :code, :null => false
 
       t.timestamps
     end

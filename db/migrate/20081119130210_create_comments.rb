@@ -1,9 +1,9 @@
 class CreateComments < ActiveRecord::Migration
   def self.up
     create_table :comments do |t|
-      t.references :user
-      t.references :pkg
-      t.text :content
+      t.references :user, :null => false
+      t.references :pkg, :null => false
+      t.text :content, :null => false
 
       t.timestamps
     end
