@@ -1,0 +1,23 @@
+<p>
+  <b>Pkg:</b>
+  <%=h @karma.pkg %>
+</p>
+
+<p>
+  <b>Value:</b>
+  <%=h @karma.value %>
+</p>
+
+<p>
+  <b>User:</b>
+  <%=h @karma.user %>
+</p>
+
+<p>
+  <b>Version:</b>
+  <%=h @karma.version %>
+</p>
+
+
+<%= link_to 'Edit', edit_karma_path(@karma) %> |
+<%= link_to 'Back', karmas_path %>

@@ -1,0 +1,18 @@
+<p>
+  <b>Pkg:</b>
+  <%=h @version.pkg %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%=h @version.name %>
+</p>
+
+<p>
+  <b>Desc:</b>
+  <%=h @version.desc %>
+</p>
+
+
+<%= link_to 'Edit', edit_version_path(@version) %> |
+<%= link_to 'Back', versions_path %>

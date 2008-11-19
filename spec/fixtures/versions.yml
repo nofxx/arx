@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  pkg: 
+  name: MyString
+  desc: MyText
+
+two:
+  pkg: 
+  name: MyString
+  desc: MyText

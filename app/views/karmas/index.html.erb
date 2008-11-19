@@ -1,0 +1,26 @@
+<h1>Listing karmas</h1>
+
+<table>
+  <tr>
+    <th>Pkg</th>
+    <th>Value</th>
+    <th>User</th>
+    <th>Version</th>
+  </tr>
+
+<% for karma in @karmas %>
+  <tr>
+    <td><%=h karma.pkg %></td>
+    <td><%=h karma.value %></td>
+    <td><%=h karma.user %></td>
+    <td><%=h karma.version %></td>
+    <td><%= link_to 'Show', karma %></td>
+    <td><%= link_to 'Edit', edit_karma_path(karma) %></td>
+    <td><%= link_to 'Destroy', karma, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New karma', new_karma_path %>

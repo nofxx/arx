@@ -1,0 +1,24 @@
+<h1>Listing versions</h1>
+
+<table>
+  <tr>
+    <th>Pkg</th>
+    <th>Name</th>
+    <th>Desc</th>
+  </tr>
+
+<% for version in @versions %>
+  <tr>
+    <td><%=h version.pkg %></td>
+    <td><%=h version.name %></td>
+    <td><%=h version.desc %></td>
+    <td><%= link_to 'Show', version %></td>
+    <td><%= link_to 'Edit', edit_version_path(version) %></td>
+    <td><%= link_to 'Destroy', version, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New version', new_version_path %>

@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  pkg: 
+  value: 1
+  user: 
+  version: 
+
+two:
+  pkg: 
+  value: 1
+  user: 
+  version: 
