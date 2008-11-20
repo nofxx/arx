@@ -11,7 +11,7 @@ class CreatePkgs < ActiveRecord::Migration
     end
 
     add_index :pkgs, :name
-    add_index :pkgs, :maitainer
+    add_index :pkgs, :maintainer_id
   end
 
   def self.down
