@@ -1,0 +1,4199 @@
+[0m==> [0m[1mListing all packages in repos[0m
+[0mcore [1macl [0m2.2.47-1 [7m[0m[installed][0m
+[0mcore [1matl2 [0m2.0.5-2
+[0mcore [1mattr [0m2.4.41-1 [7m[0m[installed][0m
+[0mcore [1mautoconf [0m2.63-1 [7m[0m[installed][0m
+[0mcore [1mautomake [0m1.10.1-2 [7m[0m[installed][0m
+[0mcore [1mb43-fwcutter [0m011-1
+[0mcore [1mbash [0m3.2.039-3 [7m[0m[installed][0m
+[0mcore [1mbin86 [0m0.16.17-3 [7m[0m[installed][0m
+[0mcore [1mbinutils [0m2.18-9 [7m[0m[installed][0m
+[0mcore [1mbison [0m2.3-4 [7m[0m[installed][0m
+[0mcore [1mbridge-utils [0m1.4-2
+[0mcore [1mbzip2 [0m1.0.5-3 [7m[0m[installed][0m
+[0mcore [1mca-certificates [0m20080809-4 [7m[0m[installed][0m
+[0mcore [1mcapi4k-utils [0m050718-6
+[0mcore [1mcoreutils [0m6.12-1 [7m[0m[installed][0m
+[0mcore [1mcpio [0m2.9-3 [7m[0m[installed][0m
+[0mcore [1mcracklib [0m2.8.13-1 [7m[0m[installed][0m
+[0mcore [1mcryptsetup [0m1.0.6-2 [7m[0m[installed][0m
+[0mcore [1mdash [0m0.5.4-4 [7m[0m[installed][0m
+[0mcore [1mdb [0m4.7.25-1 [7m[0m[installed][0m
+[0mcore [1mdbus-core [0m1.2.3-1 [7m[0m[installed][0m
+[0mcore [1mdcron [0m3.2-3 [7m[0m[installed][0m
+[0mcore [1mdevice-mapper [0m1.02.24-1 [7m[0m[installed][0m
+[0mcore [1mdhcpcd [0m4.0.3-1 [7m[0m[installed][0m
+[0mcore [1mdialog [0m1.1_20080819-1 [7m[0m[installed][0m
+[0mcore [1mdiffutils [0m2.8.1-5 [7m[0m[installed][0m
+[0mcore [1mdmapi [0m2.2.8-3 [7m[0m[installed][0m
+[0mcore [1mdmraid [0m1.0.0.rc15-5
+[0mcore [1mdnsutils [0m9.5.0.P2-1 [7m[0m[installed][0m
+[0mcore [1mdosfstools [0m3.0.0-1 [7m[0m[installed][0m
+[0mcore [1me2fsprogs [0m1.41.3-2 [7m[0m[installed][0m
+[0mcore [1med [0m1.1-2 [7m[0m[installed][0m
+[0mcore [1meventlog [0m0.2.5-2
+[0mcore [1mexpat [0m2.0.1-2 [7m[0m[installed][0m
+[0mcore [1mfakeroot [0m1.10.1-1 [7m[0m[installed][0m
+[0mcore [1mfile [0m4.26-1 [7m[0m[installed][0m
+[0mcore [1mfilesystem [0m2008.07-1 [7m[0m[installed][0m
+[0mcore [1mfindutils [0m4.4.0-1 [7m[0m[installed][0m
+[0mcore [1mflex [0m2.5.35-1 [7m[0m[installed][0m
+[0mcore [1mgawk [0m3.1.6-2 [7m[0m[installed][0m
+[0mcore [1mgcc [0m4.3.2-1 [7m[0m[installed][0m
+[0mcore [1mgcc-libs [0m4.3.2-1 [7m[0m[installed][0m
+[0mcore [1mgdbm [0m1.8.3-5 [7m[0m[installed][0m
+[0mcore [1mgen-init-cpio [0m2.6.17-3 [7m[0m[installed][0m
+[0mcore [1mgettext [0m0.17-2 [7m[0m[installed][0m
+[0mcore [1mglib2 [0m2.18.2-1 [7m[0m[installed][0m
+[0mcore [1mglibc [0m2.8-3 [7m[0m[installed][0m
+[0mcore [1mgmp [0m4.2.4-1.1 [7m[0m[installed][0m
+[0mcore [1mgpm [0m1.20.5-2 [7m[0m[installed][0m
+[0mcore [1mgrep [0m2.5.3-3 [7m[0m[installed][0m
+[0mcore [1mgroff [0m1.19.2-4 [7m[0m[installed][0m
+[0mcore [1mgrub [0m0.97-13 [7m[0m[installed][0m
+[0mcore [1mgzip [0m1.3.12-4 [7m[0m[installed][0m
+[0mcore [1mhdparm [0m8.9-1 [7m[0m[installed][0m
+[0mcore [1mheimdal [0m1.2-2 [7m[0m[installed][0m
+[0mcore [1mhwdetect [0m0.9.1-2 [7m[0m[installed][0m
+[0mcore [1mifenslave [0m1.1.0-4
+[0mcore [1minitscripts [0m2008.09-2 [7m[0m[installed][0m
+[0mcore [1miproute [0m2.6.26-1 [7m[0m[installed][0m
+[0mcore [1miptables [0m1.4.2-1 [7m[0m[installed][0m
+[0mcore [1miputils [0m20071127-2 [7m[0m[installed][0m
+[0mcore [1mipw2100-fw [0m1.3-2
+[0mcore [1mipw2200-fw [0m3.0-2
+[0mcore [1misdn4k-utils [0m3.2p1-3
+[0mcore [1miwlwifi-3945-ucode [0m15.28.2.8-1
+[0mcore [1miwlwifi-4965-ucode [0m228.57.2.21-1
+[0mcore [1miwlwifi-5000-ucode [0m5.4.A.11-1
+[0mcore [1mjfsutils [0m1.1.13-1 [7m[0m[installed][0m
+[0mcore [1mkbd [0m1.14.1.20080309-2 [7m[0m[installed][0m
+[0mcore [1mkernel-headers [0m2.6.26.3-1 [7m[0m[installed][0m
+[0mcore [1mkernel26 [0m2.6.27.6-1 [7m[0m[installed][0m
+[0mcore [1mklibc [0m1.5.14-1 [7m[0m[installed][0m
+[0mcore [1mklibc-extras [0m2.5-1 [7m[0m[installed][0m
+[0mcore [1mklibc-kbd [0m1.15.20080312-7 [7m[0m[installed][0m
+[0mcore [1mklibc-module-init-tools [0m3.4-2 [7m[0m[installed][0m
+[0mcore [1mklibc-udev [0m130-1 [7m[0m[installed][0m
+[0mcore [1mless [0m418-1 [7m[0m[installed][0m
+[0mcore [1mlibarchive [0m2.5.5-1 [7m[0m[installed][0m
+[0mcore [1mlibdownload [0m1.3-1 [7m[0m[installed][0m
+[0mcore [1mlibelf [0m0.8.10-3 [7m[0m[installed][0m
+[0mcore [1mlibevent [0m1.4.8-2
+[0mcore [1mlibgcrypt [0m1.4.3-2 [7m[0m[installed][0m
+[0mcore [1mlibgpg-error [0m1.6-1 [7m[0m[installed][0m
+[0mcore [1mlibldap [0m2.3.43-3 [7m[0m[installed][0m
+[0mcore [1mlibpcap [0m0.9.8-2 [7m[0m[installed][0m
+[0mcore [1mlibsasl [0m2.1.22-7 [7m[0m[installed][0m
+[0mcore [1mlibtool [0m2.2.6a-1 [7m[0m[installed][0m
+[0mcore [1mlibusb [0m0.1.12-3 [7m[0m[installed][0m
+[0mcore [1mlicenses [0m2.4-1 [7m[0m[installed][0m
+[0mcore [1mlilo [0m22.8-2
+[0mcore [1mlinks [0m2.2-2
+[0mcore [1mlinux-atm [0m2.5.0-1 [7m[0m[installed][0m
+[0mcore [1mlogrotate [0m3.7.7-3 [7m[0m[installed][0m
+[0mcore [1mlvm2 [0m2.02.36-1 [7m[0m[installed][0m
+[0mcore [1mlzo2 [0m2.02-3 [7m[0m[installed][0m
+[0mcore [1mm4 [0m1.4.12-1 [7m[0m[installed][0m
+[0mcore [1mmadwifi [0m0.9.4.3844-2
+[0mcore [1mmadwifi-utils [0m0.9.4.3844-1
+[0mcore [1mmailx [0m8.1.1-5 [7m[0m[installed][0m
+[0mcore [1mmake [0m3.81-3 [7m[0m[installed][0m
+[0mcore [1mman [0m1.6f-2 [7m[0m[installed][0m
+[0mcore [1mman-pages [0m3.11-1 [7m[0m[installed][0m
+[0mcore [1mmdadm [0m2.6.7-1 [7m[0m[installed][0m
+[0mcore [1mmkinitcpio [0m0.5.19-1 [7m[0m[installed][0m
+[0mcore [1mmlocate [0m0.21-1 [7m[0m[installed][0m
+[0mcore [1mmodule-init-tools [0m3.4-1 [7m[0m[installed][0m
+[0mcore [1mmpfr [0m2.3.2-2 [7m[0m[installed][0m
+[0mcore [1mnano [0m2.0.9-1 [7m[0m[installed][0m
+[0mcore [1mncurses [0m5.6-8 [7m[0m[installed][0m
+[0mcore [1mndiswrapper [0m1.53-3
+[0mcore [1mndiswrapper-utils [0m1.53-1
+[0mcore [1mnet-tools [0m1.60-13 [7m[0m[installed][0m
+[0mcore [1mnetcfg [0m2.1.2-1
+[0mcore [1mnetkit-telnet [0m0.17-8 [7m[0m[installed][0m
+[0mcore [1mnfs-utils [0m1.1.3-2
+[0mcore [1mnfsidmap [0m0.21-2
+[0mcore [1mopenssh [0m5.1p1-1 [7m[0m[installed][0m
+[0mcore [1mopenssl [0m0.9.8i-1 [7m[0m[installed][0m
+[0mcore [1mopenswan [0m2.4.11-1
+[0mcore [1mopenvpn [0m2.0.9-4
+[0mcore [1mpacman [0m3.2.1-1 [7m[0m[installed][0m
+[0mcore [1mpam [0m1.0.2-2 [7m[0m[installed][0m
+[0mcore [1mpatch [0m2.5.9-1 [7m[0m[installed][0m
+[0mcore [1mpciutils [0m3.0.2-1 [7m[0m[installed][0m
+[0mcore [1mpcmciautils [0m015-2 [7m[0m[installed][0m
+[0mcore [1mpcre [0m7.8-1 [7m[0m[installed][0m
+[0mcore [1mperl [0m5.10.0-4 [7m[0m[installed][0m
+[0mcore [1mpkgconfig [0m0.23-1 [7m[0m[installed][0m
+[0mcore [1mpopt [0m1.14-1 [7m[0m[installed][0m
+[0mcore [1mportmap [0m6.0-2 [7m[0m[installed][0m
+[0mcore [1mppp [0m2.4.4-6 [7m[0m[installed][0m
+[0mcore [1mpptpclient [0m1.7.2-1
+[0mcore [1mprocinfo [0m19-3 [7m[0m[installed][0m
+[0mcore [1mprocps [0m3.2.7-5 [7m[0m[installed][0m
+[0mcore [1mpsmisc [0m22.6-2 [7m[0m[installed][0m
+[0mcore [1mreadline [0m5.2-8 [7m[0m[installed][0m
+[0mcore [1mreiserfsprogs [0m3.6.20-3 [7m[0m[installed][0m
+[0mcore [1mrp-pppoe [0m3.10-1 [7m[0m[installed][0m
+[0mcore [1mrt2500 [0m1.1.0_B4-25
+[0mcore [1mrt2x00-rt61-fw [0m1.2-3 [7m[0m[installed][0m
+[0mcore [1mrt2x00-rt71w-fw [0m1.8-3 [7m[0m[installed][0m
+[0mcore [1mrun-parts [0m2.30-1 [7m[0m[installed][0m
+[0mcore [1msdparm [0m1.03-1 [7m[0m[installed][0m
+[0mcore [1msed [0m4.1.5-3 [7m[0m[installed][0m
+[0mcore [1mshadow [0m4.1.2.1-2 [7m[0m[installed][0m
+[0mcore [1msudo [0m1.6.9p17-1 [7m[0m[installed][0m
+[0mcore [1msysfsutils [0m2.1.0-4 [7m[0m[installed][0m
+[0mcore [1msyslog-ng [0m2.0.9-1 [7m[0m[installed][0m
+[0mcore [1msysvinit [0m2.86-4 [7m[0m[installed][0m
+[0mcore [1mtar [0m1.20-2 [7m[0m[installed][0m
+[0mcore [1mtcp_wrappers [0m7.6-8 [7m[0m[installed][0m
+[0mcore [1mtexinfo [0m4.13a-1 [7m[0m[installed][0m
+[0mcore [1mtiacx [0m20080210-7
+[0mcore [1mtiacx-firmware [0m2-1
+[0mcore [1mtzdata [0m2008h-1 [7m[0m[installed][0m
+[0mcore [1mudev [0m130-1 [7m[0m[installed][0m
+[0mcore [1musbutils [0m0.73-5 [7m[0m[installed][0m
+[0mcore [1mutil-linux-ng [0m2.14-1 [7m[0m[installed][0m
+[0mcore [1mvi [0m7.2.25-1 [7m[0m[installed][0m
+[0mcore [1mvpnc [0m0.5.1-2
+[0mcore [1mwget [0m1.11.4-1 [7m[0m[installed][0m
+[0mcore [1mwhich [0m2.20-1 [7m[0m[installed][0m
+[0mcore [1mwireless_tools [0m29-2 [7m[0m[installed][0m
+[0mcore [1mwlan-ng26 [0m0.2.9-2
+[0mcore [1mwlan-ng26-utils [0m0.2.9-1
+[0mcore [1mwpa_supplicant [0m0.5.10-1 [7m[0m[installed][0m
+[0mcore [1mxfsprogs [0m2.10.1-1 [7m[0m[installed][0m
+[0mcore [1mxinetd [0m2.3.14-3 [7m[0m[installed][0m
+[0mcore [1mzd1211-firmware [0m1.4-2 [7m[0m[installed][0m
+[0mcore [1mzlib [0m1.2.3.3-2 [7m[0m[installed][0m
+[0mextra [1m3ddesktop [0m0.2.9-2
+[0mextra [1ma2ps [0m4.13c-1 [7m[0m[installed][0m
+[0mextra [1ma52dec [0m0.7.4-4 [7m[0m[installed][0m
+[0mextra [1maalib [0m1.4rc5-6 [7m[0m[installed][0m
+[0mextra [1mabcde [0m2.3.3-3
+[0mextra [1mabcm2ps [0m4.12.30-1
+[0mextra [1mabcm2ps-devel [0m5.5.2-1
+[0mextra [1mabiword [0m2.6.4-1
+[0mextra [1mabiword-plugins [0m2.6.4-1
+[0mextra [1mabook [0m0.5.6-2
+[0mextra [1mabs [0m2.3-1
+[0mextra [1mabuse [0m0.7.1-1
+[0mextra [1macct [0m6.3.2-1
+[0mextra [1machessclock [0m0.9.2b-3
+[0mextra [1macidrip [0m0.14-6
+[0mextra [1macpi [0m0.09-2
+[0mextra [1macpid [0m1.0.6-1 [7m[0m[installed][0m
+[0mextra [1madzapper [0m20071120-1
+[0mextra [1mafterstep [0m2.2.8-2
+[0mextra [1magg [0m2.5-2
+[0mextra [1maide [0m0.13.1-1
+[0mextra [1maiksaurus [0m1.2.1-1
+[0mextra [1makode [0m2.0.2-1
+[0mextra [1makonadi [0m1.0.0-2
+[0mextra [1malacarte [0m0.11.6-3
+[0mextra [1mallegro [0m4.2.2-1
+[0mextra [1malltray [0m0.70-1
+[0mextra [1malpine [0m2.00-1
+[0mextra [1malsa-lib [0m1.0.18-1 [7m[0m[installed][0m
+[0mextra [1malsa-oss [0m1.0.17-1
+[0mextra [1malsa-utils [0m1.0.18-1 [7m[0m[installed][0m
+[0mextra [1malsaplayer [0m0.99.80-1
+[0mextra [1mamarok-base [0m1.4.10-1 [7m[0m[installed][0m
+[0mextra [1mamarok-engine-xine [0m1.4.10-1 [7m[0m[installed][0m
+[0mextra [1mamule [0m2.2.2-1 [7m[0m[installed][0m
+[0mextra [1manjuta [0m2.24.1-1
+[0mextra [1manthy [0m9100-1
+[0mextra [1mantiword [0m0.37-1
+[0mextra [1mantlr [0m2.7.7-1
+[0mextra [1mapache [0m2.2.10-1 [7m[0m[installed][0m
+[0mextra [1mapache-ant [0m1.7.0-2
+[0mextra [1mapollon [0m1.0.2.1-4
+[0mextra [1mapolos [0m0.1.9rc1-3
+[0mextra [1mapr [0m1.3.3-1 [7m[0m[installed][0m
+[0mextra [1mapr-util [0m1.3.4-1 [7m[0m[installed][0m
+[0mextra [1mapricots [0m0.2.6-2
+[0mextra [1march [0m1.3.5-4
+[0mextra [1marchboot [0m2008.03-2
+[0mextra [1marchiso [0m0.1-1
+[0mextra [1marchlinux-artwork [0m1.1-2
+[0mextra [1marchlinux-installer [0m2008.06-1
+[0mextra [1marchlinux-menus [0m2.1-2
+[0mextra [1marchlinux-themes-gdm [0m1.2-1
+[0mextra [1marchlinux-themes-kde [0m1.4-1
+[0mextra [1marchlinux-themes-kdm [0m1.2-1
+[0mextra [1marchlinux-themes-slim [0m1.1-1
+[0mextra [1marchlinux-wallpaper [0m1.2-1
+[0mextra [1mardour [0m2.5-1
+[0mextra [1maria2 [0m0.15.3-1
+[0mextra [1marj [0m3.10.22-4
+[0mextra [1martwiz-fonts [0m1.3-3
+[0mextra [1mascii [0m3.6-1
+[0mextra [1maspell [0m0.60.6-4 [7m[0m[installed][0m
+[0mextra [1maspell-de [0m20030222-1
+[0mextra [1maspell-el [0m0.50-3
+[0mextra [1maspell-en [0m6.0-1
+[0mextra [1maspell-es [0m0.50-4
+[0mextra [1maspell-fi [0m0.7-1
+[0mextra [1maspell-fr [0m0.50.3-2
+[0mextra [1maspell-it [0m0.53.0-2
+[0mextra [1maspell-nl [0m0.50-3
+[0mextra [1maspell-pt [0m0.50-3
+[0mextra [1maspell-ru [0m0.99f7-1
+[0mextra [1mat [0m3.1.10-1
+[0mextra [1mat-spi [0m1.24.0-2 [7m[0m[installed][0m
+[0mextra [1materm [0m1.0.1-1
+[0mextra [1matk [0m1.24.0-1 [7m[0m[installed][0m
+[0mextra [1maubio [0m0.3.2-3
+[0mextra [1maudacious [0m1.5.1-1
+[0mextra [1maudacious-plugins [0m1.5.1-1
+[0mextra [1maudacity [0m1.3.6-1
+[0mextra [1maudiofile [0m0.2.6-3 [7m[0m[installed][0m
+[0mextra [1maufs [0m20081012-2
+[0mextra [1maufs-utils [0m20081012-1
+[0mextra [1mautofs [0m4.1.4-4
+[0mextra [1mautogen [0m5.9.5-1
+[0mextra [1mautomoc4 [0m0.9.87-1
+[0mextra [1mautopano-sift [0m2.4-3
+[0mextra [1mautopano-sift-c [0m2.5.0-2
+[0mextra [1mautotrace [0m0.31.1-7
+[0mextra [1mavahi [0m0.6.23-1 [7m[0m[installed][0m
+[0mextra [1mavfs [0m0.9.8-1
+[0mextra [1mavidemux [0m2.4.3-1
+[0mextra [1mazureus [0m3.0.1.6-2
+[0mextra [1mbabl [0m0.0.22-1 [7m[0m[installed][0m
+[0mextra [1mbanshee [0m1.4.1-1
+[0mextra [1mbarcode [0m0.98-1
+[0mextra [1mbash-completion [0m20060301-9 [7m[0m[installed][0m
+[0mextra [1mbasket [0m1.0.3.1-1
+[0mextra [1mbc [0m1.06-5
+[0mextra [1mbcprov [0m1.38-1
+[0mextra [1mbeagle [0m0.3.8-1
+[0mextra [1mbeep [0m1.2.2-1
+[0mextra [1mbftpd [0m2.1-1
+[0mextra [1mbglibs [0m1.102-1
+[0mextra [1mbigloo [0m3.0c-1
+[0mextra [1mbigreqsproto [0m1.0.2-1
+[0mextra [1mbincimap [0m1.2.13-4
+[0mextra [1mbind [0m9.5.0.P2-1
+[0mextra [1mbiogrep [0m1.0-1
+[0mextra [1mbioperl [0m1.5.1-2
+[0mextra [1mbiopython [0m1.48-2
+[0mextra [1mbitlbee [0m1.0.4-2
+[0mextra [1mbittorrent [0m5.0.6-2
+[0mextra [1mblack-box [0m1.4.7-1
+[0mextra [1mbladeenc [0m0.94.2-1
+[0mextra [1mblas [0m20070405-1
+[0mextra [1mblassic [0m0.10.0-3
+[0mextra [1mblender [0m2.48a-2
+[0mextra [1mbluefish [0m1.0.7-3
+[0mextra [1mbluez-gnome [0m0.25-1
+[0mextra [1mbluez-libs [0m3.32-1 [7m[0m[installed][0m
+[0mextra [1mbluez-utils [0m3.32-1
+[0mextra [1mbmp [0m0.9.7.1-4
+[0mextra [1mbmp-musepack [0m1.2-2
+[0mextra [1mbmp-wma [0m0.1.1-2
+[0mextra [1mbmpx [0m0.40.13-2
+[0mextra [1mbochs [0m2.3.7-1
+[0mextra [1mbogofilter [0m1.1.7-2
+[0mextra [1mbomberclone [0m0.11.8-1
+[0mextra [1mbonnie++ [0m1.03b-1
+[0mextra [1mboo [0m0.8.2.2960-1
+[0mextra [1mboost [0m1.36.0-2
+[0mextra [1mbootchart [0m0.9-4
+[0mextra [1mbrltty [0m3.10-1 [7m[0m[installed][0m
+[0mextra [1mbs [0m2.7-1
+[0mextra [1mbug-buddy [0m2.24.1-1
+[0mextra [1mbumprace [0m1.5.1-2
+[0mextra [1mbungmeter [0m2.0.1-1
+[0mextra [1mbzflag [0m2.0.12-1
+[0mextra [1mbzr [0m1.9-1
+[0mextra [1mc-ares [0m1.5.3-1
+[0mextra [1mcabextract [0m1.2-1
+[0mextra [1mcairo [0m1.8.2-1 [7m[0m[installed][0m
+[0mextra [1mcairo-perl [0m1.060-1
+[0mextra [1mcairomm [0m1.6.4-1 [7m[0m[installed][0m
+[0mextra [1mcame [0m1.9-4
+[0mextra [1mcamsource [0m0.7.0-3
+[0mextra [1mcapi4hylafax [0m010300-1
+[0mextra [1mcapseo [0m158-1
+[0mextra [1mcatalyst [0m8.8-2
+[0mextra [1mcatalyst-utils [0m8.8-1
+[0mextra [1mcatdoc [0m0.94.2-1
+[0mextra [1mccache [0m2.4-4
+[0mextra [1mccaudio [0m1.2.0-1
+[0mextra [1mccmalloc [0m0.4.0-1
+[0mextra [1mccrtp [0m1.5.1-2
+[0mextra [1mccscript3 [0m1.1.0-1
+[0mextra [1mcd-discid [0m0.9-1
+[0mextra [1mcdargs [0m1.35-2
+[0mextra [1mcdcd [0m0.6.6-3
+[0mextra [1mcddb_get [0m2.27-3
+[0mextra [1mcdlabelgen [0m4.0.0-1
+[0mextra [1mcdparanoia [0m10.2-2 [7m[0m[installed][0m
+[0mextra [1mcdrdao [0m1.2.2-2 [7m[0m[installed][0m
+[0mextra [1mcdrkit [0m1.1.8-1 [7m[0m[installed][0m
+[0mextra [1mcdtool [0m2.1.8-1
+[0mextra [1mcegui [0m0.5.0b-2
+[0mextra [1mcelestia [0m1.5.1-1
+[0mextra [1mcenterim [0m4.22.5-3
+[0mextra [1mcfitsio [0m3060-2
+[0mextra [1mcgoban [0m1.9.12-3
+[0mextra [1mcheckpassword [0m0.90-1
+[0mextra [1mcheese [0m2.24.1-1
+[0mextra [1mchemtool [0m1.6.11-1
+[0mextra [1mchkrootkit [0m0.48-1
+[0mextra [1mchmlib [0m0.39-1
+[0mextra [1mcinepaint [0m0.22.1-3
+[0mextra [1mcircuslinux [0m1.0.3-1
+[0mextra [1mclamav [0m0.94-1
+[0mextra [1mclanlib [0m0.8.1-1
+[0mextra [1mclaws-mail [0m3.6.1-1
+[0mextra [1mclaws-mail-extra-plugins [0m3.6.1-1
+[0mextra [1mclisp [0m2.46-1
+[0mextra [1mcln [0m1.2.2-1
+[0mextra [1mclucene [0m0.9.20-1
+[0mextra [1mclustalw [0m1.83-1
+[0mextra [1mclusterit [0m2.5-1
+[0mextra [1mcmake [0m2.6.2-1
+[0mextra [1mcmatrix [0m1.2a-3
+[0mextra [1mcmt [0m1.16-1
+[0mextra [1mcmucl [0m19e-1
+[0mextra [1mcmus [0m2.2.0-7
+[0mextra [1mcodecs [0m20071007-1
+[0mextra [1mcolortail [0m0.3.0-2
+[0mextra [1mcommoncpp2 [0m1.6.2-1
+[0mextra [1mcompface [0m1.5.2-1
+[0mextra [1mcompositeproto [0m0.4-1 [7m[0m[installed][0m
+[0mextra [1mconky [0m1.6.1-2
+[0mextra [1mconsolekit [0m0.3.0-2
+[0mextra [1mconvmv [0m1.12-1
+[0mextra [1mcorewars [0m0.9.13-1
+[0mextra [1mcourier-authlib [0m0.61.0-1
+[0mextra [1mcourier-imap [0m4.4.1-1
+[0mextra [1mcourier-maildrop [0m2.0.4-4
+[0mextra [1mcourier-mta [0m0.60.0-1
+[0mextra [1mcowsay [0m3.03-5
+[0mextra [1mcpudyn [0m1.0.1-2
+[0mextra [1mcpufreqd [0m2.3.3-2
+[0mextra [1mcpufrequtils [0m005-2 [7m[0m[installed][0m
+[0mextra [1mcrimson [0m0.5.2-1
+[0mextra [1mcrypto++ [0m5.5.2-1
+[0mextra [1mcscope [0m15.6-2
+[0mextra [1mcssed [0m0.4.0-1
+[0mextra [1mctags [0m5.7-1
+[0mextra [1mculmus [0m0.101-7
+[0mextra [1mcups [0m1.3.9-1
+[0mextra [1mcups-pdf [0m2.4.8-1
+[0mextra [1mcurl [0m7.19.2-1 [7m[0m[installed][0m
+[0mextra [1mcvs [0m1.11.23-2
+[0mextra [1mcvsps [0m2.1-1
+[0mextra [1mcx_freeze [0m3.0.3-4
+[0mextra [1mcyrus-sasl [0m2.1.22-9
+[0mextra [1mcyrus-sasl-plugins [0m2.1.22-7
+[0mextra [1md4x [0m2.5.7.1-2
+[0mextra [1mdailystrips [0m1.0.28-2
+[0mextra [1mdamageproto [0m1.1.0-1 [7m[0m[installed][0m
+[0mextra [1mdansguardian [0m2.8.0.6-1
+[0mextra [1mdarcs [0m2.1.0-1
+[0mextra [1mdasher [0m4.9.0-1
+[0mextra [1mdavfs2 [0m1.3.0-1
+[0mextra [1mdb4.1 [0m4.1.25-2 [7m[0m[installed][0m
+[0mextra [1mdb4.5 [0m4.5.20-1 [7m[0m[installed][0m
+[0mextra [1mdbh [0m1.0.24-2 [7m[0m[installed][0m
+[0mextra [1mdbus [0m1.2.3-3 [7m[0m[installed][0m
+[0mextra [1mdbus-glib [0m0.76-1 [7m[0m[installed][0m
+[0mextra [1mdbus-python [0m0.83.0-2 [7m[0m[installed][0m
+[0mextra [1mdbus-qt3 [0m0.62-3
+[0mextra [1mdbus-sharp [0m0.63-1
+[0mextra [1mdcfldd [0m1.3.4.1-1
+[0mextra [1mdcraw [0m1.403-1
+[0mextra [1mddcxinfo-arch [0m0.8-1 [7m[0m[installed][0m
+[0mextra [1mddd [0m3.3.11-5
+[0mextra [1mddrescue [0m1.7-1
+[0mextra [1mdecibel [0m0.5.0-1
+[0mextra [1mdeluge [0m1.0.5-1
+[0mextra [1mdenyhosts [0m2.6-3
+[0mextra [1mdeskbar-applet [0m2.24.1-1
+[0mextra [1mdesktop-file-utils [0m0.15-1 [7m[0m[installed][0m
+[0mextra [1mdevhelp [0m0.21-1
+[0mextra [1mdevil [0m1.6.7-5
+[0mextra [1mdevilspie [0m0.22-1
+[0mextra [1mdevtools [0m0.6.3-1
+[0mextra [1mdgen-sdl [0m1.23-22
+[0mextra [1mdhcdbd [0m3.0-1 [7m[0m[installed][0m
+[0mextra [1mdhclient [0m3.0.6-2 [7m[0m[installed][0m
+[0mextra [1mdhcp [0m3.1.1-1
+[0mextra [1mdi [0m4.11-1
+[0mextra [1mdia [0m0.96.1-1
+[0mextra [1mdiffstat [0m1.46-1
+[0mextra [1mdigikam [0m0.9.4-2
+[0mextra [1mding [0m1.5-1
+[0mextra [1mdirmngr [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mdirsync [0m1.0.11-2
+[0mextra [1mdistcc [0m2.18.3-2
+[0mextra [1mdjango [0m1.0-2
+[0mextra [1mdjvulibre [0m3.5.21-1
+[0mextra [1mdmenu [0m3.9-2
+[0mextra [1mdmidecode [0m2.9-2 [7m[0m[installed][0m
+[0mextra [1mdmxproto [0m2.2.2-1 [7m[0m[installed][0m
+[0mextra [1mdnsmasq [0m2.45-1
+[0mextra [1mdocbook-xml [0m4.5-1 [7m[0m[installed][0m
+[0mextra [1mdocbook-xsl [0m1.73.2-1
+[0mextra [1mdocker [0m1.5-3
+[0mextra [1mdopewars [0m1.5.12-2
+[0mextra [1mdosbox [0m0.72-4
+[0mextra [1mdovecot [0m1.1.6-1
+[0mextra [1mdoxygen [0m1.5.7.1-1
+[0mextra [1mdri2proto [0m1.1-1
+[0mextra [1mdrscheme [0m4.1.2-1
+[0mextra [1mdssi [0m0.9.1-3
+[0mextra [1mduhdraw [0m2.8.13-2
+[0mextra [1mdvd+rw-tools [0m7.1-1
+[0mextra [1mdvdauthor [0m0.6.14-2
+[0mextra [1mdvdbackup [0m0.1.1-2
+[0mextra [1mdvdrip [0m0.98.9-1
+[0mextra [1mdvdrtools [0m0.2.1-2
+[0mextra [1mdvgrab [0m3.1-1
+[0mextra [1measytag [0m2.1.6-1
+[0mextra [1meboard [0m1.1.1-1
+[0mextra [1mebook-tools [0m0.1.1-1
+[0mextra [1mecasound [0m2.4.5-1
+[0mextra [1mecl [0m0.9l-1
+[0mextra [1meclipse [0m3.4.1-1
+[0mextra [1meclipse-cdt [0m5.0.1-1
+[0mextra [1meclipse-ecj [0m3.3.2-2
+[0mextra [1med2k-gtk-gui [0m0.6.4-2
+[0mextra [1meel [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1meigen [0m1.0.5-1
+[0mextra [1meject [0m2.1.5-3 [7m[0m[installed][0m
+[0mextra [1mekiga [0m3.0.1-1
+[0mextra [1melinks [0m0.11.5-1
+[0mextra [1memacs [0m22.3-1 [7m[0m[installed][0m
+[0mextra [1memboss [0m6.0.1-1
+[0mextra [1memelfm [0m0.9.2-3
+[0mextra [1memelfm2 [0m0.5.0-1
+[0mextra [1memovix [0m0.9.0-2
+[0mextra [1memovix-codecs [0m0.9.0rc1-1
+[0mextra [1menblend-enfuse [0m3.2-2
+[0mextra [1menchant [0m1.4.2-1 [7m[0m[installed][0m
+[0mextra [1menigma [0m1.04-2
+[0mextra [1menlightenment [0m0.16.8.14-1
+[0mextra [1menscript [0m1.6.4-3
+[0mextra [1meog [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mepdfview [0m0.1.6-11 [7m[0m[installed][0m
+[0mextra [1mepiphany [0m2.24.1-2
+[0mextra [1mepiphany-extensions [0m2.24.0-1
+[0mextra [1mepplet-base [0m0.11-1
+[0mextra [1meric [0m4.2.2a-3
+[0mextra [1meric-plugins [0m4.2.1-1
+[0mextra [1merlang [0mR12B.5-1 [7m[0m[installed][0m
+[0mextra [1mesd [0m0.2.40-1 [7m[0m[installed][0m
+[0mextra [1metherape [0m0.9.7-3
+[0mextra [1methstatus [0m0.4.2-3
+[0mextra [1methtool [0m6-1 [7m[0m[installed][0m
+[0mextra [1mettercap [0mNG_0.7.3-10
+[0mextra [1mettercap-gtk [0mNG_0.7.3-4
+[0mextra [1mevieext [0m1.0.2-1
+[0mextra [1mevilwm [0m1.0.0-1.1
+[0mextra [1mevince [0m2.24.1-2
+[0mextra [1mevms [0m2.5.5-6
+[0mextra [1mevolution [0m2.24.1.1-1
+[0mextra [1mevolution-data-server [0m2.24.1.1-1 [7m[0m[installed][0m
+[0mextra [1mevolution-exchange [0m2.24.1.1-1
+[0mextra [1mevolution-sharp [0m0.18.1-1
+[0mextra [1mevolution-webcal [0m2.24.0-1
+[0mextra [1mexempi [0m2.0.1-2 [7m[0m[installed][0m
+[0mextra [1mexim [0m4.68-5
+[0mextra [1mexiv2 [0m0.17.1-1
+[0mextra [1mexo [0m0.3.4-3 [7m[0m[installed][0m
+[0mextra [1mexpect [0m5.44.1.10-1
+[0mextra [1mexpectk [0m5.44.1.10-1
+[0mextra [1mf-spot [0m0.5.0.3-1
+[0mextra [1mfaac [0m1.26-1 [7m[0m[installed][0m
+[0mextra [1mfaad2 [0m2.6.1-1 [7m[0m[installed][0m
+[0mextra [1mfacile [0m1.1-8
+[0mextra [1mfakechroot [0m2.6-1
+[0mextra [1mfam [0m2.7.0-11 [7m[0m[installed][0m
+[0mextra [1mfast-user-switch-applet [0m2.24.0-1
+[0mextra [1mfasta [0m35.2.3-1
+[0mextra [1mfastjar [0m0.95-1
+[0mextra [1mfbida [0m2.06-1
+[0mextra [1mfbset [0m2.1-2
+[0mextra [1mfcgi [0m2.4.0-5
+[0mextra [1mfcitx [0m3.5.070703-1
+[0mextra [1mfcpci [0m31107-45
+[0mextra [1mfcpcmcia [0m31107-43
+[0mextra [1mfeh [0m1.3.4-3
+[0mextra [1mfestival [0m1.96beta-1
+[0mextra [1mfestival-awb-arctic [0m1.0-1
+[0mextra [1mfestival-don [0m1.95-1
+[0mextra [1mfestival-kallpc16k [0m1.95-2
+[0mextra [1mfestival-rablpc16k [0m1.95-1
+[0mextra [1mfetchmail [0m6.3.8-4
+[0mextra [1mffcall [0m1.10-3
+[0mextra [1mffmpeg [0m20080715-3 [7m[0m[installed][0m
+[0mextra [1mfftw [0m3.1.3-1 [7m[0m[installed][0m
+[0mextra [1mfftw2 [0m2.1.5-4
+[0mextra [1mfiglet [0m2.2.2-1
+[0mextra [1mfile-roller [0m2.24.1-1
+[0mextra [1mfilelight [0m1.0-3
+[0mextra [1mfirefox [0m3.0.3-1 [7m[0m[installed][0m
+[0mextra [1mfirefox-i18n [0m3.0.3-1
+[0mextra [1mfirestarter [0m1.0.3-7
+[0mextra [1mfixesproto [0m4.0-2 [7m[0m[installed][0m
+[0mextra [1mflac [0m1.2.1-1 [7m[0m[installed][0m
+[0mextra [1mflashplugin [0m10.0.12.36-2 [7m[0m[installed][0m
+[0mextra [1mflite [0m1.3-2
+[0mextra [1mfltk [0m1.1.9-1 [7m[0m[installed][0m
+[0mextra [1mfluidsynth [0m1.0.8-1 [7m[0m[installed][0m
+[0mextra [1mfluxbox [0m1.1.1-1
+[0mextra [1mfluxconf [0m0.9.9-1
+[0mextra [1mfluxter [0m0.1.0-3
+[0mextra [1mfont-bh-ttf [0m1.0.0-3
+[0mextra [1mfont-bitstream-speedo [0m1.0.0-4
+[0mextra [1mfont-misc-ethiopic [0m1.0.0-4
+[0mextra [1mfont-misc-meltho [0m1.0.0-4
+[0mextra [1mfontcacheproto [0m0.1.2-1 [7m[0m[installed][0m
+[0mextra [1mfontconfig [0m2.6.0-2 [7m[0m[installed][0m
+[0mextra [1mfontforge [0m20081115-1
+[0mextra [1mfontsproto [0m2.0.2-1 [7m[0m[installed][0m
+[0mextra [1mfoobillard [0m3.0a-3
+[0mextra [1mfoomatic-db [0m3.0_20081117-1
+[0mextra [1mfoomatic-db-engine [0m3.0_20081117-1
+[0mextra [1mfoomatic-db-hpijs [0m20081117-1
+[0mextra [1mfoomatic-db-ppd [0m3.0_20081117-1
+[0mextra [1mfoomatic-filters [0m3.0_20081117-1
+[0mextra [1mfortune-mod [0m1.99.1-3
+[0mextra [1mfortune-mod-bofh-excuses [0m1.2-1
+[0mextra [1mfortune-mod-bond [0m1.0-1
+[0mextra [1mfortune-mod-buffy [0m1-1
+[0mextra [1mfortune-mod-calvin [0m0.1.1-2
+[0mextra [1mfortune-mod-chalkboard [0m0-2
+[0mextra [1mfortune-mod-codehappy [0m20041003-1
+[0mextra [1mfortune-mod-discworld [0m0-2
+[0mextra [1mfortune-mod-dune-quotes [0m2.0.1-1
+[0mextra [1mfortune-mod-familyguy [0m0.2-1
+[0mextra [1mfortune-mod-fgump [0m0-2
+[0mextra [1mfortune-mod-friends [0m1.0-1
+[0mextra [1mfortune-mod-futurama [0m0.2-3
+[0mextra [1mfortune-mod-hayward [0m1.0-1
+[0mextra [1mfortune-mod-hitchhiker [0m20050611-1
+[0mextra [1mfortune-mod-homer [0m20011112-1
+[0mextra [1mfortune-mod-humorix [0m1.4-1
+[0mextra [1mfortune-mod-jargon [0m0.1.0-1
+[0mextra [1mfortune-mod-joel-on-software [0m1.0-1
+[0mextra [1mfortune-mod-kernelcookies [0m8-1
+[0mextra [1mfortune-mod-kernelnewbies [0m20060120-1
+[0mextra [1mfortune-mod-matrix [0m0.1.0-1
+[0mextra [1mfortune-mod-oneliners [0m0.1-1
+[0mextra [1mfortune-mod-osfortune [0m0-2
+[0mextra [1mfortune-mod-osho [0m1.1-1
+[0mextra [1mfortune-mod-prog-style [0m0.1.1-2
+[0mextra [1mfortune-mod-romeojuliet [0m1.0-1
+[0mextra [1mfortune-mod-scc [0m20010929-1
+[0mextra [1mfortune-mod-shlomif [0m1.0-1
+[0mextra [1mfortune-mod-shlomif-fav [0m1.0-1
+[0mextra [1mfortune-mod-smac [0m0.1-1
+[0mextra [1mfortune-mod-spblu [0m0.2-1
+[0mextra [1mfortune-mod-starwars [0m0-2
+[0mextra [1mfortune-mod-subversion [0m1.0-1
+[0mextra [1mfortune-mod-tao [0m0-2
+[0mextra [1mfortune-mod-taow [0m1.0-2
+[0mextra [1mfortune-mod-xfiles [0m0-2
+[0mextra [1mfortune-mod-zx-error [0m1.0-1
+[0mextra [1mfortunelock [0m0.1.2-2
+[0mextra [1mfox [0m1.6.34-1
+[0mextra [1mfping [0m2.4b2-2
+[0mextra [1mfprint_demo [0m0.4-1
+[0mextra [1mfreealut [0m1.1.0-2
+[0mextra [1mfreeciv [0m2.1.6-1
+[0mextra [1mfreeglut [0m2.4.0-3 [7m[0m[installed][0m
+[0mextra [1mfreenx [0m0.7.3-2
+[0mextra [1mfreepops [0m0.2.6-1
+[0mextra [1mfreetype2 [0m2.3.7-1 [7m[0m[installed][0m
+[0mextra [1mfribidi [0m0.10.9-1 [7m[0m[installed][0m
+[0mextra [1mfrozen-bubble [0m2.1.0-2
+[0mextra [1mfssos-nsvs [0m0.5-3
+[0mextra [1mfte [0m20051115-3
+[0mextra [1mftgl [0m2.1.2-3
+[0mextra [1mftjam [0m2.5.3rc2-1
+[0mextra [1mfuse [0m2.7.4-1 [7m[0m[installed][0m
+[0mextra [1mfvwm [0m2.4.20-3
+[0mextra [1mfvwm-crystal [0m3.0.6-2
+[0mextra [1mfvwm-devel [0m2.5.26-2
+[0mextra [1mfwbuilder [0m3.0.1-1
+[0mextra [1mfwlogwatch [0m1.1-1
+[0mextra [1mfyre [0m1.0.1-3
+[0mextra [1mgajim [0m0.11.4-3
+[0mextra [1mgalculator [0m1.3.1-1
+[0mextra [1mgav [0m0.9.0-1
+[0mextra [1mgc [0m7.1-1 [7m[0m[installed][0m
+[0mextra [1mgcal [0m3.01-3
+[0mextra [1mgcalctool [0m5.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgcc-gcj [0m4.3.2-1
+[0mextra [1mgcc3 [0m3.3.6-4
+[0mextra [1mgcc34 [0m3.4.6-2
+[0mextra [1mgcin [0m1.4.1-1
+[0mextra [1mgcombust [0m0.1.55-3
+[0mextra [1mgconf [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgconf-editor [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgconf-perl [0m1.044-1 [7m[0m[installed][0m
+[0mextra [1mgconfmm [0m2.24.0-1
+[0mextra [1mgd [0m2.0.35-1 [7m[0m[installed][0m
+[0mextra [1mgdb [0m6.8-3
+[0mextra [1mgdeskcal [0m1.01-1
+[0mextra [1mgdesklets [0m0.36.0-1
+[0mextra [1mgdk-pixbuf [0m0.22.0-4
+[0mextra [1mgdl [0m2.24.0-1
+[0mextra [1mgdm [0m2.20.8-2
+[0mextra [1mgdome2 [0m0.8.1-1
+[0mextra [1mgecko-sharp-2.0 [0m0.13-2
+[0mextra [1mgedit [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgeeqie [0m1.0alpha2-2
+[0mextra [1mgegl [0m0.0.20-1 [7m[0m[installed][0m
+[0mextra [1mgenius [0m1.0.3-1
+[0mextra [1mgeoip [0m1.4.4-1
+[0mextra [1mgetmail [0m4.8.3-1
+[0mextra [1mgettext-mono [0m0.17-2
+[0mextra [1mgforth [0m0.6.2-1
+[0mextra [1mgfpoken [0m0.25-1
+[0mextra [1mgftp [0m2.0.18-3
+[0mextra [1mggv [0m2.12.0-2
+[0mextra [1mggz-client-libs [0m0.0.14.1-1
+[0mextra [1mghc [0m6.8.2-2
+[0mextra [1mghex [0m2.22.0-1
+[0mextra [1mghostscript [0m8.63-3 [7m[0m[installed][0m
+[0mextra [1mgiblib [0m1.2.4-3
+[0mextra [1mgif2png [0m2.5.1-1
+[0mextra [1mgiflib [0m4.1.6-3 [7m[0m[installed][0m
+[0mextra [1mgifsicle [0m1.48-1
+[0mextra [1mgift [0m0.11.8.1-4
+[0mextra [1mgift-fasttrack [0m0.8.9-3
+[0mextra [1mgift-gnutella [0m0.0.11-1
+[0mextra [1mgift-openft [0m0.2.1.6-7
+[0mextra [1mgiftcurs [0m0.6.2-2
+[0mextra [1mgimageview [0m0.2.27-2
+[0mextra [1mgimp [0m2.6.2-2 [7m[0m[installed][0m
+[0mextra [1mgimp-dbp [0m1.1.8-1
+[0mextra [1mgimp-devel [0m2.6.2-1
+[0mextra [1mgimp-fourier [0m0.3.1-1
+[0mextra [1mgimp-gap [0m2.4.0-1
+[0mextra [1mgimp-help-2 [0m2.4.2-1
+[0mextra [1mgimp-print-lprng [0m4.2.7-2
+[0mextra [1mgimp-refocus [0m0.9.0-2
+[0mextra [1mgimp-ufraw [0m0.14.1-1
+[0mextra [1mginac [0m1.4.1-1
+[0mextra [1mgit [0m1.6.0.4-1 [7m[0m[installed][0m
+[0mextra [1mgjdoc [0m0.7.9-1
+[0mextra [1mgksu [0m2.0.0-4
+[0mextra [1mglabels [0m2.2.1-1
+[0mextra [1mglade [0m3.5.2-1
+[0mextra [1mglade-perl [0m1.006-2
+[0mextra [1mglew [0m1.5.0-1
+[0mextra [1mglhack [0m1.2-1
+[0mextra [1mglib [0m1.2.10-7
+[0mextra [1mglib-perl [0m1.182-1 [7m[0m[installed][0m
+[0mextra [1mglibmm [0m2.18.1-1 [7m[0m[installed][0m
+[0mextra [1mglproto [0m1.4.9-1 [7m[0m[installed][0m
+[0mextra [1mglsof [0m0.9.16-4
+[0mextra [1mgmencoder [0m0.1.0-1
+[0mextra [1mgmetadom [0m0.2.4-2
+[0mextra [1mgmime [0m2.2.21-1
+[0mextra [1mgmm++ [0m3.0.4-1
+[0mextra [1mgmoo [0m0.5.6-3
+[0mextra [1mgmpc [0m0.16.1-1
+[0mextra [1mgnash-common [0m0.8.4-1
+[0mextra [1mgnash-gtk [0m0.8.4-1
+[0mextra [1mgnet [0m2.0.8-1
+[0mextra [1mgnokii [0m0.6.26-1
+[0mextra [1mgnome-alsamixer [0m0.9.6-2
+[0mextra [1mgnome-applets [0m2.24.1-2 [7m[0m[installed][0m
+[0mextra [1mgnome-audio [0m2.22.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-backgrounds [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-blog [0m0.9.1-1
+[0mextra [1mgnome-bluetooth [0m0.11.0-2
+[0mextra [1mgnome-build [0m2.24.1-1
+[0mextra [1mgnome-common [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-control-center [0m2.24.0.1-3 [7m[0m[installed][0m
+[0mextra [1mgnome-desktop [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-desktop-sharp [0m2.24.0-1
+[0mextra [1mgnome-device-manager [0m0.2-1
+[0mextra [1mgnome-doc-utils [0m0.14.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-games [0m2.24.1-1
+[0mextra [1mgnome-games-extra-data [0m2.24.0-1
+[0mextra [1mgnome-icon-theme [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-keyring [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-mag [0m0.15.4-1 [7m[0m[installed][0m
+[0mextra [1mgnome-media [0m2.24.0.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-menus [0m2.24.1-3 [7m[0m[installed][0m
+[0mextra [1mgnome-mime-data [0m2.18.0-3 [7m[0m[installed][0m
+[0mextra [1mgnome-mount [0m0.8-1 [7m[0m[installed][0m
+[0mextra [1mgnome-netstatus [0m2.12.2-1 [7m[0m[installed][0m
+[0mextra [1mgnome-nettool [0m2.22.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-network-manager [0m0.6.5-1 [7m[0m[installed][0m
+[0mextra [1mgnome-panel [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-perl [0m1.042-2
+[0mextra [1mgnome-phone-manager [0m0.60-1
+[0mextra [1mgnome-pilot [0m2.0.16-1
+[0mextra [1mgnome-pilot-conduits [0m2.0.16-1
+[0mextra [1mgnome-power-manager [0m2.24.1-1
+[0mextra [1mgnome-python [0m2.22.3-3 [7m[0m[installed][0m
+[0mextra [1mgnome-python-desktop [0m2.24.0-2 [7m[0m[installed][0m
+[0mextra [1mgnome-python-extras [0m2.19.1-3 [7m[0m[installed][0m
+[0mextra [1mgnome-screensaver [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-session [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-settings-daemon [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-sharp [0m2.24.0-1
+[0mextra [1mgnome-speech [0m0.4.21-1 [7m[0m[installed][0m
+[0mextra [1mgnome-spell [0m1.0.8-1
+[0mextra [1mgnome-system-monitor [0m2.24.1-1
+[0mextra [1mgnome-terminal [0m2.24.1.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-themes [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-themes-extras [0m2.22.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-user-share [0m0.31-1
+[0mextra [1mgnome-utils [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mgnome-vfs [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome-vfs-monikers [0m2.15.3-2
+[0mextra [1mgnome-vfs-perl [0m1.081-1
+[0mextra [1mgnome-vfsmm [0m2.24.0-1
+[0mextra [1mgnome-volume-manager [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnome2-user-docs [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mgnomecanvas-perl [0m1.002-4
+[0mextra [1mgnomeicu [0m0.99.12-3
+[0mextra [1mgnotime [0m2.2.3-2
+[0mextra [1mgnu-netcat [0m0.7.1-2
+[0mextra [1mgnucash [0m2.2.7-1
+[0mextra [1mgnuchess [0m5.07-3
+[0mextra [1mgnugo [0m3.7.12-2
+[0mextra [1mgnumeric [0m1.8.3-1
+[0mextra [1mgnupg [0m1.4.9-1 [7m[0m[installed][0m
+[0mextra [1mgnupg2 [0m2.0.9-1 [7m[0m[installed][0m
+[0mextra [1mgnuplot [0m4.2.4-1
+[0mextra [1mgnupod [0m0.99.6-2
+[0mextra [1mgnutls [0m2.4.2-1 [7m[0m[installed][0m
+[0mextra [1mgob2 [0m2.0.15-1
+[0mextra [1mgocr [0m0.45-1
+[0mextra [1mgoffice [0m0.6.5-1
+[0mextra [1mgok [0m2.24.0-1
+[0mextra [1mgossip [0m0.28-2
+[0mextra [1mgozer [0m0.7-4
+[0mextra [1mgpart [0m0.1h-2
+[0mextra [1mgparted [0m0.3.9-1
+[0mextra [1mgperf [0m3.0.3-1
+[0mextra [1mgpgme [0m1.1.6-1 [7m[0m[installed][0m
+[0mextra [1mgphoto2 [0m2.4.3-1
+[0mextra [1mgqmpeg [0m0.91.1-1
+[0mextra [1mgqview [0m2.0.4-1
+[0mextra [1mgraphviz [0m2.20.3-1
+[0mextra [1mgraveman [0m0.3.12.5-4
+[0mextra [1mgrip [0m3.3.1-7
+[0mextra [1mgscanbus [0m0.7.1-2
+[0mextra [1mgsf-sharp [0m0.8.1-1
+[0mextra [1mgsfonts [0m8.11-4 [7m[0m[installed][0m
+[0mextra [1mgsl [0m1.11-1
+[0mextra [1mgstreamer0.10 [0m0.10.21-2 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-bad [0m0.10.8-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-bad-plugins [0m0.10.8-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-base [0m0.10.21-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-base-plugins [0m0.10.21-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-ffmpeg [0m0.10.5-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-good [0m0.10.10-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-good-plugins [0m0.10.10-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-pitfdll [0m0.9.1.1-2 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-python [0m0.10.13-2
+[0mextra [1mgstreamer0.10-ugly [0m0.10.9-1 [7m[0m[installed][0m
+[0mextra [1mgstreamer0.10-ugly-plugins [0m0.10.9-1 [7m[0m[installed][0m
+[0mextra [1mgthumb [0m2.10.10-1
+[0mextra [1mgtick [0m0.4.1-1
+[0mextra [1mgtk [0m1.2.10-8
+[0mextra [1mgtk-doc [0m1.10-1
+[0mextra [1mgtk-engines [0m2.16.0-1 [7m[0m[installed][0m
+[0mextra [1mgtk-qt-engine [0m1.1-1
+[0mextra [1mgtk-sharp [0m1.0.10-6
+[0mextra [1mgtk-sharp-2 [0m2.12.6-1
+[0mextra [1mgtk-smooth-engine [0m0.6.0.1-2
+[0mextra [1mgtk-theme-switch [0m1.0.1-2
+[0mextra [1mgtk-theme-switch2 [0m2.0.5-1
+[0mextra [1mgtk-vnc [0m0.3.7-2
+[0mextra [1mgtk-xfce-engine [0m2.4.3-1 [7m[0m[installed][0m
+[0mextra [1mgtk1-engines [0m0.12-2
+[0mextra [1mgtk2 [0m2.14.4-1 [7m[0m[installed][0m
+[0mextra [1mgtk2-perl [0m1.182-1
+[0mextra [1mgtk2-themes-collection [0m0.1.0-2
+[0mextra [1mgtkam [0m0.1.15-1
+[0mextra [1mgtkatlantic [0m0.4.2-1
+[0mextra [1mgtkglarea [0m1.2.3-2
+[0mextra [1mgtkglext [0m1.2.0-1
+[0mextra [1mgtkhtml [0m3.24.1.1-1 [7m[0m[installed][0m
+[0mextra [1mgtklife [0m5.1-1
+[0mextra [1mgtklp [0m1.2.6-4
+[0mextra [1mgtkmathview [0m0.7.7-1
+[0mextra [1mgtkmm [0m2.14.1-1 [7m[0m[installed][0m
+[0mextra [1mgtkpod [0m0.99.12-1
+[0mextra [1mgtksourceview [0m1.8.5-2 [7m[0m[installed][0m
+[0mextra [1mgtksourceview-sharp-2.0 [0m0.10-5
+[0mextra [1mgtksourceview2 [0m2.4.1-1 [7m[0m[installed][0m
+[0mextra [1mgtkspell [0m2.0.13-1 [7m[0m[installed][0m
+[0mextra [1mgtkterm [0m0.99.5-2
+[0mextra [1mgts [0m0.7.6-1
+[0mextra [1mgucharmap [0m2.24.1.1-1 [7m[0m[installed][0m
+[0mextra [1mguidance-power-manager [0m4.1.3-1
+[0mextra [1mguile [0m1.8.4-3
+[0mextra [1mguile-gtk [0m1.2_0.60-1
+[0mextra [1mgutenprint [0m5.2.2-1
+[0mextra [1mgv [0m3.6.5-1 [7m[0m[installed][0m
+[0mextra [1mgvfs [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mgvim [0m7.2.25-1 [7m[0m[installed][0m
+[0mextra [1mgweled [0m0.7-4
+[0mextra [1mgxine [0m0.5.903-1
+[0mextra [1mhabak [0m0.2.5-3
+[0mextra [1mhal [0m0.5.11-4 [7m[0m[installed][0m
+[0mextra [1mhal-info [0m0.20081022-1 [7m[0m[installed][0m
+[0mextra [1mhamster-applet [0m2.24.1-2
+[0mextra [1mhandbrake [0m0.9.1-6
+[0mextra [1mhappy [0m1.17-1
+[0mextra [1mhd2u [0m1.0.3-1 [7m[0m[installed][0m
+[0mextra [1mhdf5 [0m1.8.0-3
+[0mextra [1mhdup [0m2.0.14-1
+[0mextra [1mhelp2man [0m1.36.4-1
+[0mextra [1mhercules [0m3.05-1
+[0mextra [1mhexcurse [0m1.55-2
+[0mextra [1mhexedit [0m1.2.12-2
+[0mextra [1mhibernate-script [0m1.99-1
+[0mextra [1mhicolor-icon-theme [0m0.10-1 [7m[0m[installed][0m
+[0mextra [1mhmmer [0m2.3.2-2
+[0mextra [1mhost [0m20070128-1
+[0mextra [1mhping [0m2.0.0-2
+[0mextra [1mhplip [0m2.8.10-1
+[0mextra [1mhpoj [0m0.91-12
+[0mextra [1mhspell [0m1.0-2
+[0mextra [1mhsqldb-java [0m1.8.0.10-1
+[0mextra [1mhtop [0m0.8-2
+[0mextra [1mhttptunnel [0m3.3-1
+[0mextra [1mhttrack [0m3.42.2-1
+[0mextra [1mhugin [0m0.7.0-2
+[0mextra [1mhugs98 [0m200609-2
+[0mextra [1mhunspell [0m1.2.6-1 [7m[0m[installed][0m
+[0mextra [1mhwd [0m5.3.4-2 [7m[0m[installed][0m
+[0mextra [1mhydrogen [0m0.9.3-6
+[0mextra [1mhylafax [0m4.4.4-1
+[0mextra [1mi8kmon [0m1.27-1
+[0mextra [1mi8kutils [0m1.27-1
+[0mextra [1micecast [0m2.3.1-5
+[0mextra [1mices [0m2.0.1-1
+[0mextra [1micewm [0m1.2.36-1
+[0mextra [1micmake [0m6.22-1
+[0mextra [1micon-naming-utils [0m0.8.7-1 [7m[0m[installed][0m
+[0mextra [1micu [0m4.0-2 [7m[0m[installed][0m
+[0mextra [1mid3 [0m0.78-1
+[0mextra [1mid3lib [0m3.8.3-10
+[0mextra [1mid3v2 [0m0.1.11-1
+[0mextra [1mifp-line [0m0.3-1
+[0mextra [1mifplugd [0m0.28-3
+[0mextra [1milmbase [0m1.0.1-1 [7m[0m[installed][0m
+[0mextra [1mimagemagick [0m6.4.5.6-1 [7m[0m[installed][0m
+[0mextra [1mimagemagick-doc [0m6.4.5.6-1
+[0mextra [1mimake [0m1.0.2-2
+[0mextra [1mimap [0m2007a-2
+[0mextra [1mimlib [0m1.9.15-4
+[0mextra [1mimlib2 [0m1.4.1-1 [7m[0m[installed][0m
+[0mextra [1mimwheel [0m1.0.0pre12-3
+[0mextra [1mindent [0m2.2.10-2
+[0mextra [1mindilib [0m0.5-1
+[0mextra [1minkscape [0m0.46-8 [7m[0m[installed][0m
+[0mextra [1minputproto [0m1.4.4-1 [7m[0m[installed][0m
+[0mextra [1mintel-536ep [0m2.56.76.0-58
+[0mextra [1mintel-536ep-utils [0m2.56.76.0-28
+[0mextra [1mintel-537 [0m2.60.80.0-58
+[0mextra [1mintel-537-utils [0m2.60.80.0-28
+[0mextra [1mintel-dri [0m7.0.3-1 [7m[0m[installed][0m
+[0mextra [1mintltool [0m0.40.4-1 [7m[0m[installed][0m
+[0mextra [1mipcalc [0m0.41-1
+[0mextra [1miperf [0m2.0.4-1
+[0mextra [1mipod-sharp [0m0.8.1-1
+[0mextra [1miptraf [0m3.0.0-2
+[0mextra [1mipvsadm [0m1.24-1
+[0mextra [1mirda-utils [0m0.9.18-1
+[0mextra [1mirqbalance [0m0.55-3
+[0mextra [1mirssi [0m0.8.12-4
+[0mextra [1misapnptools [0m1.27-2
+[0mextra [1miso-codes [0m2.0-1 [7m[0m[installed][0m
+[0mextra [1mispell [0m3.3.02-3
+[0mextra [1mitext [0m2.0.7-1
+[0mextra [1mivtv-utils [0m1.0.3-1
+[0mextra [1mj [0m0.21.0-1
+[0mextra [1mjabberd [0m2.0s11-7
+[0mextra [1mjack-audio-connection-kit [0m0.109.2-2 [7m[0m[installed][0m
+[0mextra [1mjackbeat [0m0.6.3-1
+[0mextra [1mjade [0m1.2.1-5
+[0mextra [1mjasper [0m1.900.1-1 [7m[0m[installed][0m
+[0mextra [1mjava-access-bridge [0m1.24.0-1
+[0mextra [1mjava-gcj-compat [0m1.0.78-1
+[0mextra [1mjed [0m0.99.18-4
+[0mextra [1mjhead [0m2.82-1
+[0mextra [1mjikes [0m1.22-2
+[0mextra [1mjoe [0m3.5-4
+[0mextra [1mjohn [0m1.7.0.2-3
+[0mextra [1mjpegpixi [0m1.1.1-1
+[0mextra [1mjpilot [0m1.6.0-1
+[0mextra [1mjunit [0m4.4-1
+[0mextra [1mk3b [0m1.0.5-2
+[0mextra [1mk3b-i18n [0m1.0.5-1
+[0mextra [1mkaffeine [0m0.8.7-1
+[0mextra [1mkbproto [0m1.0.3-1 [7m[0m[installed][0m
+[0mextra [1mkcoloredit [0m2.0.0-2
+[0mextra [1mkde-l10n-bg [0m4.1.3-1
+[0mextra [1mkde-l10n-ca [0m4.1.3-1
+[0mextra [1mkde-l10n-cs [0m4.1.3-1
+[0mextra [1mkde-l10n-csb [0m4.1.3-1
+[0mextra [1mkde-l10n-da [0m4.1.3-1
+[0mextra [1mkde-l10n-de [0m4.1.3-1
+[0mextra [1mkde-l10n-el [0m4.1.3-1
+[0mextra [1mkde-l10n-en_gb [0m4.1.3-1
+[0mextra [1mkde-l10n-eo [0m4.1.3-1
+[0mextra [1mkde-l10n-es [0m4.1.3-1
+[0mextra [1mkde-l10n-et [0m4.1.3-1
+[0mextra [1mkde-l10n-fi [0m4.1.3-1
+[0mextra [1mkde-l10n-fr [0m4.1.3-1
+[0mextra [1mkde-l10n-fy [0m4.1.3-1
+[0mextra [1mkde-l10n-ga [0m4.1.3-1
+[0mextra [1mkde-l10n-gl [0m4.1.3-1
+[0mextra [1mkde-l10n-hi [0m4.1.3-1
+[0mextra [1mkde-l10n-hu [0m4.1.3-1
+[0mextra [1mkde-l10n-it [0m4.1.3-1
+[0mextra [1mkde-l10n-ja [0m4.1.3-1
+[0mextra [1mkde-l10n-kk [0m4.1.3-1
+[0mextra [1mkde-l10n-km [0m4.1.3-1
+[0mextra [1mkde-l10n-ko [0m4.1.3-1
+[0mextra [1mkde-l10n-ku [0m4.1.3-1
+[0mextra [1mkde-l10n-lt [0m4.1.3-1
+[0mextra [1mkde-l10n-lv [0m4.1.3-1
+[0mextra [1mkde-l10n-mk [0m4.1.3-1
+[0mextra [1mkde-l10n-ml [0m4.1.3-1
+[0mextra [1mkde-l10n-nb [0m4.1.3-1
+[0mextra [1mkde-l10n-nds [0m4.1.3-1
+[0mextra [1mkde-l10n-nl [0m4.1.3-1
+[0mextra [1mkde-l10n-nn [0m4.1.3-1
+[0mextra [1mkde-l10n-pa [0m4.1.3-1
+[0mextra [1mkde-l10n-pl [0m4.1.3-1
+[0mextra [1mkde-l10n-pt [0m4.1.3-1
+[0mextra [1mkde-l10n-pt_br [0m4.1.3-1
+[0mextra [1mkde-l10n-ru [0m4.1.3-1
+[0mextra [1mkde-l10n-sl [0m4.1.3-1
+[0mextra [1mkde-l10n-sr [0m4.1.3-1
+[0mextra [1mkde-l10n-sv [0m4.1.3-1
+[0mextra [1mkde-l10n-ta [0m4.1.3-1
+[0mextra [1mkde-l10n-th [0m4.1.3-1
+[0mextra [1mkde-l10n-tr [0m4.1.3-1
+[0mextra [1mkde-l10n-uk [0m4.1.3-1
+[0mextra [1mkde-l10n-wa [0m4.1.3-1
+[0mextra [1mkde-l10n-zh_cn [0m4.1.3-1
+[0mextra [1mkde-l10n-zh_tw [0m4.1.3-1
+[0mextra [1mkdeaccessibility [0m4.1.3-1
+[0mextra [1mkdeadmin [0m4.1.3-1
+[0mextra [1mkdeartwork [0m4.1.3-1
+[0mextra [1mkdebase [0m4.1.3-1
+[0mextra [1mkdebase-runtime [0m4.1.3-1
+[0mextra [1mkdebase-workspace [0m4.1.3-1
+[0mextra [1mkdebindings [0m4.1.3-1
+[0mextra [1mkdebluetooth [0m4.0.2-1
+[0mextra [1mkdeedu [0m4.1.3-1
+[0mextra [1mkdegames [0m4.1.3-1
+[0mextra [1mkdegraphics [0m4.1.3-2
+[0mextra [1mkdelibs [0m4.1.3-1
+[0mextra [1mkdelibs3 [0m3.5.10-1 [7m[0m[installed][0m
+[0mextra [1mkdemultimedia [0m4.1.3-1
+[0mextra [1mkdenetwork [0m4.1.3-1
+[0mextra [1mkdepim [0m4.1.3-2
+[0mextra [1mkdepimlibs [0m4.1.3-1
+[0mextra [1mkdeplasma-addons [0m4.1.3-1
+[0mextra [1mkdesdk [0m4.1.3-1
+[0mextra [1mkdetoys [0m4.1.3-1
+[0mextra [1mkdetv [0m0.8.9-2
+[0mextra [1mkdeutils [0m4.1.3-1
+[0mextra [1mkdevelop [0m3.5.2-4
+[0mextra [1mkdewebdev [0m4.1.3-1
+[0mextra [1mkexec-tools [0m1.101-7
+[0mextra [1mkeychain [0m2.6.8-2
+[0mextra [1mkeytouch [0m2.4.1-1
+[0mextra [1mkeytouch-editor [0m3.1.3-1
+[0mextra [1mkfax [0m3.3.6-2
+[0mextra [1mkgrab [0m0.1.1-2
+[0mextra [1mkgraphviewer [0m2.0.2-2
+[0mextra [1mkiconedit [0m4.1.3-1
+[0mextra [1mkile [0m2.0.2-2
+[0mextra [1mkino [0m1.3.2-1
+[0mextra [1mkio_gopher [0m0.1.2-2
+[0mextra [1mkipi-plugins [0m0.1.5-2
+[0mextra [1mkismet [0m2008_05_R1-1
+[0mextra [1mkmldonkey [0m2.0.2-2
+[0mextra [1mkmobiletools [0m0.5.0beta3-2
+[0mextra [1mkmplayer [0m0.11.0-2
+[0mextra [1mkmyfirewall [0m1.1.1-1
+[0mextra [1mknetload [0m2.3-4
+[0mextra [1mknockd [0m0.5-5
+[0mextra [1mkobodeluxe [0m0.5.1-1
+[0mextra [1mkoffice [0m1.6.3-6
+[0mextra [1mkoffice-doc [0m1.6.3-2
+[0mextra [1mkoffice-l10n-bg [0m1.6.3-2
+[0mextra [1mkoffice-l10n-ca [0m1.6.3-2
+[0mextra [1mkoffice-l10n-cs [0m1.6.3-2
+[0mextra [1mkoffice-l10n-cy [0m1.6.3-2
+[0mextra [1mkoffice-l10n-da [0m1.6.3-2
+[0mextra [1mkoffice-l10n-de [0m1.6.3-2
+[0mextra [1mkoffice-l10n-el [0m1.6.3-2
+[0mextra [1mkoffice-l10n-en_gb [0m1.6.3-2
+[0mextra [1mkoffice-l10n-es [0m1.6.3-2
+[0mextra [1mkoffice-l10n-et [0m1.6.3-2
+[0mextra [1mkoffice-l10n-eu [0m1.6.3-2
+[0mextra [1mkoffice-l10n-fa [0m1.6.3-2
+[0mextra [1mkoffice-l10n-fi [0m1.6.3-2
+[0mextra [1mkoffice-l10n-fr [0m1.6.3-2
+[0mextra [1mkoffice-l10n-ga [0m1.6.3-2
+[0mextra [1mkoffice-l10n-gl [0m1.6.3-2
+[0mextra [1mkoffice-l10n-hu [0m1.6.3-2
+[0mextra [1mkoffice-l10n-it [0m1.6.3-2
+[0mextra [1mkoffice-l10n-ja [0m1.6.3-2
+[0mextra [1mkoffice-l10n-lv [0m1.6.3-2
+[0mextra [1mkoffice-l10n-ms [0m1.6.3-2
+[0mextra [1mkoffice-l10n-nb [0m1.6.3-2
+[0mextra [1mkoffice-l10n-nds [0m1.6.3-2
+[0mextra [1mkoffice-l10n-ne [0m1.6.3-2
+[0mextra [1mkoffice-l10n-nl [0m1.6.3-2
+[0mextra [1mkoffice-l10n-pl [0m1.6.3-2
+[0mextra [1mkoffice-l10n-pt [0m1.6.3-2
+[0mextra [1mkoffice-l10n-pt_br [0m1.6.3-2
+[0mextra [1mkoffice-l10n-ru [0m1.6.3-2
+[0mextra [1mkoffice-l10n-sk [0m1.6.3-2
+[0mextra [1mkoffice-l10n-sl [0m1.6.3-2
+[0mextra [1mkoffice-l10n-sr [0m1.6.3-2
+[0mextra [1mkoffice-l10n-sv [0m1.6.3-2
+[0mextra [1mkoffice-l10n-tr [0m1.6.3-2
+[0mextra [1mkoffice-l10n-uk [0m1.6.3-2
+[0mextra [1mkoffice-l10n-zh_cn [0m1.6.3-2
+[0mextra [1mkoffice-l10n-zh_tw [0m1.6.3-2
+[0mextra [1mkonq-plugins [0m4.1.3-1
+[0mextra [1mkonversation [0m1.0.1-2
+[0mextra [1mkopete-cryptography [0m1.3.0-2
+[0mextra [1mkpovmodeler [0m1.1.3-2
+[0mextra [1mkqemu [0m1.3.0pre11-24
+[0mextra [1mkrusader [0m1.90.0-1
+[0mextra [1mksensors [0m0.7.3-4
+[0mextra [1mkshutdown [0m2.0beta1-1
+[0mextra [1mksymoops [0m2.4.11-1
+[0mextra [1mktorrent [0m3.1.4-1
+[0mextra [1mlablgtk [0m1.2.7-6
+[0mextra [1mlablgtk2 [0m2.10.1-1
+[0mextra [1mlabplot [0m1.6.0.2-1
+[0mextra [1mladspa [0m1.13-2 [7m[0m[installed][0m
+[0mextra [1mlame [0m3.98.2-1 [7m[0m[installed][0m
+[0mextra [1mlancelot [0m1.0.3-1
+[0mextra [1mlapack [0m3.1.1-4
+[0mextra [1mlaptop-mode-tools [0m1.42-1 [7m[0m[installed][0m
+[0mextra [1mlatex2html [0m2002.2.1-1
+[0mextra [1mlatex2rtf [0m1.9.19-1
+[0mextra [1mlbreakout2 [0m2.6beta_7-1
+[0mextra [1mlcab [0m1.0b12-1
+[0mextra [1mlcms [0m1.17-2 [7m[0m[installed][0m
+[0mextra [1mlde [0m2.6.1-3
+[0mextra [1mleafpad [0m0.8.15-1
+[0mextra [1mlesstif [0m0.95.0-2 [7m[0m[installed][0m
+[0mextra [1mlesstifextensions [0m9.0.9-3
+[0mextra [1mlexter [0m1.0.3-2
+[0mextra [1mlft [0m3.0-3
+[0mextra [1mlftp [0m3.7.6-1
+[0mextra [1mlha [0m1.17-2
+[0mextra [1mlibao [0m0.8.8-2 [7m[0m[installed][0m
+[0mextra [1mlibart-lgpl [0m2.3.20-1 [7m[0m[installed][0m
+[0mextra [1mlibassuan [0m1.0.5-1 [7m[0m[installed][0m
+[0mextra [1mlibavc1394 [0m0.5.3-1 [7m[0m[installed][0m
+[0mextra [1mlibbeagle [0m0.3.5.1-1 [7m[0m[installed][0m
+[0mextra [1mlibbonobo [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mlibbonoboui [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mlibbtctl [0m0.10.0-1.1
+[0mextra [1mlibcaca [0m0.9-2
+[0mextra [1mlibcanberra [0m0.10-1 [7m[0m[installed][0m
+[0mextra [1mlibcap [0m1.10-2 [7m[0m[installed][0m
+[0mextra [1mlibcapsinetwork [0m0.3.0-1
+[0mextra [1mlibcaptury [0m158-1
+[0mextra [1mlibcdaudio [0m0.99.12-3 [7m[0m[installed][0m
+[0mextra [1mlibcddb [0m1.3.0-3 [7m[0m[installed][0m
+[0mextra [1mlibcdio [0m0.80-3 [7m[0m[installed][0m
+[0mextra [1mlibchewing [0m0.3.0-1
+[0mextra [1mlibcroco [0m0.6.1-1 [7m[0m[installed][0m
+[0mextra [1mlibcups [0m1.3.9-1 [7m[0m[installed][0m
+[0mextra [1mlibdaemon [0m0.13-1 [7m[0m[installed][0m
+[0mextra [1mlibdatrie [0m0.1.2-1 [7m[0m[installed][0m
+[0mextra [1mlibdc1394 [0m2.0.1-1 [7m[0m[installed][0m
+[0mextra [1mlibdca [0m0.0.5-1 [7m[0m[installed][0m
+[0mextra [1mlibdjvu [0m3.5.21-1
+[0mextra [1mlibdmx [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mlibdrm [0m2.3.1-1 [7m[0m[installed][0m
+[0mextra [1mlibdv [0m1.0.0-1 [7m[0m[installed][0m
+[0mextra [1mlibdvbpsi [0m0.1.6-3 [7m[0m[installed][0m
+[0mextra [1mlibdvdcss [0m1.2.10-1
+[0mextra [1mlibdvdnav [0m0.1.10-3 [7m[0m[installed][0m
+[0mextra [1mlibdvdread [0m0.9.7-1 [7m[0m[installed][0m
+[0mextra [1mlibebml [0m0.7.8-1 [7m[0m[installed][0m
+[0mextra [1mlibedit [0m20080712_2.11-2
+[0mextra [1mlibepc [0m0.3.8-1
+[0mextra [1mlibetpan [0m0.57-1
+[0mextra [1mlibexif [0m0.6.16-1 [7m[0m[installed][0m
+[0mextra [1mlibexif-gtk [0m0.3.5-8
+[0mextra [1mlibextractor [0m0.5.20-1
+[0mextra [1mlibffi [0m4.2.0-1
+[0mextra [1mlibflashsupport [0m9.0.21.78-4
+[0mextra [1mlibfontenc [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibfprint [0m0.0.6-2
+[0mextra [1mlibfs [0m1.0.1-1
+[0mextra [1mlibfwbuilder [0m3.0.1-1
+[0mextra [1mlibgail-gnome [0m1.20.0-2 [7m[0m[installed][0m
+[0mextra [1mlibgda [0m1.2.4-4
+[0mextra [1mlibgdiplus [0m2.0-1
+[0mextra [1mlibggz [0m0.0.14.1-1
+[0mextra [1mlibgksu [0m2.0.7-1
+[0mextra [1mlibgl [0m7.0.3-2 [7m[0m[installed][0m
+[0mextra [1mlibglade [0m2.6.3-1 [7m[0m[installed][0m
+[0mextra [1mlibglademm [0m2.6.7-1
+[0mextra [1mlibgnome [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mlibgnomecanvas [0m2.20.1.1-2 [7m[0m[installed][0m
+[0mextra [1mlibgnomecanvasmm [0m2.23.1-1
+[0mextra [1mlibgnomecups [0m0.2.3-3 [7m[0m[installed][0m
+[0mextra [1mlibgnomedb [0m1.2.2-6
+[0mextra [1mlibgnomekbd [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mlibgnomemm [0m2.24.0-1
+[0mextra [1mlibgnomeprint [0m2.18.3-3 [7m[0m[installed][0m
+[0mextra [1mlibgnomeprintui [0m2.18.2-1 [7m[0m[installed][0m
+[0mextra [1mlibgnomeui [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mlibgnomeuimm [0m2.24.0-1
+[0mextra [1mlibgphoto2 [0m2.4.3-1 [7m[0m[installed][0m
+[0mextra [1mlibgpod [0m0.6.0-3 [7m[0m[installed][0m
+[0mextra [1mlibgsf [0m1.14.8-1 [7m[0m[installed][0m
+[0mextra [1mlibgsf-gnome [0m1.14.8-1
+[0mextra [1mlibgtkhtml [0m2.11.1-2
+[0mextra [1mlibgtop [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mlibgweather [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mlibhangul [0m0.0.7-1
+[0mextra [1mlibical [0m0.41-1
+[0mextra [1mlibice [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibid3tag [0m0.15.1b-2 [7m[0m[installed][0m
+[0mextra [1mlibidl2 [0m0.8.11-1 [7m[0m[installed][0m
+[0mextra [1mlibidn [0m1.0-1 [7m[0m[installed][0m
+[0mextra [1mlibiec61883 [0m1.1.0-1 [7m[0m[installed][0m
+[0mextra [1mlibieee1284 [0m0.2.11-2
+[0mextra [1mlibifp [0m1.0.0.2-1
+[0mextra [1mlibixp [0m0.4-1
+[0mextra [1mlibjpeg [0m6b-5 [7m[0m[installed][0m
+[0mextra [1mlibkdcraw [0m0.1.4-2
+[0mextra [1mlibkexiv2 [0m0.1.7-2
+[0mextra [1mlibkipi [0m0.1.6-2
+[0mextra [1mlibksba [0m1.0.3-1 [7m[0m[installed][0m
+[0mextra [1mliblo [0m0.23-1
+[0mextra [1mliblrdf [0m0.4.0-5
+[0mextra [1mlibmad [0m0.15.1b-2 [7m[0m[installed][0m
+[0mextra [1mlibmal [0m0.44-1
+[0mextra [1mlibmath++ [0m0.0.4-2
+[0mextra [1mlibmatroska [0m0.8.1-1 [7m[0m[installed][0m
+[0mextra [1mlibmcrypt [0m2.5.8-1
+[0mextra [1mlibmcs [0m0.7.1-1
+[0mextra [1mlibmemcache [0m1.4.0.rc2-1
+[0mextra [1mlibmikmod [0m3.1.12-1
+[0mextra [1mlibmms [0m0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibmng [0m1.0.10-1 [7m[0m[installed][0m
+[0mextra [1mlibmodplug [0m0.8.4-1 [7m[0m[installed][0m
+[0mextra [1mlibmowgli [0m0.7.0-1
+[0mextra [1mlibmp4v2 [0m1.6-1 [7m[0m[installed][0m
+[0mextra [1mlibmpcdec [0m1.2.6-1 [7m[0m[installed][0m
+[0mextra [1mlibmpd [0m0.16.1-1
+[0mextra [1mlibmpeg2 [0m0.5.1-1 [7m[0m[installed][0m
+[0mextra [1mlibmtp [0m0.2.6.1-1
+[0mextra [1mlibmusepack [0m1.1-2
+[0mextra [1mlibmysqlclient [0m5.0.68-1 [7m[0m[installed][0m
+[0mextra [1mlibnasl [0m2.2.9-1
+[0mextra [1mlibnet [0m1.1.2.1-1
+[0mextra [1mlibnetworkmanager [0m0.6.6-1 [7m[0m[installed][0m
+[0mextra [1mlibnids [0m1.22-2
+[0mextra [1mlibnjb [0m2.2.5-4
+[0mextra [1mlibnl [0m1.1-1 [7m[0m[installed][0m
+[0mextra [1mlibnotify [0m0.4.4-2 [7m[0m[installed][0m
+[0mextra [1mlibnova [0m0.12.2-1
+[0mextra [1mlibofa [0m0.9.3-1 [7m[0m[installed][0m
+[0mextra [1mlibogg [0m1.1.3-1 [7m[0m[installed][0m
+[0mextra [1mliboil [0m0.3.15-1 [7m[0m[installed][0m
+[0mextra [1mliborigin [0m20080225-1
+[0mextra [1mlibotr [0m3.2.0-1
+[0mextra [1mlibots [0m0.4.2-1
+[0mextra [1mlibpano12 [0m2.8.6-1
+[0mextra [1mlibpano13 [0m2.9.12-1
+[0mextra [1mlibpciaccess [0m0.10.5-1
+[0mextra [1mlibpng [0m1.2.33-1 [7m[0m[installed][0m
+[0mextra [1mlibpqxx [0m2.6.9-1
+[0mextra [1mlibqalculate [0m0.9.6-4
+[0mextra [1mlibraw1394 [0m1.3.0-2 [7m[0m[installed][0m
+[0mextra [1mlibrep [0m0.17.1-2
+[0mextra [1mlibrsvg [0m2.22.3-1 [7m[0m[installed][0m
+[0mextra [1mlibsamplerate [0m0.1.4-1
+[0mextra [1mlibsexy [0m0.1.11-1 [7m[0m[installed][0m
+[0mextra [1mlibsexymm [0m0.1.9-1
+[0mextra [1mlibshout [0m2.2.2-2 [7m[0m[installed][0m
+[0mextra [1mlibsidplay [0m1.36.59-2 [7m[0m[installed][0m
+[0mextra [1mlibsigc++2.0 [0m2.2.3-1 [7m[0m[installed][0m
+[0mextra [1mlibsigsegv [0m2.4-1
+[0mextra [1mlibsm [0m1.1.0-1 [7m[0m[installed][0m
+[0mextra [1mlibsmbios [0m2.0.2-1 [7m[0m[installed][0m
+[0mextra [1mlibsndfile [0m1.0.17-2 [7m[0m[installed][0m
+[0mextra [1mlibsoup [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mlibspectre [0m0.2.0-1
+[0mextra [1mlibstdc++5 [0m3.3.6-2 [7m[0m[installed][0m
+[0mextra [1mlibstroke [0m0.5.1-2
+[0mextra [1mlibtar [0m1.2.11-3
+[0mextra [1mlibtasn1 [0m1.5-2 [7m[0m[installed][0m
+[0mextra [1mlibthai [0m0.1.9-1 [7m[0m[installed][0m
+[0mextra [1mlibtheora [0m1.0-1 [7m[0m[installed][0m
+[0mextra [1mlibticables [0m1.2.0-1
+[0mextra [1mlibticalcs [0m1.1.0-1
+[0mextra [1mlibticonv [0m1.1.0-1
+[0mextra [1mlibtiff [0m3.8.2-4 [7m[0m[installed][0m
+[0mextra [1mlibtifiles [0m1.1.0-1
+[0mextra [1mlibtracker [0m0.6.6-1 [7m[0m[installed][0m
+[0mextra [1mlibv4l [0m0.5.3-1 [7m[0m[installed][0m
+[0mextra [1mlibvisual [0m0.4.0-1 [7m[0m[installed][0m
+[0mextra [1mlibvisual-bmp [0m0.2.0-2
+[0mextra [1mlibvisual-plugins [0m0.4.0-2 [7m[0m[installed][0m
+[0mextra [1mlibvisual-projectm [0m0.99-1
+[0mextra [1mlibvncserver [0m0.9.1-1
+[0mextra [1mlibvorbis [0m1.2.0-1 [7m[0m[installed][0m
+[0mextra [1mlibwebkit [0m1.0.1-1
+[0mextra [1mlibwmf [0m0.2.8.4-4 [7m[0m[installed][0m
+[0mextra [1mlibwnck [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mlibwpd [0m0.8.14-1 [7m[0m[installed][0m
+[0mextra [1mlibx11 [0m1.1.5-2 [7m[0m[installed][0m
+[0mextra [1mlibx86 [0m1.1-1 [7m[0m[installed][0m
+[0mextra [1mlibxau [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibxaw [0m1.0.5-1 [7m[0m[installed][0m
+[0mextra [1mlibxcb [0m1.1.90.1-1 [7m[0m[installed][0m
+[0mextra [1mlibxcomposite [0m0.4.0-1 [7m[0m[installed][0m
+[0mextra [1mlibxcursor [0m1.1.9-1 [7m[0m[installed][0m
+[0mextra [1mlibxdamage [0m1.1.1-1 [7m[0m[installed][0m
+[0mextra [1mlibxdmcp [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mlibxevie [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mlibxext [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibxfce4mcs [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxfce4util [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxfcegui4 [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxfixes [0m4.0.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxfont [0m1.3.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxfontcache [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibxft [0m2.1.13-1 [7m[0m[installed][0m
+[0mextra [1mlibxi [0m1.1.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxinerama [0m1.0.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxkbfile [0m1.0.5-1 [7m[0m[installed][0m
+[0mextra [1mlibxkbui [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mlibxklavier [0m3.7-1 [7m[0m[installed][0m
+[0mextra [1mlibxmi [0m1.2-1
+[0mextra [1mlibxml++ [0m1.0.5-1
+[0mextra [1mlibxml++2 [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mlibxml2 [0m2.6.32-5 [7m[0m[installed][0m
+[0mextra [1mlibxmu [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibxp [0m1.0.0-2 [7m[0m[installed][0m
+[0mextra [1mlibxpm [0m3.5.7-1 [7m[0m[installed][0m
+[0mextra [1mlibxrandr [0m1.2.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxrender [0m0.9.4-1 [7m[0m[installed][0m
+[0mextra [1mlibxres [0m1.0.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxslt [0m1.1.24-1 [7m[0m[installed][0m
+[0mextra [1mlibxss [0m1.1.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxt [0m1.0.5-1 [7m[0m[installed][0m
+[0mextra [1mlibxtrap [0m1.0.0-2 [7m[0m[installed][0m
+[0mextra [1mlibxtst [0m1.0.3-1 [7m[0m[installed][0m
+[0mextra [1mlibxv [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibxvmc [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mlibxxf86dga [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mlibxxf86misc [0m1.0.1-1 [7m[0m[installed][0m
+[0mextra [1mlibxxf86vm [0m1.0.2-1 [7m[0m[installed][0m
+[0mextra [1mlibzip [0m0.9-1
+[0mextra [1mlibzrtpcpp [0m0.9.0-3
+[0mextra [1mlibzvt [0m2.0.1-5
+[0mextra [1mlicq [0m1.3.6-1
+[0mextra [1mliferea [0m1.4.22d-1 [7m[0m[installed][0m
+[0mextra [1mlighttpd [0m1.4.20-2
+[0mextra [1mlincity [0m1.12.1-2
+[0mextra [1mlink-grammar [0m4.2.4-1
+[0mextra [1mlinux_logo [0m5.03-1
+[0mextra [1mlinuxdcpp [0m1.0.1-1
+[0mextra [1mliquidwar [0m5.6.4-1
+[0mextra [1mlirc [0m0.8.3-3
+[0mextra [1mlirc-utils [0m0.8.3-1 [7m[0m[installed][0m
+[0mextra [1mlive-media [0m2008.09.02-1
+[0mextra [1mlm_sensors [0m3.0.2-2
+[0mextra [1mloudmouth [0m1.4.1-1
+[0mextra [1mlsdvd [0m0.16-3
+[0mextra [1mlshwd [0m1.1.3-5
+[0mextra [1mlsof [0m4.80-1
+[0mextra [1mltrace [0m0.3.36-1
+[0mextra [1mlua [0m5.1.4-2 [7m[0m[installed][0m
+[0mextra [1mluola [0m1.3.0-2
+[0mextra [1mlxsplit [0m0.2.2-1
+[0mextra [1mlynx [0m2.8.6-2
+[0mextra [1mlyx [0m1.6.0-1
+[0mextra [1mlzma-utils [0m4.32.7-1 [7m[0m[installed][0m
+[0mextra [1mlzo [0m1.08-4
+[0mextra [1mlzop [0m1.02rc1-3
+[0mextra [1mm17n-db [0m1.3.4-1
+[0mextra [1mm17n-lib [0m1.3.4-1
+[0mextra [1mmaelstrom [0m3.0.6-2
+[0mextra [1mmage [0m6.44.060606-1
+[0mextra [1mmagicpoint [0m1.13a-1
+[0mextra [1mmahjong [0m1.8-1
+[0mextra [1mmail-notification [0m5.4-1
+[0mextra [1mmailman [0m2.1.10-3
+[0mextra [1mmakepasswd [0m1.10-2
+[0mextra [1mmanedit [0m1.1.1-1
+[0mextra [1mmartian [0m20080625-2
+[0mextra [1mmartian-utils [0m20080625-1
+[0mextra [1mmaxima [0m5.16.3-2
+[0mextra [1mmbrowse [0m0.3.1-2
+[0mextra [1mmc [0m4.6.1-5
+[0mextra [1mmcpp [0m2.6.4-2 [7m[0m[installed][0m
+[0mextra [1mmcrypt [0m2.6.5-1
+[0mextra [1mmeld [0m1.2-2
+[0mextra [1mmemprof [0m0.6-3
+[0mextra [1mmemtest86+ [0m2.01-1
+[0mextra [1mmercurial [0m1.0.2-2
+[0mextra [1mmesa [0m7.0.3-3 [7m[0m[installed][0m
+[0mextra [1mmetacity [0m2.24.0-1 [7m[0m[installed][0m
+[0mextra [1mmetalog [0m0.8-1
+[0mextra [1mmhash [0m0.9.9-1
+[0mextra [1mmicrocode_ctl [0m1.17.20080910-1
+[0mextra [1mmidori [0m0.1.0-1
+[0mextra [1mmime-types [0m1.0-1 [7m[0m[installed][0m
+[0mextra [1mminicom [0m2.3-2
+[0mextra [1mmirage [0m0.9.3-2
+[0mextra [1mmiro [0m1.2.8-2
+[0mextra [1mmjpegtools [0m1.8.0-3 [7m[0m[installed][0m
+[0mextra [1mmkbootcd [0m2008.09-1
+[0mextra [1mmkinitrd [0m1.01-31
+[0mextra [1mmkpxelinux [0m2008.03-1
+[0mextra [1mmksyslinux [0m2008.09-1
+[0mextra [1mmkvtoolnix [0m2.4.0-1
+[0mextra [1mmlterm [0m2.9.4-1
+[0mextra [1mmoc [0m2.4.3-4
+[0mextra [1mmod_hosts_access [0m1.1.0-3
+[0mextra [1mmod_mono [0m2.0-1
+[0mextra [1mmod_perl [0m2.0.4-3
+[0mextra [1mmod_python [0m3.3.1-5
+[0mextra [1mmonica [0m3.7-1
+[0mextra [1mmono [0m2.0.1-1
+[0mextra [1mmono-addins [0m0.4-1
+[0mextra [1mmono-basic [0m2.0-1
+[0mextra [1mmono-debugger [0m2.0-1
+[0mextra [1mmono-tools [0m2.0-1
+[0mextra [1mmono-zeroconf [0m0.8.0-1
+[0mextra [1mmonodoc [0m2.0-1
+[0mextra [1mmonotone [0m0.41-2
+[0mextra [1mmoon-buggy [0m1.0-2
+[0mextra [1mmoon-lander [0m1.0-3
+[0mextra [1mmost [0m5.0.0a-1
+[0mextra [1mmotion [0m3.2.10.1-4
+[0mextra [1mmousepad [0m0.2.14-1 [7m[0m[installed][0m
+[0mextra [1mmousetweaks [0m2.24.1-1
+[0mextra [1mmozilla-common [0m1.2-1 [7m[0m[installed][0m
+[0mextra [1mmp32ogg [0m0.11-3
+[0mextra [1mmp3blaster [0m3.2.3-4
+[0mextra [1mmp3splt [0m2.1c-2
+[0mextra [1mmp3wrap [0m0.5-1
+[0mextra [1mmpage [0m2.5.4-2
+[0mextra [1mmpc [0m0.12.1-3
+[0mextra [1mmpck [0m0.17-1
+[0mextra [1mmpd [0m0.13.2-1
+[0mextra [1mmpg123 [0m1.6.1-1
+[0mextra [1mmplayer [0m1.0rc2-7
+[0mextra [1mmplayer-plugin [0m3.55-1
+[0mextra [1mmplayer-skins [0m0.2-1
+[0mextra [1mmrtg [0m2.16.2-1
+[0mextra [1mmrxvt [0m0.5.3-1
+[0mextra [1mms-sys [0m2.1.2-1
+[0mextra [1mmsmtp [0m1.4.16-2
+[0mextra [1mmt-st [0m1.1-1
+[0mextra [1mmtools [0m3.9.11-1
+[0mextra [1mmtr [0m0.72-2
+[0mextra [1mmtx [0m1.3.11-1
+[0mextra [1mmuine [0m0.8.10-1
+[0mextra [1mmultitail [0m5.2.2-2 [7m[0m[installed][0m
+[0mextra [1mmuparser [0m1.30-1
+[0mextra [1mmuscle [0m3.70-1
+[0mextra [1mmuse [0m0.8.1-2
+[0mextra [1mmusicbrainz [0m2.1.5-1 [7m[0m[installed][0m
+[0mextra [1mmutagen [0m1.14-2 [7m[0m[installed][0m
+[0mextra [1mmutt [0m1.5.18-1
+[0mextra [1mmyodbc [0m3.51.26-1
+[0mextra [1mmysql [0m5.0.68-1 [7m[0m[installed][0m
+[0mextra [1mmysql-clients [0m5.0.68-1 [7m[0m[installed][0m
+[0mextra [1mmysql-python [0m1.2.2-2
+[0mextra [1mmytharchive [0m0.21-1
+[0mextra [1mmythbrowser [0m0.21-2
+[0mextra [1mmythcontrols [0m0.21-1
+[0mextra [1mmythflix [0m0.21-1
+[0mextra [1mmythgallery [0m0.21-1
+[0mextra [1mmythgame [0m0.21-1
+[0mextra [1mmythmusic [0m0.21-2
+[0mextra [1mmythnews [0m0.21-1
+[0mextra [1mmythphone [0m0.21-1
+[0mextra [1mmyththemes [0m0.21-1
+[0mextra [1mmythtv [0m0.21-1
+[0mextra [1mmythvideo [0m0.21-2
+[0mextra [1mmythweather [0m0.21-1
+[0mextra [1mmythweb [0m0.21-1
+[0mextra [1mnagios-nrpe [0m2.11-1
+[0mextra [1mnaim [0m0.11.8.3.1-2
+[0mextra [1mnamcap [0m2.2-1
+[0mextra [1mnant [0m0.85-1
+[0mextra [1mnasm [0m2.05.01-1
+[0mextra [1mnautilus [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mnautilus-cd-burner [0m2.24.0-1
+[0mextra [1mnautilus-sendto [0m1.1.0-1
+[0mextra [1mnbsmtp [0m1.00-1
+[0mextra [1mncftp [0m3.2.1-2
+[0mextra [1mncmpc [0m0.11.1-5
+[0mextra [1mndesk-dbus [0m0.6.0-1
+[0mextra [1mndesk-dbus-glib [0m0.4.1-1
+[0mextra [1mne [0m1.41-2
+[0mextra [1mnedit [0m5.5-4
+[0mextra [1mneon [0m0.28.3-1 [7m[0m[installed][0m
+[0mextra [1mnessus-core [0m2.2.9-1
+[0mextra [1mnessus-libraries [0m2.2.9-1
+[0mextra [1mnessus-plugins [0m2.2.9-1
+[0mextra [1mnet-snmp [0m5.4.2.1-1
+[0mextra [1mnetcdf [0m3.6.2-2
+[0mextra [1mnethack [0m3.4.3-3
+[0mextra [1mnetkit-bsd-finger [0m0.17-3 [7m[0m[installed][0m
+[0mextra [1mnetkit-ftp [0m0.17-6
+[0mextra [1mnetkit-rsh [0m0.17-2
+[0mextra [1mnetkit-tftp [0m0.17-3
+[0mextra [1mnetpbm [0m10.35-608
+[0mextra [1mnetris [0m0.52-2
+[0mextra [1mnetselect [0m0.3-1
+[0mextra [1mnetspeed-applet [0m0.15.2-1
+[0mextra [1mnetworkmanager [0m0.6.6-1 [7m[0m[installed][0m
+[0mextra [1mneverball [0m1.4.0-4
+[0mextra [1mnforce-utils [0m1.0.0310-1
+[0mextra [1mngrep [0m1.45-4
+[0mextra [1mnhc98 [0m1.18-1
+[0mextra [1mnicotine [0m1.2.9-1
+[0mextra [1mnip2 [0m7.14.1-2
+[0mextra [1mnitrogen [0m1.4-1
+[0mextra [1mnjb-sharp [0m0.3.0-1
+[0mextra [1mnmap [0m4.76-2 [7m[0m[installed][0m
+[0mextra [1mnormalize [0m0.7.7-3
+[0mextra [1mnotification-daemon [0m0.3.7-3 [7m[0m[installed][0m
+[0mextra [1mnotification-daemon-xfce [0m0.3.7-2
+[0mextra [1mnph [0m1.2.3-2
+[0mextra [1mnppangband [0m0.4.1-2
+[0mextra [1mnspr [0m4.7.3-1 [7m[0m[installed][0m
+[0mextra [1mnss [0m3.12-1 [7m[0m[installed][0m
+[0mextra [1mnss-mdns [0m0.10-1
+[0mextra [1mnss_ldap [0m257-2
+[0mextra [1mntfs-3g [0m1.5012-1
+[0mextra [1mntfsprogs [0m2.0.0-2
+[0mextra [1mntop [0m3.3.8-1
+[0mextra [1mntp [0m4.2.4p5-1
+[0mextra [1mnumlockx [0m1.1-4
+[0mextra [1mnuvexport [0m20080311-2
+[0mextra [1mnvclock [0m0.8b3-2
+[0mextra [1mnvidia [0m177.80-2
+[0mextra [1mnvidia-173xx [0m173.14.12-2
+[0mextra [1mnvidia-173xx-utils [0m173.14.12-1
+[0mextra [1mnvidia-71xx [0m71.86.06-3
+[0mextra [1mnvidia-71xx-utils [0m71.86.06-1
+[0mextra [1mnvidia-96xx [0m96.43.07-6
+[0mextra [1mnvidia-96xx-utils [0m96.43.07-1
+[0mextra [1mnvidia-utils [0m177.80-1
+[0mextra [1mnx-common [0m3.2.0-1
+[0mextra [1mnxclient [0m3.2.0.13-2
+[0mextra [1mnxserver [0m3.2.0-1
+[0mextra [1mobconf [0m2.0.3-2
+[0mextra [1mobex-data-server [0m0.3-3
+[0mextra [1mobexftp [0m0.22-3
+[0mextra [1mocaml [0m3.10.2-2
+[0mextra [1mocfs2-tools [0m1.2.4-1
+[0mextra [1mocrad [0m0.17-1
+[0mextra [1moctave [0m3.0.3-1
+[0mextra [1mode [0m0.10.1-1
+[0mextra [1mogle [0m0.9.2-9
+[0mextra [1mogmtools [0m1.5-1
+[0mextra [1mopal [0m3.4.2-1
+[0mextra [1mopenal [0m0.0.8-4
+[0mextra [1mopenbabel [0m2.2.0-1
+[0mextra [1mopenbox [0m3.4.7.2-1
+[0mextra [1mopencdk [0m0.6.6-1
+[0mextra [1mopenchrome [0m0.2.902-1
+[0mextra [1mopenexr [0m1.6.1-1 [7m[0m[installed][0m
+[0mextra [1mopenjdk6 [0m1.3.1-2
+[0mextra [1mopenldap [0m2.3.43-1
+[0mextra [1mopenldap-clients [0m2.3.43-1
+[0mextra [1mopenobex [0m1.3-2
+[0mextra [1mopenoffice-base [0m3.0.0-3 [7m[0m[[0m2.4.1-2[7m[0m installed][0m
+[0mextra [1mopenoffice-base-beta [0m3.0_ooo300_m6-1
+[0mextra [1mopenoffice-base-devel [0m3.1_dev300_m35-1
+[0mextra [1mopenoffice-de [0m3.0.0-1
+[0mextra [1mopenoffice-es [0m3.0.0-1
+[0mextra [1mopenoffice-fr [0m3.0.0-1
+[0mextra [1mopenoffice-it [0m3.0.0-1
+[0mextra [1mopenoffice-ja [0m3.0.0-1
+[0mextra [1mopenoffice-ko [0m3.0.0-1
+[0mextra [1mopenoffice-nl [0m3.0.0-1
+[0mextra [1mopenoffice-pt_br [0m3.0.0-1
+[0mextra [1mopenoffice-sv [0m3.0.0-1
+[0mextra [1mopenoffice-zh_cn [0m3.0.0-1
+[0mextra [1mopenoffice-zh_tw [0m3.0.0-1
+[0mextra [1mopenslp [0m1.2.1-1
+[0mextra [1mopensp [0m1.5.1-1
+[0mextra [1mopenswan-klips [0m2.4.10-2
+[0mextra [1mopenupsmart [0m1.0-2
+[0mextra [1mopera [0m9.62-1 [7m[0m[installed][0m
+[0mextra [1moprofile [0m0.9.3-2
+[0mextra [1morage [0m4.4.3-1
+[0mextra [1morbit2 [0m2.14.16-1 [7m[0m[installed][0m
+[0mextra [1morca [0m2.24.1-2 [7m[0m[installed][0m
+[0mextra [1moxine [0m0.7.1-1
+[0mextra [1mp7zip [0m4.58-4
+[0mextra [1mpacbuild [0m0.4-1
+[0mextra [1mpal [0m0.3.4-3
+[0mextra [1mpam_fprint [0m0.2-1
+[0mextra [1mpam_ldap [0m184-1
+[0mextra [1mpam_passwdqc [0m1.0.4-1
+[0mextra [1mpan [0m0.133-1
+[0mextra [1mpango [0m1.22.2-1 [7m[0m[installed][0m
+[0mextra [1mpangomm [0m2.14.0-1 [7m[0m[installed][0m
+[0mextra [1mparted [0m1.8.8-2
+[0mextra [1mpatchutils [0m0.3.0-1
+[0mextra [1mpathological [0m1.1.3-4
+[0mextra [1mpavuk [0m0.9.35-4
+[0mextra [1mpcsx-df [0m1.818-1
+[0mextra [1mpdksh [0m5.2.14-4
+[0mextra [1mpdns [0m2.9.21-1
+[0mextra [1mpdns-recursor [0m3.1.7-1
+[0mextra [1mpebrot [0m0.8.8-2
+[0mextra [1mpekwm [0m0.1.7-1
+[0mextra [1mpenguin-command [0m1.6.10-1
+[0mextra [1mpente [0m2.2.5-3
+[0mextra [1mperl-anyevent [0m2.8-6
+[0mextra [1mperl-appconfig [0m1.66-2
+[0mextra [1mperl-archive-tar [0m1.34-1
+[0mextra [1mperl-archive-zip [0m1.23-2
+[0mextra [1mperl-bit-vector [0m6.4-3
+[0mextra [1mperl-carp-clan [0m5.10-1
+[0mextra [1mperl-compress-raw-zlib [0m2.006-1
+[0mextra [1mperl-compress-zlib [0m2.006-1
+[0mextra [1mperl-date-calc [0m5.4-3
+[0mextra [1mperl-date-manip [0m5.48-1
+[0mextra [1mperl-dbd-mysql [0m4.006-1
+[0mextra [1mperl-dbd-sqlite [0m1.14-1
+[0mextra [1mperl-dbi [0m1.601-1
+[0mextra [1mperl-digest-hmac [0m1.01-3
+[0mextra [1mperl-digest-nilsimsa [0m0.06-3
+[0mextra [1mperl-digest-sha1 [0m2.11-3
+[0mextra [1mperl-error [0m0.17011-1 [7m[0m[installed][0m
+[0mextra [1mperl-event [0m1.09-3
+[0mextra [1mperl-event-execflow [0m0.63-3
+[0mextra [1mperl-exiftool [0m7.52-1
+[0mextra [1mperl-extutils-depends [0m0.300-1
+[0mextra [1mperl-extutils-pkgconfig [0m1.11-1
+[0mextra [1mperl-file-basedir [0m0.03-3
+[0mextra [1mperl-file-desktopentry [0m0.04-2
+[0mextra [1mperl-file-mimeinfo [0m0.14-3
+[0mextra [1mperl-file-tail [0m0.99.3-3
+[0mextra [1mperl-gtk2-ex-formfactory [0m0.65-4
+[0mextra [1mperl-html-parser [0m3.56-3 [7m[0m[installed][0m
+[0mextra [1mperl-html-tagset [0m3.10-3 [7m[0m[installed][0m
+[0mextra [1mperl-io-compress-base [0m2.006-1
+[0mextra [1mperl-io-compress-zlib [0m2.006-1
+[0mextra [1mperl-io-socket-ssl [0m1.12-1
+[0mextra [1mperl-io-zlib [0m1.07-1
+[0mextra [1mperl-libintl-perl [0m1.16-3
+[0mextra [1mperl-libwww [0m5.808-2 [7m[0m[installed][0m
+[0mextra [1mperl-lmap-cid2spf [0m0.9-3
+[0mextra [1mperl-locale-gettext [0m1.05-3
+[0mextra [1mperl-mail-spf [0m2.005-2
+[0mextra [1mperl-mail-spf-query [0m1.999.1-3
+[0mextra [1mperl-mailtools [0m2.02-1
+[0mextra [1mperl-mime-lite [0m3.021-1
+[0mextra [1mperl-mime-types [0m1.23-1
+[0mextra [1mperl-mp3-info [0m1.23-2
+[0mextra [1mperl-net-cidr-lite [0m0.20-3
+[0mextra [1mperl-net-dns [0m0.62-1
+[0mextra [1mperl-net-dns-resolver-programmable [0m0.003-3
+[0mextra [1mperl-net-ip [0m1.25-3
+[0mextra [1mperl-net-ssleay [0m1.30-2
+[0mextra [1mperl-netaddr-ip [0m4.007-2
+[0mextra [1mperl-newt [0m1.08-3
+[0mextra [1mperl-passwd-md5 [0m1.3-3
+[0mextra [1mperl-pod-escapes [0m1.04-3
+[0mextra [1mperl-pod-simple [0m3.05-2
+[0mextra [1mperl-sgmls [0m1.03-3
+[0mextra [1mperl-string-shellquote [0m1.03-2
+[0mextra [1mperl-sys-hostname-long [0m1.4-3
+[0mextra [1mperl-template-toolkit [0m2.19-3
+[0mextra [1mperl-term-readkey [0m2.30-2
+[0mextra [1mperl-test-pod [0m1.26-3
+[0mextra [1mperl-text-iconv [0m1.7-2
+[0mextra [1mperl-text-wrapi18n [0m0.06-3
+[0mextra [1mperl-timedate [0m1.16-3
+[0mextra [1mperl-tk [0m804.028-1
+[0mextra [1mperl-unicode-string [0m2.09-3
+[0mextra [1mperl-uri [0m1.35-3 [7m[0m[installed][0m
+[0mextra [1mperl-version [0m0.7203-2
+[0mextra [1mperl-xml-simple [0m2.18-2 [7m[0m[installed][0m
+[0mextra [1mperl-xml-twig [0m3.32-2
+[0mextra [1mperl-yaml [0m0.66-1
+[0mextra [1mperl-yaml-syck [0m1.00-1
+[0mextra [1mperlxml [0m2.36-1 [7m[0m[installed][0m
+[0mextra [1mphonon [0m4.2.0-2
+[0mextra [1mphp [0m5.2.6-5
+[0mextra [1mphp-apc [0m3.0.19-1
+[0mextra [1mphp-suhosin [0m0.9.27-1
+[0mextra [1mphpbb [0m2.0.23-1
+[0mextra [1mphylip [0m3.67-1
+[0mextra [1mpidgin [0m2.5.2-1 [7m[0m[installed][0m
+[0mextra [1mpidgin-encryption [0m3.0-1
+[0mextra [1mpil [0m1.1.6-5
+[0mextra [1mpilot-link [0m0.12.3-2
+[0mextra [1mpinball [0m0.3.1-3
+[0mextra [1mpinentry [0m0.7.5-3 [7m[0m[installed][0m
+[0mextra [1mpipemeter [0m1.1.3-1
+[0mextra [1mpixman [0m0.12.0-1 [7m[0m[installed][0m
+[0mextra [1mpkgstats [0m1.0-2
+[0mextra [1mplanner [0m0.14.3-1
+[0mextra [1mplotutils [0m2.5.1-2
+[0mextra [1mpm-utils [0m1.2.2.1-2 [7m[0m[installed][0m
+[0mextra [1mpmount [0m0.9.17-1
+[0mextra [1mpmt [0m2006.06.11-1
+[0mextra [1mpngwriter [0m0.5.3-1
+[0mextra [1mpodsleuth [0m0.6.3-1
+[0mextra [1mpolicykit [0m0.9-5 [7m[0m[installed][0m
+[0mextra [1mpolicykit-gnome [0m0.9.2-2 [7m[0m[installed][0m
+[0mextra [1mpoppler [0m0.10.0-1 [7m[0m[installed][0m
+[0mextra [1mpoppler-glib [0m0.10.0-1 [7m[0m[installed][0m
+[0mextra [1mpoppler-qt [0m0.10.0-1
+[0mextra [1mpoppler-qt3 [0m0.10.0-1
+[0mextra [1mpostfix [0m2.5.3-1
+[0mextra [1mpostgresql [0m8.3.5-1 [7m[0m[installed][0m
+[0mextra [1mpostgresql-libs [0m8.3.5-1 [7m[0m[installed][0m
+[0mextra [1mpotrace [0m1.8-1
+[0mextra [1mpotracegui [0m1.3.4-2
+[0mextra [1mpovray [0m3.6.1-4
+[0mextra [1mprboom [0m2.5.0-1
+[0mextra [1mprekin [0m6.40.050324-2
+[0mextra [1mprelink [0m20060213-1
+[0mextra [1mprintproto [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mprivoxy [0m3.0.8-3
+[0mextra [1mprocmail [0m3.22-1
+[0mextra [1mproftpd [0m1.3.1-2
+[0mextra [1mprogsreiserfs [0m0.3.0.5-3
+[0mextra [1mprojectm [0m0.99-2
+[0mextra [1mproxsmtp [0m1.7-1
+[0mextra [1mpsi [0m0.12-3
+[0mextra [1mpsi-i18n [0m0.12-4
+[0mextra [1mpsiconv [0m0.9.8-2
+[0mextra [1mpstoedit [0m3.45-2
+[0mextra [1mpsutils [0m1.17-1 [7m[0m[installed][0m
+[0mextra [1mpth [0m2.0.7-1 [7m[0m[installed][0m
+[0mextra [1mptlib [0m2.4.2-1
+[0mextra [1mpure-ftpd [0m1.0.21-2
+[0mextra [1mpurple-plugin-pack [0m2.4.0-1
+[0mextra [1mputty [0m0.60-1
+[0mextra [1mpwgen [0m2.05-1
+[0mextra [1mpycairo [0m1.6.4-2 [7m[0m[installed][0m
+[0mextra [1mpycmail [0m0.1.3-1
+[0mextra [1mpycrypto [0m2.0.1-3
+[0mextra [1mpygobject [0m2.15.4-2 [7m[0m[installed][0m
+[0mextra [1mpygtk [0m2.13.0-2 [7m[0m[installed][0m
+[0mextra [1mpygtksourceview2 [0m2.4.0-1 [7m[0m[installed][0m
+[0mextra [1mpylint [0m0.14.0-1
+[0mextra [1mpymad [0m0.6-2
+[0mextra [1mpyogg [0m1.3-5
+[0mextra [1mpyorbit [0m2.24.0-2 [7m[0m[installed][0m
+[0mextra [1mpypgsql [0m2.5.1-5
+[0mextra [1mpyqt [0m4.4.3-2 [7m[0m[installed][0m
+[0mextra [1mpyqt3 [0m3.17.4-2
+[0mextra [1mpyrex [0m0.9.8.5-1 [7m[0m[installed][0m
+[0mextra [1mpython [0m2.6-2 [7m[0m[installed][0m
+[0mextra [1mpython-cheetah [0m2.0.1-2
+[0mextra [1mpython-egenix-mx-base [0m3.1.1-2
+[0mextra [1mpython-eyed3 [0m0.6.16-1
+[0mextra [1mpython-feedparser [0m4.1-3
+[0mextra [1mpython-formencode [0m0.9-1
+[0mextra [1mpython-gdata [0m1.2.2-2
+[0mextra [1mpython-geoip [0m1.2.2-2
+[0mextra [1mpython-gtkglext [0m1.1.0-3
+[0mextra [1mpython-logilab-astng [0m0.17.2-1
+[0mextra [1mpython-logilab-common [0m0.28.0-1
+[0mextra [1mpython-mpd [0m0.2.1-1
+[0mextra [1mpython-mpdclient [0m0.10.0-2
+[0mextra [1mpython-numeric [0m24.2-3 [7m[0m[installed][0m
+[0mextra [1mpython-opengl [0m3.0.0b5-1
+[0mextra [1mpython-pygame [0m1.8.1-3
+[0mextra [1mpython-pyspi [0m0.6.1-2
+[0mextra [1mpython-pysqlite [0m2.4.1-2
+[0mextra [1mpython-pysqlite-legacy [0m1.0.1-5
+[0mextra [1mpython-qscintilla [0m2.3-2
+[0mextra [1mpython-sqlobject [0m0.10.1-1
+[0mextra [1mpython-vpython [0m3.2.9-4
+[0mextra [1mpython24 [0m2.4.5-3
+[0mextra [1mpyvorbis [0m1.4-4
+[0mextra [1mpyxdg [0m0.15-3
+[0mextra [1mpyxml [0m0.8.4-5 [7m[0m[installed][0m
+[0mextra [1mqalculate-gtk [0m0.9.6-3
+[0mextra [1mqalculate-kde [0m0.9.6-4
+[0mextra [1mqca [0m2.0.1-2
+[0mextra [1mqca-qt3 [0m1.0-1
+[0mextra [1mqca-tls [0m1.0-5
+[0mextra [1mqemu [0m0.9.1-10
+[0mextra [1mqgit [0m2.2-1 [7m[0m[installed][0m
+[0mextra [1mqimageblitz [0m0.0.5-1
+[0mextra [1mqiv [0m2.1pre12-1.1
+[0mextra [1mqjackctl [0m0.3.3-1
+[0mextra [1mqof [0m0.6.4-2
+[0mextra [1mqscintilla [0m2.3-1 [7m[0m[installed][0m
+[0mextra [1mqscintilla-qt3 [0m1.7.1-2 [7m[0m[installed][0m
+[0mextra [1mqstat [0m2.11-1
+[0mextra [1mqsynth [0m0.3.2-1
+[0mextra [1mqt [0m4.4.3-2 [7m[0m[installed][0m
+[0mextra [1mqt-doc [0m4.4.3-1
+[0mextra [1mqt3 [0m3.3.8-9 [7m[0m[installed][0m
+[0mextra [1mqt3-doc [0m3.3.8-1
+[0mextra [1mqtcurve-gtk2 [0m0.59.7-1
+[0mextra [1mqtcurve-kde3 [0m0.59.5-1
+[0mextra [1mqtcurve-kde4 [0m0.59.6-3
+[0mextra [1mqtiplot [0m0.9.7.3-1
+[0mextra [1mqtparted [0m0.4.5-11
+[0mextra [1mquick-lounge-applet [0m2.12.5-1
+[0mextra [1mquilt [0m0.47-1
+[0mextra [1mquodlibet [0m2.0-3
+[0mextra [1mquota-tools [0m3.16-1
+[0mextra [1mqwt [0m5.1.1-1
+[0mextra [1mqwtplot3d [0m0.2.7-1
+[0mextra [1mr [0m2.8.0-1
+[0mextra [1mrandline [0m20070111-1
+[0mextra [1mrandrproto [0m1.2.2-1 [7m[0m[installed][0m
+[0mextra [1mraptor [0m1.4.18-1
+[0mextra [1mrarian [0m0.8.1-1 [7m[0m[installed][0m
+[0mextra [1mrasmol [0m2.7.3-3
+[0mextra [1mratpoison [0m1.4.3-2
+[0mextra [1mrazor [0m2.84-2
+[0mextra [1mrbldnsd [0m0.996-1
+[0mextra [1mrcs [0m5.7-3
+[0mextra [1mrdesktop [0m1.6.0-2
+[0mextra [1mre2c [0m0.13.3-1
+[0mextra [1mrecode [0m3.6-2
+[0mextra [1mrecordproto [0m1.13.2-1 [7m[0m[installed][0m
+[0mextra [1mredland [0m1.0.8-1
+[0mextra [1mrenderproto [0m0.9.3-1 [7m[0m[installed][0m
+[0mextra [1mrep-gtk [0m0.18-3
+[0mextra [1mresourceproto [0m1.0.2-1
+[0mextra [1mrevelation [0m0.4.11-3
+[0mextra [1mrhino [0m1.7R1-1
+[0mextra [1mrhythmbox [0m0.11.6-3
+[0mextra [1mrip [0m1.07-2
+[0mextra [1mristretto [0m0.0.20-2
+[0mextra [1mrockdodger [0m0.6-1
+[0mextra [1mroot-tail [0m1.2-2
+[0mextra [1mrosegarden [0m4.1.7.0-1
+[0mextra [1mrox [0m2.8-1
+[0mextra [1mrpmextract [0m0-2 [7m[0m[installed][0m
+[0mextra [1mrpmunpack [0m0-1
+[0mextra [1mrrdtool [0m1.2.27-2
+[0mextra [1mrssh [0m2.3.2-2
+[0mextra [1mrsync [0m3.0.4-1 [7m[0m[installed][0m
+[0mextra [1mruby [0m1.8.7_p72-2 [7m[0m[installed][0m
+[0mextra [1mrxvt-unicode [0m9.06-1
+[0mextra [1msamba [0m3.2.4-3
+[0mextra [1msane [0m1.0.19-2
+[0mextra [1msane-frontends [0m1.0.14-2
+[0mextra [1msash [0m3.7-3
+[0mextra [1msawfish [0m1.3.3-1
+[0mextra [1msbackup [0m0.10.5-1
+[0mextra [1msbcl [0m1.0.22-1
+[0mextra [1mschedtool [0m1.2.9-1
+[0mextra [1mscheme48 [0m1.8-1
+[0mextra [1mscim [0m1.4.7-1
+[0mextra [1mscim-anthy [0m1.2.4-1
+[0mextra [1mscim-chewing [0m0.3.1-2
+[0mextra [1mscim-hangul [0m0.3.2-2
+[0mextra [1mscim-m17n [0m0.2.2-2
+[0mextra [1mscim-pinyin [0m0.5.91-4
+[0mextra [1mscim-tables [0m0.5.7-2
+[0mextra [1mscim-uim [0m0.2.0-2
+[0mextra [1mscons [0m1.1.0-2
+[0mextra [1mscreem [0m0.16.1-6
+[0mextra [1mscreen [0m4.0.3-6 [7m[0m[installed][0m
+[0mextra [1mscribus [0m1.3.3.12-3
+[0mextra [1mscrnsaverproto [0m1.1.0-2 [7m[0m[installed][0m
+[0mextra [1mscrot [0m0.8-2
+[0mextra [1mscsh [0m0.6.7-1
+[0mextra [1mscummvm [0m0.12.0-1
+[0mextra [1msdl [0m1.2.13-3 [7m[0m[installed][0m
+[0mextra [1msdl_gfx [0m2.0.16-1
+[0mextra [1msdl_image [0m1.2.6-2 [7m[0m[installed][0m
+[0mextra [1msdl_mixer [0m1.2.8-3
+[0mextra [1msdl_net [0m1.2.7-2
+[0mextra [1msdl_pango [0m0.1.2-1
+[0mextra [1msdl_perl [0m2.1.3-2
+[0mextra [1msdl_sound [0m1.0.1-7
+[0mextra [1msdl_ttf [0m2.0.9-1
+[0mextra [1mseahorse [0m2.24.1-1
+[0mextra [1mseahorse-plugins [0m2.24.1-1
+[0mextra [1mseamonkey [0m1.1.12-1
+[0mextra [1mselectwm [0m0.4.1-2
+[0mextra [1msetserial [0m2.17-2
+[0mextra [1msetuptools [0m0.6c9-2
+[0mextra [1msfs [0m0.7.2-1
+[0mextra [1msg3_utils [0m1.25-1 [7m[0m[installed][0m
+[0mextra [1mshared-mime-info [0m0.51-1 [7m[0m[installed][0m
+[0mextra [1msharutils [0m4.6.3-1
+[0mextra [1msilly [0m0.1.0-2
+[0mextra [1msim [0m0.9.4.3-2
+[0mextra [1msip [0m4.7.7-3 [7m[0m[installed][0m
+[0mextra [1mskanlite [0m0.2-5
+[0mextra [1mskim [0m1.4.5-3
+[0mextra [1mslang [0m2.1.3-2
+[0mextra [1mslib [0m3b1-1
+[0mextra [1mslim [0m1.3.0-2
+[0mextra [1mslim-themes [0m1.2.3-3
+[0mextra [1mslimserver [0mv6.5.4-2
+[0mextra [1mslmodem [0m2.9.11-43
+[0mextra [1mslmodem-utils [0m2.9.11-16
+[0mextra [1msmartmontools [0m5.38-1
+[0mextra [1msmb4k [0m0.10.1-1
+[0mextra [1msmbclient [0m3.2.4-3 [7m[0m[installed][0m
+[0mextra [1msmc [0m1.5-2
+[0mextra [1msmpeg [0m0.4.4-3
+[0mextra [1msmplayer [0m0.6.5.1-1
+[0mextra [1msmplayer-themes [0m0.1.17-1
+[0mextra [1msmtpprox [0m1.2-4
+[0mextra [1msn [0m0.3.8-1
+[0mextra [1msnapscreenshot [0m1.0.14.2-1
+[0mextra [1msnarf [0m7.0-2
+[0mextra [1msnd [0m10.1-1
+[0mextra [1msnes9x [0m1.51-1
+[0mextra [1msnort [0m2.8.2.1-7
+[0mextra [1msocat [0m1.7.0.0-1
+[0mextra [1msonata [0m1.5.3-2
+[0mextra [1msonypid [0m1.9.1-2
+[0mextra [1msoprano [0m2.1.1-1
+[0mextra [1msound-juicer [0m2.24.0-1
+[0mextra [1msound-theme-freedesktop [0m0.1-1 [7m[0m[installed][0m
+[0mextra [1msource-highlight [0m2.9-1
+[0mextra [1msox [0m14.2.0-1
+[0mextra [1mspamassassin [0m3.2.5-2
+[0mextra [1mspamassassin-spamc [0m3.2.5-1
+[0mextra [1mspassgen [0m1.5-5
+[0mextra [1mspeedcrunch [0m0.10.1-1
+[0mextra [1mspeedtouch [0m1.3.1-1
+[0mextra [1mspeex [0m1.2rc1-1 [7m[0m[installed][0m
+[0mextra [1mspicctrl [0m1.9-1
+[0mextra [1mspidermonkey [0m1.7.0-1 [7m[0m[installed][0m
+[0mextra [1msqlite2 [0m2.8.17-2
+[0mextra [1msqlite3 [0m3.6.5-1 [7m[0m[installed][0m
+[0mextra [1msquashfs-tools [0m3.4-1
+[0mextra [1msqueeze [0m0.2.3-2 [7m[0m[installed][0m
+[0mextra [1msquid [0m2.7.STABLE4-1
+[0mextra [1msquirrelmail [0m1.4.16-2
+[0mextra [1msrcpac [0m0.6-1
+[0mextra [1msrm [0m1.2.9-1
+[0mextra [1msshfs [0m2.1-1
+[0mextra [1mssldump [0m0.9b3-6.1
+[0mextra [1mssmtp [0m2.62-2
+[0mextra [1mstardict [0m3.0.1-2
+[0mextra [1mstartup-notification [0m0.9-1 [7m[0m[installed][0m
+[0mextra [1mstellarium [0m0.10.0-1
+[0mextra [1mstow [0m1.3.3-1
+[0mextra [1mstrace [0m4.5.18-1
+[0mextra [1mstreamripper [0m1.63.5-1
+[0mextra [1mstreamtuner [0m0.99.99-10
+[0mextra [1mstrigi [0m0.5.11.1-1
+[0mextra [1mstunnel [0m4.25-1
+[0mextra [1msubversion [0m1.5.4-1 [7m[0m[installed][0m
+[0mextra [1mswatch [0m3.2.2-2
+[0mextra [1msweep [0m0.9.3-1
+[0mextra [1mswfdec [0m0.8.2-1
+[0mextra [1mswfdec-mozilla [0m0.8.2-1
+[0mextra [1mswh-plugins [0m0.4.15-1
+[0mextra [1mswi-prolog [0m5.6.62-1
+[0mextra [1mswig [0m1.3.36-1
+[0mextra [1mswt [0m3.3.2-1
+[0mextra [1msylpheed [0m2.5.0-1
+[0mextra [1msynaesthesia [0m2.4-1
+[0mextra [1msynaptics [0m0.14.6.99-2
+[0mextra [1msynergy [0m1.3.1-2
+[0mextra [1msysklogd [0m1.5-2
+[0mextra [1msyslinux [0m3.72-1
+[0mextra [1mt1lib [0m5.1.2-2 [7m[0m[installed][0m
+[0mextra [1mtaglib [0m1.5-1 [7m[0m[installed][0m
+[0mextra [1mtaglib-sharp [0m2.0.3.0-2
+[0mextra [1mtango-icon-theme [0m0.8.1-1 [7m[0m[installed][0m
+[0mextra [1mtango-icon-theme-extras [0m0.1.0-2
+[0mextra [1mtapioca-qt [0m0.14.1.2066-1
+[0mextra [1mtcdr [0m2.1-4
+[0mextra [1mtcl [0m8.5.5-1 [7m[0m[installed][0m
+[0mextra [1mtcoffee [0m5.57-1
+[0mextra [1mtcpdump [0m4.0.0-1 [7m[0m[installed][0m
+[0mextra [1mtcptraceroute [0m1.5beta7-4.1
+[0mextra [1mtcsh [0m6.15.01-4
+[0mextra [1mtdb [0m3.2.4-1 [7m[0m[installed][0m
+[0mextra [1mteg [0m0.11.2-1
+[0mextra [1mtelepathy-qt [0m0.14.1.2031-1
+[0mextra [1mtermcap-compat [0m1.2.3-4 [7m[0m[installed][0m
+[0mextra [1mterminal [0m0.2.8.3-1 [7m[0m[installed][0m
+[0mextra [1mterminatorx [0m3.82-1
+[0mextra [1mtexlive-bibtexextra [0m2008.11144-1
+[0mextra [1mtexlive-bin [0m2008-3
+[0mextra [1mtexlive-core [0m2008.11171-1
+[0mextra [1mtexlive-fontsextra [0m2008.11140-1
+[0mextra [1mtexlive-formatsextra [0m2008.10665-1
+[0mextra [1mtexlive-games [0m2008.11069-1
+[0mextra [1mtexlive-genericextra [0m2008.10640-1
+[0mextra [1mtexlive-htmlxml [0m2008.10669-1
+[0mextra [1mtexlive-humanities [0m2008.10502-1
+[0mextra [1mtexlive-langcjk [0m2008.10331-1
+[0mextra [1mtexlive-langcyrillic [0m2008.10782-1
+[0mextra [1mtexlive-langextra [0m2008.9736-2
+[0mextra [1mtexlive-langgreek [0m2008.9915-1
+[0mextra [1mtexlive-latex3 [0m2008.10126-1
+[0mextra [1mtexlive-latexextra [0m2008.11143-1
+[0mextra [1mtexlive-music [0m2008.7340-1
+[0mextra [1mtexlive-pictures [0m2008.10658-1
+[0mextra [1mtexlive-plainextra [0m2008.10519-1
+[0mextra [1mtexlive-pstricks [0m2008.11169-1
+[0mextra [1mtexlive-publishers [0m2008.11083-1
+[0mextra [1mtexlive-science [0m2008.11130-1
+[0mextra [1mtexmacs [0m1.0.7-1
+[0mextra [1mtftp-hpa [0m0.48-1
+[0mextra [1mthinkfinger [0m0.3-1
+[0mextra [1mthttpd [0m2.25b-1
+[0mextra [1mthunar [0m0.9.3-1 [7m[0m[installed][0m
+[0mextra [1mthunar-archive-plugin [0m0.2.4-5
+[0mextra [1mthunar-media-tags-plugin [0m0.1.2-5
+[0mextra [1mthunar-volman [0m0.2.0-1
+[0mextra [1mthunderbird [0m2.0.0.17-1 [7m[0m[installed][0m
+[0mextra [1mthunderbird-i18n [0m2.0.0.17-1
+[0mextra [1mtidyhtml [0m1.37-2
+[0mextra [1mtightvnc [0m1.3.9-5 [7m[0m[installed][0m
+[0mextra [1mtilp [0m1.10-1
+[0mextra [1mtime [0m1.7-1
+[0mextra [1mtimidity++ [0m2.13.2-7
+[0mextra [1mtin [0m1.8.3-5
+[0mextra [1mtk [0m8.5.5-1 [7m[0m[installed][0m
+[0mextra [1mtomboy [0m0.12.1-2
+[0mextra [1mtomcat [0m5.5.27-2
+[0mextra [1mtoppler [0m1.1.3-1
+[0mextra [1mtor [0m0.2.0.31-2
+[0mextra [1mtotem [0m2.24.3-1
+[0mextra [1mtotem-plparser [0m2.24.2-1 [7m[0m[installed][0m
+[0mextra [1mtotem-plugin [0m2.24.3-1
+[0mextra [1mtotem-xine [0m2.24.3-1
+[0mextra [1mtpb [0m0.6.4-1
+[0mextra [1mtpop3d [0m1.5.3-3
+[0mextra [1mtranscode [0m1.0.6-1
+[0mextra [1mtransfig [0m3.2.4-2
+[0mextra [1mtransmission-cli [0m1.34-1
+[0mextra [1mtransmission-gtk [0m1.34-1
+[0mextra [1mtransset [0m20050711-2
+[0mextra [1mtrapproto [0m3.4.3-1 [7m[0m[installed][0m
+[0mextra [1mtrayer [0m1.0-4
+[0mextra [1mtree [0m1.5.2.1-2 [7m[0m[installed][0m
+[0mextra [1mtrm [0m0.2.1-2
+[0mextra [1mtruecrypt [0m6.1-1
+[0mextra [1mtsocks [0m1.8beta5-1
+[0mextra [1mttf-arphic-ukai [0m0.1.20060928-1
+[0mextra [1mttf-arphic-uming [0m0.1.20060928-4
+[0mextra [1mttf-bitstream-vera [0m1.10-5
+[0mextra [1mttf-cheapskate [0m2.0-5
+[0mextra [1mttf-dejavu [0m2.26-1 [7m[0m[installed][0m
+[0mextra [1mttf-fireflysung [0m1.4.2-1
+[0mextra [1mttf-freebanglafont [0m0.5-5
+[0mextra [1mttf-indic-otf [0m0.2-3
+[0mextra [1mttf-isabella [0m1.003-3
+[0mextra [1mttf-junicode [0m0.6.15-1
+[0mextra [1mttf-khmer [0m5.0-1
+[0mextra [1mttf-mph-2b-damase [0m001.000.4.dfsg.2-1
+[0mextra [1mttf-ms-fonts [0m2.0-1
+[0mextra [1mttf-thai [0m0.4.9-1
+[0mextra [1mttf-tibetan-machine [0m20020930-1
+[0mextra [1mttf-ubraille [0m001.000-3
+[0mextra [1mtunepimp [0m0.5.3-5 [7m[0m[installed][0m
+[0mextra [1mtuxmath [0m2001.09.07-2
+[0mextra [1mtuxnes [0m0.75-1
+[0mextra [1mtuxpuck [0m0.8.2-1
+[0mextra [1mtuxracer [0m0.61-7
+[0mextra [1mtuxtype [0m1.0.3-6
+[0mextra [1mtvtime [0m1.0.1-2
+[0mextra [1mtwinkle [0m1.2-2
+[0mextra [1mtwisted [0m8.1.0-2
+[0mextra [1mubuntulooks [0m0.9.12-1
+[0mextra [1mucspi-ssl [0m0.70-2
+[0mextra [1mucspi-tcp [0m0.88-1
+[0mextra [1mucspi-unix [0m0.36-1
+[0mextra [1muim [0m1.4.2-1
+[0mextra [1mulogd [0m1.24-4
+[0mextra [1muml_utilities [0m20070815-2
+[0mextra [1munarj [0m2.63a-1
+[0mextra [1munichrome-dri [0m7.0.3-1
+[0mextra [1munionfs-utils [0m200611041820-1
+[0mextra [1munison [0m2.27.57-1
+[0mextra [1munixodbc [0m2.2.12-2 [7m[0m[installed][0m
+[0mextra [1munrar [0m3.8.5-1 [7m[0m[installed][0m
+[0mextra [1munzip [0m5.52-4 [7m[0m[installed][0m
+[0mextra [1musbview [0m1.0-1
+[0mextra [1muser-mode-linux [0m2.6.20.4-1
+[0mextra [1musermin [0m1.370-1
+[0mextra [1muserui [0m0.7.2-2
+[0mextra [1mv86d [0m0.1.9-1
+[0mextra [1mvacation [0m1.2.6.3-1
+[0mextra [1mvalgrind [0m3.3.1-2
+[0mextra [1mvalkyrie [0m1.2.0-2
+[0mextra [1mvbetool [0m1.1-1 [7m[0m[installed][0m
+[0mextra [1mvcdimager [0m0.7.23-5
+[0mextra [1mvconfig [0m1.9-1.1
+[0mextra [1mvectoroids [0m1.1.0-2
+[0mextra [1mverve-plugin [0m0.3.5-4
+[0mextra [1mvice [0m2.0-2
+[0mextra [1mvideoproto [0m2.2.2-1 [7m[0m[installed][0m
+[0mextra [1mviewglob [0m2.0.4-1
+[0mextra [1mvim [0m7.2.25-1.1 [7m[0m[installed][0m
+[0mextra [1mvim-a [0m2.18-1
+[0mextra [1mvim-bufexplorer [0m7.1.7-1
+[0mextra [1mvim-buftabs [0m0.10-1
+[0mextra [1mvim-colorsamplerpack [0m5.0-1
+[0mextra [1mvim-doxygentoolkit [0m0.1.17-1
+[0mextra [1mvim-guicolorscheme [0m1.1-1
+[0mextra [1mvim-matchit [0m1.13.1-1
+[0mextra [1mvim-minibufexpl [0m6.3.2-3
+[0mextra [1mvim-omnicppcomplete [0m0.4.1-1
+[0mextra [1mvim-project [0m1.4.1-1
+[0mextra [1mvim-taglist [0m45-1
+[0mextra [1mvim-vcscommand [0m24-1
+[0mextra [1mvim-workspace [0m1.0b1-1
+[0mextra [1mvinagre [0m2.24.1-1
+[0mextra [1mvino [0m2.24.1-1 [7m[0m[installed][0m
+[0mextra [1mvips [0m7.14.1-3
+[0mextra [1mvlc [0m0.9.6-1 [7m[0m[installed][0m
+[0mextra [1mvnc [0m4.1.2-1
+[0mextra [1mvorbis-tools [0m1.2.0-3
+[0mextra [1mvsftpd [0m2.0.7-1
+[0mextra [1mvte [0m0.17.4-2 [7m[0m[installed][0m
+[0mextra [1mvtun [0m3.0.2-3
+[0mextra [1mw3m [0m0.5.2-3
+[0mextra [1mwavpack [0m4.50.0-1 [7m[0m[installed][0m
+[0mextra [1mwebalizer [0m2.01-5
+[0mextra [1mwebmin [0m1.441-1
+[0mextra [1mweechat [0m0.2.6-3
+[0mextra [1mwesnoth [0m1.4.5-2
+[0mextra [1mwhois [0m4.7.28-2 [7m[0m[installed][0m
+[0mextra [1mwicd [0m1.5.3-1 [7m[0m[installed][0m
+[0mextra [1mwindowmaker [0m0.92.0-4
+[0mextra [1mwindowmaker-extra [0m0.1-2
+[0mextra [1mwine [0m1.1.8-1
+[0mextra [1mwipe [0m2.2.0-1
+[0mextra [1mwireshark [0m1.0.4-1 [7m[0m[installed][0m
+[0mextra [1mwmii [0m3.6-1
+[0mextra [1mwmix [0m3.1-2
+[0mextra [1mwords [0m1.0-4
+[0mextra [1mworker [0m2.17.0-1
+[0mextra [1mwpa_supplicant_gui [0m0.5.10-1
+[0mextra [1mwput [0m0.6.1-2
+[0mextra [1mwv [0m1.2.4-1
+[0mextra [1mwv2 [0m0.2.3-1
+[0mextra [1mwvdial [0m1.60-2
+[0mextra [1mwvstreams [0m4.4.1-3
+[0mextra [1mwxgtk [0m2.8.9-1 [7m[0m[installed][0m
+[0mextra [1mwxgtk-2.6 [0m2.6.4-2
+[0mextra [1mwxmaxima [0m0.7.6-1
+[0mextra [1mwxpython [0m2.8.9.1-1
+[0mextra [1mx11vnc [0m0.9.4-1
+[0mextra [1mx264 [0m20080625-1 [7m[0m[installed][0m
+[0mextra [1mx2vnc [0m1.7.2-1
+[0mextra [1mx2x [0m1.27-4
+[0mextra [1mxalan-java [0m2.7.1-2
+[0mextra [1mxalf [0m0.12-2
+[0mextra [1mxaos [0m3.4-1
+[0mextra [1mxarchiver [0m0.5.0beta1-6
+[0mextra [1mxaw3d [0m1.5-4 [7m[0m[installed][0m
+[0mextra [1mxawtv [0m3.95-5
+[0mextra [1mxbill [0m2.1-4
+[0mextra [1mxbindkeys [0m1.8.2-2
+[0mextra [1mxbitmaps [0m1.0.1-1 [7m[0m[installed][0m
+[0mextra [1mxbl [0m1.1.3-1
+[0mextra [1mxboard [0m4.2.7-2
+[0mextra [1mxcb-proto [0m1.2-2 [7m[0m[installed][0m
+[0mextra [1mxcb-util [0m0.3.0-2 [7m[0m[installed][0m
+[0mextra [1mxchat [0m2.8.6-3 [7m[0m[installed][0m
+[0mextra [1mxchat-gnome [0m0.18-2
+[0mextra [1mxclip [0m0.11-1
+[0mextra [1mxcmiscproto [0m1.1.2-1
+[0mextra [1mxcompmgr [0m1.1.4-1
+[0mextra [1mxconq [0m20071021-1
+[0mextra [1mxcursor-themes [0m1.0.1-1 [7m[0m[installed][0m
+[0mextra [1mxdelta [0m1.1.4-1
+[0mextra [1mxdg-utils [0m1.0.2-1
+[0mextra [1mxdialog [0m2.3.1-1
+[0mextra [1mxdrawchem [0m1.9.9-5
+[0mextra [1mxemacs [0m21.5.28-6
+[0mextra [1mxemacs-base [0m2.10-1
+[0mextra [1mxemacs-sumo [0m20070427-1
+[0mextra [1mxerces2-java [0m2.9.1-2
+[0mextra [1mxextproto [0m7.0.3-2 [7m[0m[installed][0m
+[0mextra [1mxf86-input-acecad [0m1.2.2-1
+[0mextra [1mxf86-input-aiptek [0m1.0.1-4
+[0mextra [1mxf86-input-calcomp [0m1.1.1-1
+[0mextra [1mxf86-input-citron [0m2.2.1-1
+[0mextra [1mxf86-input-digitaledge [0m1.1.0-4
+[0mextra [1mxf86-input-dmc [0m1.1.1-1
+[0mextra [1mxf86-input-dynapro [0m1.1.1-1
+[0mextra [1mxf86-input-elo2300 [0m1.1.2-1
+[0mextra [1mxf86-input-elographics [0m1.2.2-1
+[0mextra [1mxf86-input-evdev [0m2.0.1-1
+[0mextra [1mxf86-input-fpit [0m1.1.0-4
+[0mextra [1mxf86-input-hyperpen [0m1.1.0-4
+[0mextra [1mxf86-input-jamstudio [0m1.1.0-4
+[0mextra [1mxf86-input-joystick [0m1.3.1-1
+[0mextra [1mxf86-input-keyboard [0m1.3.1-1 [7m[0m[installed][0m
+[0mextra [1mxf86-input-magellan [0m1.1.1-1
+[0mextra [1mxf86-input-magictouch [0m1.0.0.5-5
+[0mextra [1mxf86-input-microtouch [0m1.1.1-1
+[0mextra [1mxf86-input-mouse [0m1.3.0-1 [7m[0m[installed][0m
+[0mextra [1mxf86-input-mutouch [0m1.1.0-4
+[0mextra [1mxf86-input-palmax [0m1.1.0-4
+[0mextra [1mxf86-input-penmount [0m1.2.1-1
+[0mextra [1mxf86-input-spaceorb [0m1.1.1-1
+[0mextra [1mxf86-input-summa [0m1.1.0-4
+[0mextra [1mxf86-input-tek4957 [0m1.1.0-4
+[0mextra [1mxf86-input-ur98 [0m1.1.0-4
+[0mextra [1mxf86-input-vmmouse [0m12.4.3-1
+[0mextra [1mxf86-input-void [0m1.1.0-2
+[0mextra [1mxf86-video-amd [0m2.7.7.6-1
+[0mextra [1mxf86-video-apm [0m1.2.0-1
+[0mextra [1mxf86-video-ark [0m0.7.0-1
+[0mextra [1mxf86-video-ati [0m6.8.0-4
+[0mextra [1mxf86-video-chips [0m1.2.0-1
+[0mextra [1mxf86-video-cirrus [0m1.2.1-1
+[0mextra [1mxf86-video-dummy [0m0.2.0-4
+[0mextra [1mxf86-video-fbdev [0m0.3.1-4
+[0mextra [1mxf86-video-glint [0m1.1.1-5
+[0mextra [1mxf86-video-i128 [0m1.2.1-4
+[0mextra [1mxf86-video-i740 [0m1.1.0-4
+[0mextra [1mxf86-video-i810 [0m1.7.4-10
+[0mextra [1mxf86-video-intel [0m2.3.2-1 [7m[0m[installed][0m
+[0mextra [1mxf86-video-mga [0m1.4.9-1
+[0mextra [1mxf86-video-neomagic [0m1.2.1-1
+[0mextra [1mxf86-video-nv [0m2.1.9-1
+[0mextra [1mxf86-video-radeonhd [0m1.2.1-1
+[0mextra [1mxf86-video-rendition [0m4.1.3-4
+[0mextra [1mxf86-video-s3 [0m0.5.0-4
+[0mextra [1mxf86-video-s3virge [0m1.10.1-1
+[0mextra [1mxf86-video-savage [0m2.2.1-1
+[0mextra [1mxf86-video-siliconmotion [0m1.5.1-4
+[0mextra [1mxf86-video-sis [0m0.9.4-3
+[0mextra [1mxf86-video-sisusb [0m0.8.1-4
+[0mextra [1mxf86-video-tdfx [0m1.4.0-1
+[0mextra [1mxf86-video-trident [0m1.3.0-2
+[0mextra [1mxf86-video-tseng [0m1.1.1-4
+[0mextra [1mxf86-video-unichrome [0m0.2.6-8
+[0mextra [1mxf86-video-v4l [0m0.1.1-4
+[0mextra [1mxf86-video-vesa [0m1.3.0-6 [7m[0m[installed][0m
+[0mextra [1mxf86-video-vga [0m4.1.0-4
+[0mextra [1mxf86-video-vmware [0m10.16.2-1
+[0mextra [1mxf86-video-voodoo [0m1.1.1-4
+[0mextra [1mxf86bigfontproto [0m1.1.2-1
+[0mextra [1mxf86dgaproto [0m2.0.3-1 [7m[0m[installed][0m
+[0mextra [1mxf86driproto [0m2.0.4-1
+[0mextra [1mxf86miscproto [0m0.9.2-1 [7m[0m[installed][0m
+[0mextra [1mxf86vidmodeproto [0m2.2.2-1 [7m[0m[installed][0m
+[0mextra [1mxfce-mcs-manager [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfce-mcs-plugins [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfce-utils [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfce4-appfinder [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfce4-artwork [0m0.1-5
+[0mextra [1mxfce4-battery-plugin [0m0.5.1-2
+[0mextra [1mxfce4-clipman-plugin [0m0.8.0-4
+[0mextra [1mxfce4-cpufreq-plugin [0m0.0.1-6
+[0mextra [1mxfce4-cpugraph-plugin [0m0.4.0-1
+[0mextra [1mxfce4-datetime-plugin [0m0.6.0-1
+[0mextra [1mxfce4-dev-tools [0m4.4.0.1-1
+[0mextra [1mxfce4-dict-plugin [0m0.2.1-5
+[0mextra [1mxfce4-diskperf-plugin [0m2.1.0-4
+[0mextra [1mxfce4-eyes-plugin [0m4.4.0-4
+[0mextra [1mxfce4-fsguard-plugin [0m0.4.1-1
+[0mextra [1mxfce4-genmon-plugin [0m3.1-4
+[0mextra [1mxfce4-icon-theme [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfce4-mailwatch-plugin [0m1.1.0-2
+[0mextra [1mxfce4-messenger-plugin [0m0.1.0-5
+[0mextra [1mxfce4-mixer [0m4.4.3-2 [7m[0m[installed][0m
+[0mextra [1mxfce4-mount-plugin [0m0.5.4-2
+[0mextra [1mxfce4-mpc-plugin [0m0.3.3-2
+[0mextra [1mxfce4-netload-plugin [0m0.4.0-4
+[0mextra [1mxfce4-notes-plugin [0m1.6.1-1
+[0mextra [1mxfce4-panel [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfce4-quicklauncher-plugin [0m1.9.4-2
+[0mextra [1mxfce4-screenshooter-plugin [0m1.0.0-5
+[0mextra [1mxfce4-sensors-plugin [0m0.10.99.6-1
+[0mextra [1mxfce4-session [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfce4-smartbookmark-plugin [0m0.4.2-6
+[0mextra [1mxfce4-systemload-plugin [0m0.4.2-4
+[0mextra [1mxfce4-taskmanager [0m0.4.1-1
+[0mextra [1mxfce4-timer-plugin [0m0.6-1
+[0mextra [1mxfce4-wavelan-plugin [0m0.5.4-4
+[0mextra [1mxfce4-weather-plugin [0m0.6.2-1
+[0mextra [1mxfce4-xfapplet-plugin [0m0.1.0-5
+[0mextra [1mxfce4-xkb-plugin [0m0.5.1-2
+[0mextra [1mxfce4-xmms-plugin [0m0.5.1-4
+[0mextra [1mxfdesktop [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfig [0m3.2.4-11
+[0mextra [1mxfprint [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfsdump [0m2.2.48-1
+[0mextra [1mxfwm4 [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxfwm4-themes [0m4.4.3-1 [7m[0m[installed][0m
+[0mextra [1mxgalaga++ [0m0.7-3
+[0mextra [1mxine-lib [0m1.1.15-2 [7m[0m[installed][0m
+[0mextra [1mxine-ui [0m0.99.5-4
+[0mextra [1mxineramaproto [0m1.1.2-1 [7m[0m[installed][0m
+[0mextra [1mxkeyboard-config [0m1.3-1 [7m[0m[installed][0m
+[0mextra [1mxmahjongg [0m3.7-2
+[0mextra [1mxmame-sdl [0m0.106-2
+[0mextra [1mxmlsec [0m1.2.11-2
+[0mextra [1mxmlto [0m0.0.21-1
+[0mextra [1mxmoto [0m0.4.2-3
+[0mextra [1mxorg-apps [0m7.4-1 [7m[0m[installed][0m
+[0mextra [1mxorg-font-utils [0m1.0.3-3 [7m[0m[installed][0m
+[0mextra [1mxorg-fonts-100dpi [0m1.0.1-1 [7m[0m[installed][0m
+[0mextra [1mxorg-fonts-75dpi [0m1.0.1-2 [7m[0m[installed][0m
+[0mextra [1mxorg-fonts-alias [0m1.0.1-1 [7m[0m[installed][0m
+[0mextra [1mxorg-fonts-cyrillic [0m1.0.0-3
+[0mextra [1mxorg-fonts-encodings [0m1.0.2-2 [7m[0m[installed][0m
+[0mextra [1mxorg-fonts-misc [0m1.0.0-3 [7m[0m[installed][0m
+[0mextra [1mxorg-fonts-type1 [0m7.3-1
+[0mextra [1mxorg-res-utils [0m1.0.3-2 [7m[0m[installed][0m
+[0mextra [1mxorg-server [0m1.4.2-2 [7m[0m[installed][0m
+[0mextra [1mxorg-server-utils [0m7.4-2 [7m[0m[installed][0m
+[0mextra [1mxorg-twm [0m1.0.4-2 [7m[0m[installed][0m
+[0mextra [1mxorg-util-macros [0m1.1.6-1
+[0mextra [1mxorg-utils [0m7.4-2 [7m[0m[installed][0m
+[0mextra [1mxorg-xauth [0m1.0.3-1 [7m[0m[installed][0m
+[0mextra [1mxorg-xdm [0m1.1.8-1
+[0mextra [1mxorg-xfs [0m1.0.8-1
+[0mextra [1mxorg-xinit [0m1.1.0-1 [7m[0m[installed][0m
+[0mextra [1mxorg-xkb-utils [0m7.4-1 [7m[0m[installed][0m
+[0mextra [1mxosd [0m2.2.14-1
+[0mextra [1mxournal [0m0.4.2.1-1
+[0mextra [1mxpdf [0m3.02_pl2-2 [7m[0m[installed][0m
+[0mextra [1mxpdf-arabic [0m20030216-2
+[0mextra [1mxpdf-chinese-simplified [0m20040427-3
+[0mextra [1mxpdf-chinese-traditional [0m20040727-3
+[0mextra [1mxpdf-cyrillic [0m20030628-2
+[0mextra [1mxpdf-greek [0m20030728-3
+[0mextra [1mxpdf-hebrew [0m20030216-3
+[0mextra [1mxpdf-japanese [0m20040727-3
+[0mextra [1mxpdf-korean [0m20050707-2
+[0mextra [1mxpdf-latin2 [0m20021022-2
+[0mextra [1mxpdf-thai [0m20020116-2
+[0mextra [1mxpdf-turkish [0m20020410-2
+[0mextra [1mxpenguins [0m2.2-1
+[0mextra [1mxpenguins_themes [0m1.0-1
+[0mextra [1mxplc [0m0.3.13-1
+[0mextra [1mxpp [0m1.5-2
+[0mextra [1mxproto [0m7.0.13-1 [7m[0m[installed][0m
+[0mextra [1mxqf [0m1.0.5-2
+[0mextra [1mxrally [0m1.1.1-1
+[0mextra [1mxsane [0m0.996-1
+[0mextra [1mxscorch [0m0.2.0-1
+[0mextra [1mxscreensaver [0m5.07-1
+[0mextra [1mxskat [0m4.0-2
+[0mextra [1mxsmbrowser [0m3.4.0-2
+[0mextra [1mxsnow [0m1.42-4
+[0mextra [1mxsp [0m2.0-1
+[0mextra [1mxterm [0m237-1 [7m[0m[installed][0m
+[0mextra [1mxtermcontrol [0m2.9-1
+[0mextra [1mxtrans [0m1.2.2-1 [7m[0m[installed][0m
+[0mextra [1mxulrunner [0m1.9.0.3-1 [7m[0m[installed][0m
+[0mextra [1mxvattr [0m1.3-1
+[0mextra [1mxvidcap [0m1.1.7rc1-1
+[0mextra [1mxvidcore [0m1.1.3-2 [7m[0m[installed][0m
+[0mextra [1mxzgv [0m0.9-1
+[0mextra [1myabasic [0m2.763-4
+[0mextra [1myafray [0m0.0.9-3
+[0mextra [1myakuake [0m2.9.4-1
+[0mextra [1myasm [0m0.7.2-1
+[0mextra [1myelp [0m2.24.0-2 [7m[0m[installed][0m
+[0mextra [1myodl [0m2.04-1
+[0mextra [1myp-tools [0m2.10-1
+[0mextra [1mypbind-mt [0m1.20.4-1
+[0mextra [1mypserv [0m2.19-1
+[0mextra [1myudit [0m2.9.0-1
+[0mextra [1mzebra [0m0.95a-2
+[0mextra [1mzenity [0m2.24.0-1
+[0mextra [1mzile [0m2.2.59-2
+[0mextra [1mzim [0m0.27-1
+[0mextra [1mzip [0m3.0-1
+[0mextra [1mzope [0m3.3.1-1
+[0mextra [1mzope-interface [0m3.5.0-1
+[0mextra [1mzope2 [0m2.11.1-1
+[0mextra [1mzsh [0m4.3.9-1
+[0mextra [1mzsnes [0m1.51-5
+[0mextra [1mzsync [0m0.5-1
+[0mextra [1mzvbi [0m0.2.26-1 [7m[0m[installed][0m
+[0mcommunity [1m6tunnel [0m0.11rc2-3
+[0mcommunity [1m855resolution [0m0.4-5
+[0mcommunity [1m915resolution [0m0.5.3-1
+[0mcommunity [1m9base [0m2-3
+[0mcommunity [1mabyssws [0m2.5-2
+[0mcommunity [1macerhk [0m0.5.35-11
+[0mcommunity [1macetoneiso2 [0m2.0.2-2
+[0mcommunity [1macpitool [0m0.4.7-2
+[0mcommunity [1maddresses [0m0.4.6-2
+[0mcommunity [1madesklet-asimpleclock [0m0.0.3-6
+[0mcommunity [1madesklet-aurnotify [0m0.0.5-1
+[0mcommunity [1madesklet-calendar [0m0.5.3-6
+[0mcommunity [1madesklet-systemmonitor [0m0.1.3-3
+[0mcommunity [1madesklet-weatherforecast [0m0.2.0-8
+[0mcommunity [1madesklet-yab [0m0.0.2-5
+[0mcommunity [1madesklets [0m0.6.1-8
+[0mcommunity [1madns [0m1.4-1
+[0mcommunity [1madns-python [0m1.2.1-1
+[0mcommunity [1magave [0m0.4.4-2
+[0mcommunity [1magsync [0m0.2_pre-2
+[0mcommunity [1maircrack-ng [0m1.0_rc1-1
+[0mcommunity [1mairsnort [0m0.2.7e-4
+[0mcommunity [1majaxterm [0m0.10-2
+[0mcommunity [1majaxterm-utf8-svn [0m61-1
+[0mcommunity [1maldo [0m0.7.5-1
+[0mcommunity [1malexandria [0m0.6.3-5
+[0mcommunity [1malsa-plugins [0m1.0.18-1
+[0mcommunity [1malunn [0m0.7.8-1
+[0mcommunity [1mamaya [0m10.0.1-1
+[0mcommunity [1mamidi-plug [0m0.7-3
+[0mcommunity [1mamsn [0m0.97.2-1
+[0mcommunity [1mamyedit [0m1.0-3 [7m[0m[installed][0m
+[0mcommunity [1manacron [0m2.3-8
+[0mcommunity [1many2dvd [0m0.34-3
+[0mcommunity [1manyfs [0m0.84.12-2
+[0mcommunity [1manyfs-tools [0m0.84.12-1
+[0mcommunity [1mapache13 [0m1.3.41-3
+[0mcommunity [1mapache13-mod_accounting [0m0.5-2
+[0mcommunity [1mapache13-mod_bandwidth [0m2.1-1
+[0mcommunity [1mapcupsd [0m3.14.4-1
+[0mcommunity [1mapg [0m2.2.3-1
+[0mcommunity [1mapparix [0m08.206-1
+[0mcommunity [1maqbanking [0m3.8.0-1
+[0mcommunity [1maqua-data-studio [0m4.7.2-2
+[0mcommunity [1march-artwork [0m0.2.1-2
+[0mcommunity [1march-backup [0m0.8.7-1
+[0mcommunity [1march-firefox-search [0m0.7-3
+[0mcommunity [1march-wiki-docs [0m20081110-1
+[0mcommunity [1marchlinux-xdg-menu [0m0.7.3-1
+[0mcommunity [1margouml [0m0.26-1
+[0mcommunity [1marmagetronad [0m0.3.0-1
+[0mcommunity [1marora-git [0m20081026-1
+[0mcommunity [1marpack [0m2.1-3
+[0mcommunity [1marpwatch [0m2.1a15-4
+[0mcommunity [1masciidoc [0m8.2.7-1
+[0mcommunity [1masciijump [0m1.0.2beta-4
+[0mcommunity [1masio [0m1.2.0-1
+[0mcommunity [1maspell-ca [0m20040130-3
+[0mcommunity [1maspell-cs [0m20040614-1
+[0mcommunity [1maspell-pl [0m20061121-1
+[0mcommunity [1maspell-pt_br [0m20080707-1
+[0mcommunity [1maspell-uk [0m1.5.0-1
+[0mcommunity [1massaultcube [0m0.93-2
+[0mcommunity [1mastyle [0m1.22-1
+[0mcommunity [1masunder [0m1.6.1-1
+[0mcommunity [1matanks [0m3.0-2
+[0mcommunity [1matk-docs [0m1.24.0-1
+[0mcommunity [1matool [0m0.35.0-2
+[0mcommunity [1mauctex [0m11.85-1
+[0mcommunity [1maudacious-itouch-control [0m0.1.1-1
+[0mcommunity [1maudio-convert [0m0.3.1.1-3
+[0mcommunity [1maumix-gtk [0m2.8-3
+[0mcommunity [1maurtools [0m1.3.0-2
+[0mcommunity [1mautocutsel [0m0.9.0-2
+[0mcommunity [1mavant-window-navigator [0m0.2.6-3
+[0mcommunity [1mavifile [0m0.7.45-1
+[0mcommunity [1mavr-libc [0m1.6.2-1
+[0mcommunity [1mavrdude [0m5.5-3
+[0mcommunity [1mawesome [0m3.0-2
+[0mcommunity [1mawn-extras-applets [0m0.2.6-2
+[0mcommunity [1maxel [0m2.2-1
+[0mcommunity [1mbakery [0m2.4.4-1
+[0mcommunity [1mbalsa [0m2.3.24-2
+[0mcommunity [1mbar [0m1.4-1
+[0mcommunity [1mbarrage [0m1.0.2-3
+[0mcommunity [1mbase64 [0m1.4-1
+[0mcommunity [1mbashburn [0m2.1.2-3
+[0mcommunity [1mbbdock [0m0.2.8-2
+[0mcommunity [1mbbpager [0m0.4.7-2
+[0mcommunity [1mbbppp [0m0.2.5-1
+[0mcommunity [1mbbrun [0m1.6-2
+[0mcommunity [1mbchunk [0m1.2.0-1
+[0mcommunity [1mbeast [0m0.7.1-1
+[0mcommunity [1mbeautiful-soup [0m3.0.7a-2
+[0mcommunity [1mbeaver [0m0.3.0.1-5
+[0mcommunity [1mbhv [0m0.0.10-1
+[0mcommunity [1mbibledesktop [0m1.6-2
+[0mcommunity [1mbiew [0m5.6.4-3
+[0mcommunity [1mbillreminder [0m0.3.2-1
+[0mcommunity [1mbin2iso [0m1.9b-1
+[0mcommunity [1mbind-geodns [0m9.4.1-1
+[0mcommunity [1mbinutils-avr [0m2.18-1
+[0mcommunity [1mbinutils-info [0m2.18-1
+[0mcommunity [1mblackbox [0m0.70.1-5
+[0mcommunity [1mblobwars [0m1.08-1
+[0mcommunity [1mblueman [0m0.3-5
+[0mcommunity [1mbluemote [0m2.0-5
+[0mcommunity [1mbluez-firmware [0m1.2-2
+[0mcommunity [1mbluez-hcidump [0m1.42-1
+[0mcommunity [1mbmpanel [0m0.9.27-1
+[0mcommunity [1mboinc [0m6.2.15-1
+[0mcommunity [1mbrasero [0m0.8.3-1 [7m[0m[installed][0m
+[0mcommunity [1mbsd-games [0m2.17-7
+[0mcommunity [1mbse-alsa [0m0.7.1-3
+[0mcommunity [1mbugzilla [0m3.0.5-1
+[0mcommunity [1mbuildbot [0m0.7.9-1
+[0mcommunity [1mbuoh [0m0.8.2-3
+[0mcommunity [1mbusybox [0m1.12.2-1
+[0mcommunity [1mbwbar [0m1.2.3-1
+[0mcommunity [1mbwidget [0m1.8.0-2
+[0mcommunity [1mbwm-ng [0m0.6-2
+[0mcommunity [1mbygfoot [0m2.2.1-1
+[0mcommunity [1mbzrtools [0m0.91.0-1
+[0mcommunity [1mc2html [0m1.1.0-3
+[0mcommunity [1mcacti [0m0.8.7b-1
+[0mcommunity [1mcadaver [0m0.23.2-1
+[0mcommunity [1mcairo-docs [0m1.8.0-1
+[0mcommunity [1mcalc [0m2.12.2.2-1
+[0mcommunity [1mcalcurse [0m2.3-1
+[0mcommunity [1mcampgen [0m0.27-1
+[0mcommunity [1mcarworld [0m0.243-2
+[0mcommunity [1mcastget [0m0.9.6-1
+[0mcommunity [1mcatfish [0m0.3-1
+[0mcommunity [1mccd2iso [0m0.3-4
+[0mcommunity [1mcchost [0m4.0.1-1
+[0mcommunity [1mccrypt [0m1.7-5
+[0mcommunity [1mccsm [0m0.7.8-2
+[0mcommunity [1mccze [0m0.2.1-3
+[0mcommunity [1mcdbxx [0m0.0.1rc2-1
+[0mcommunity [1mcdck [0m0.7.0-1
+[0mcommunity [1mcdcover [0m0.7.1-1
+[0mcommunity [1mcdfs [0m2.6.23-3
+[0mcommunity [1mcedet [0m1.0pre4-1
+[0mcommunity [1mceferino [0m0.97.8-3
+[0mcommunity [1mcheckgmail [0m1.13-3
+[0mcommunity [1mcheckinstall [0m1.6.1-2
+[0mcommunity [1mcherokee [0m0.10.1-1
+[0mcommunity [1mcherrypy [0m3.1.0-2
+[0mcommunity [1mchromium [0m0.9.12-6
+[0mcommunity [1mchrootuid [0m1.3-2
+[0mcommunity [1mchuck [0m1.2.1.1-1
+[0mcommunity [1mcinelerra-cv [0m1061-3
+[0mcommunity [1mcjc [0m1.0.0-2
+[0mcommunity [1mcksfv [0m1.3.12-1
+[0mcommunity [1mclasspath [0m0.97.1-1
+[0mcommunity [1mclearlooks [0m0.6.2-5
+[0mcommunity [1mclearsilver [0m0.10.5-3
+[0mcommunity [1mclewn [0m1.13-3
+[0mcommunity [1mclive [0m1.0.1-2
+[0mcommunity [1mclutter [0m0.8.2-1
+[0mcommunity [1mcodeblocks [0m8.02-6
+[0mcommunity [1mcodeine [0m1.0.1-2
+[0mcommunity [1mcolordiff [0m1.0.7-2
+[0mcommunity [1mcolorer [0mtake5.be5-3
+[0mcommunity [1mcomgt [0m0.32-1
+[0mcommunity [1mcomical [0m0.8-3
+[0mcommunity [1mcomix [0m3.6.5-1
+[0mcommunity [1mcompiz-bcop [0m0.7.8-1
+[0mcommunity [1mcompiz-core [0m0.7.8-1 [7m[0m[installed][0m
+[0mcommunity [1mcompiz-decorator-gtk [0m0.7.8-4
+[0mcommunity [1mcompiz-decorator-kde [0m0.7.8-2
+[0mcommunity [1mcompiz-fusion-plugins-extra [0m0.7.8-1
+[0mcommunity [1mcompiz-fusion-plugins-main [0m0.7.8-2
+[0mcommunity [1mcompiz-manager [0m0.6.0-2 [7m[0m[installed][0m
+[0mcommunity [1mcompizconfig-backend-gconf [0m0.7.8-1
+[0mcommunity [1mcompizconfig-backend-kconfig [0m0.7.8-1
+[0mcommunity [1mcompizconfig-python [0m0.7.8-1 [7m[0m[installed][0m
+[0mcommunity [1mcomputertemp [0m0.9.6.1-3
+[0mcommunity [1mconfuse [0m2.6-1
+[0mcommunity [1mconkeror-git [0m20081113-1
+[0mcommunity [1mcopas [0m1.1.3-6
+[0mcommunity [1mcourier-pythonfilter [0m1.4-3
+[0mcommunity [1mcoxpcall [0m1.13.0-3
+[0mcommunity [1mcppunit [0m1.12.1-1
+[0mcommunity [1mcpulimit [0m1.1-1
+[0mcommunity [1mcrack-attack [0m1.1.14-4
+[0mcommunity [1mcrafty [0m22.1-5
+[0mcommunity [1mcritter [0m1.0.2-3
+[0mcommunity [1mcross-arm-elf-binutils [0m2.18-1
+[0mcommunity [1mcross-arm-elf-gcc-base [0m4.3.2-1
+[0mcommunity [1mcross-arm-wince-cegcc-binutils [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-cegccdll [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-cegccdll-dummy [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-cegccthrddll [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-docs [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-gcc [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-gcc-base [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-gdb [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-gdbstub [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-importlibs [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-libstdcppdll [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-newlib [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-profile [0m0.51.0-1
+[0mcommunity [1mcross-arm-wince-cegcc-w32api [0m0.51.0-1
+[0mcommunity [1mcrossvc [0m1.5.2-1
+[0mcommunity [1mctemplate [0m0.91-1
+[0mcommunity [1mcube [0m2005_08_29-8
+[0mcommunity [1mcupsddk [0m1.2.3-3
+[0mcommunity [1mcurlftpfs [0m0.9.2-1
+[0mcommunity [1mcutter [0m1.03-1
+[0mcommunity [1mcuyo [0m2.1.1-3
+[0mcommunity [1mcvs-feature [0m1.12.13-2
+[0mcommunity [1mcwdaemon [0m0.9.4-1
+[0mcommunity [1mcwirc [0m2.0.0-1
+[0mcommunity [1mcxxtest [0m3.10.1-3
+[0mcommunity [1mdangerdeep [0m0.3.0-3
+[0mcommunity [1mdangerdeep-data [0m0.3.0-1
+[0mcommunity [1mdar [0m2.3.8-1
+[0mcommunity [1mdarkhttpd [0m1.5-2
+[0mcommunity [1mdatemath [0m2.0.10-1
+[0mcommunity [1mdbhub [0m0.451-1
+[0mcommunity [1mdbmail [0m2.2.11rc3-1
+[0mcommunity [1mdbus-glib-docs [0m0.76-1
+[0mcommunity [1mddclient [0m3.7.3-2
+[0mcommunity [1mdeb2targz [0m1-2
+[0mcommunity [1mdelegate [0m9.7.7-1
+[0mcommunity [1mdev86 [0m0.16.17-5
+[0mcommunity [1mdevede [0m3.11b-2
+[0mcommunity [1mdfm [0m0.99.9-1.1
+[0mcommunity [1mdgpsip [0m1.35-3
+[0mcommunity [1mdguitar [0m0.5.8-1
+[0mcommunity [1mdiacanvas [0m0.15.4-1
+[0mcommunity [1mdialog-w [0m1.1_20070704-1
+[0mcommunity [1mdictd [0m1.9.15-4
+[0mcommunity [1mdietlibc [0m0.31-1
+[0mcommunity [1mdiff2html [0m1.0.1-1
+[0mcommunity [1mdillo [0m2.0-1
+[0mcommunity [1mdina-font [0m2.89-2
+[0mcommunity [1mdirectfb [0m1.2.0-1
+[0mcommunity [1mdiscid [0m0.1.3-3
+[0mcommunity [1mdivx4linux [0m6.1.1-1
+[0mcommunity [1mdjview4 [0m4.4-3
+[0mcommunity [1mdkfilter [0m0.11-6
+[0mcommunity [1mdmd [0m1.035-1
+[0mcommunity [1mdocbook2x [0m0.8.8-2
+[0mcommunity [1mdocutils [0m0.5-3
+[0mcommunity [1mdokuwiki [0m20080505-2
+[0mcommunity [1mdosemu [0m1.4.0-1
+[0mcommunity [1mdriconf [0m0.9.1-1
+[0mcommunity [1mdriftnet [0m0.1.6-1
+[0mcommunity [1mdrupal [0m6.6-1
+[0mcommunity [1mdsniff [0m2.4b1-12
+[0mcommunity [1mdspam [0m3.8.0-2
+[0mcommunity [1mdsss [0m0.78-1
+[0mcommunity [1mdtach [0m0.8-3
+[0mcommunity [1mduff [0m0.4-1
+[0mcommunity [1mdumb [0m0.9.3-1
+[0mcommunity [1mduplicity [0m0.5.02-2
+[0mcommunity [1mdvbshout [0m0.2-1
+[0mcommunity [1mdvdstyler [0m1.7.0-1
+[0mcommunity [1mdwdiff [0m1.4-1
+[0mcommunity [1mdwm [0m5.2-2
+[0mcommunity [1mdxcc [0m20080225-1
+[0mcommunity [1mdxpc [0m3.9.1-1
+[0mcommunity [1mdynamite [0m0.1.1-1
+[0mcommunity [1mdzen2 [0m0.8.5-2
+[0mcommunity [1me-modules-extra-svn [0m37079-1
+[0mcommunity [1me-svn [0m37136-1
+[0mcommunity [1me_dbus-svn [0m36866-1
+[0mcommunity [1mebook2cw [0m0.7.0-1
+[0mcommunity [1mecb [0m2.32-3
+[0mcommunity [1mechat [0m0.02-1
+[0mcommunity [1meclipse-emf [0m2.4.1-1
+[0mcommunity [1meclipse-epic [0m0.6.13-1
+[0mcommunity [1meclipse-gef [0m3.4.1-1
+[0mcommunity [1meclipse-mylyn [0m3.0.0-1
+[0mcommunity [1meclipse-phpeclipse [0m1.1.8-6
+[0mcommunity [1meclipse-pydev [0m1.3.24-1
+[0mcommunity [1meclipse-subclipse [0m1.4.5-1
+[0mcommunity [1meclipse-ve [0m1.2.3_jem-3
+[0mcommunity [1mecore-svn [0m37040-1
+[0mcommunity [1medje-svn [0m37131-1
+[0mcommunity [1meet-svn [0m37118-1
+[0mcommunity [1mefreet-svn [0m37098-1
+[0mcommunity [1meiciel [0m0.9.6-1
+[0mcommunity [1meina-svn [0m37104-1
+[0mcommunity [1mejabberd [0m2.0.2-1
+[0mcommunity [1mejabberd-mod_archive-svn [0m760-1
+[0mcommunity [1mekg [0m1.7-1
+[0mcommunity [1mekg2 [0m20080823-2
+[0mcommunity [1mekg2-unicode [0m20080823-2
+[0mcommunity [1melectricsheep [0m2.6.8-4
+[0mcommunity [1melisa-base [0m0.5.17-1
+[0mcommunity [1melisa-plugins [0m0.5.17-1
+[0mcommunity [1melitaire-svn [0m37023-1
+[0mcommunity [1mem8300 [0m0.16.4-1
+[0mcommunity [1mem8300-utils [0m0.16.4-1
+[0mcommunity [1memacs-color-theme [0m6.6.0-2
+[0mcommunity [1memacs-cvs [0m20080922-1
+[0mcommunity [1memacs-haskell-mode [0m2.4-2
+[0mcommunity [1memacs-lua-mode [0m20071122-1
+[0mcommunity [1memacs-nox [0m22.3-2
+[0mcommunity [1memacs-php-mode [0m1.4.0-1
+[0mcommunity [1memacs-python-mode [0m1.0-4
+[0mcommunity [1memacs-w3m [0m1.4.4-1
+[0mcommunity [1memacs-w3m-cvs [0m20071221-1
+[0mcommunity [1membryo-svn [0m37128-1
+[0mcommunity [1memerald [0m0.7.8-1 [7m[0m[installed][0m
+[0mcommunity [1memerald-themes [0m0.6.0-2
+[0mcommunity [1memesene [0m1.0.1-1
+[0mcommunity [1memprint-svn [0m36364-1
+[0mcommunity [1menca [0m1.9-3
+[0mcommunity [1mencfs [0m1.5-3
+[0mcommunity [1menet [0m1.2-1
+[0mcommunity [1mengrave-svn [0m36983-1
+[0mcommunity [1menter [0m0.0.9-1
+[0mcommunity [1mentrance-svn [0m37090-1
+[0mcommunity [1mepic4 [0m2.10-1
+[0mcommunity [1mepsilon-svn [0m36470-1
+[0mcommunity [1mepydoc [0m3.0-2
+[0mcommunity [1mesekeyd [0m1.2.3-4
+[0mcommunity [1mesmart-svn [0m37090-1
+[0mcommunity [1mesmtp [0m0.6.0-2
+[0mcommunity [1mespeak [0m1.39-1
+[0mcommunity [1meterm [0m0.9.5-2
+[0mcommunity [1metk-svn [0m37085-1
+[0mcommunity [1metracer [0m0.40-2
+[0mcommunity [1mevas-svn [0m37112-1
+[0mcommunity [1meverygui [0m0.99.b-2
+[0mcommunity [1mewl-svn [0m37089-1
+[0mcommunity [1mexaile [0m0.2.14-1
+[0mcommunity [1mexhibit-svn [0m36984-2
+[0mcommunity [1mexml-svn [0m36364-1
+[0mcommunity [1mfactor [0m0.91-1
+[0mcommunity [1mfail2ban [0m0.8.3-1
+[0mcommunity [1mfbdump [0m0.4.2-1
+[0mcommunity [1mfbgetty [0m0.1.698-1
+[0mcommunity [1mfbgrab [0m1.0-3
+[0mcommunity [1mfbnews [0m0.5.1-1.1
+[0mcommunity [1mfbpager [0m0.1.4-3
+[0mcommunity [1mfbpanel [0m4.12-1
+[0mcommunity [1mfbreader [0m0.8.17-1
+[0mcommunity [1mfbv [0m1.0b-1
+[0mcommunity [1mfceu [0m0.98.13-3
+[0mcommunity [1mfcrackzip [0m1.0-1
+[0mcommunity [1mfcron [0m3.0.4-1
+[0mcommunity [1mfdlog [0m1.146-4
+[0mcommunity [1mfdm [0m1.4-1
+[0mcommunity [1mfdupes [0m1.40-4
+[0mcommunity [1mffmpeg2theora [0m0.21-2
+[0mcommunity [1mffmpegthumbnailer [0m1.3.0-1
+[0mcommunity [1mfgetty [0m0.6-2
+[0mcommunity [1mfilezilla [0m3.1.2-1
+[0mcommunity [1mfillets-ng [0m0.8.0-6
+[0mcommunity [1mfillets-ng-data [0m0.8.0-1
+[0mcommunity [1mfirefox-spell-pt-br [0m3.0.3-1
+[0mcommunity [1mfirefox-spell-ru [0m0.2.1-2
+[0mcommunity [1mfirehol [0m1.273-2
+[0mcommunity [1mfish [0m1.23.0-1
+[0mcommunity [1mflac123 [0m0.0.11-2
+[0mcommunity [1mflamerobin [0m0.9.0-1
+[0mcommunity [1mfldiff [0m1.1-1
+[0mcommunity [1mfldigi [0m2.10.3-1
+[0mcommunity [1mfldigi-docs [0m2.10-3
+[0mcommunity [1mflightgear [0m1.0.0-1
+[0mcommunity [1mflightgear-atlas [0m0.3.0-5
+[0mcommunity [1mflightgear-data [0m1.0.0-1
+[0mcommunity [1mflobopuyo [0m0.20-3
+[0mcommunity [1mflock [0m2.0-1
+[0mcommunity [1mfloyd [0m2.0.1-2
+[0mcommunity [1mfltk2 [0m2.0-1.1
+[0mcommunity [1mflumotion [0m0.4.2-1
+[0mcommunity [1mflyspray [0m0.9.9.5.1-1
+[0mcommunity [1mfont-mathematica [0m6.0-1
+[0mcommunity [1mfonteditfs [0m1.2-1
+[0mcommunity [1mfox-legacy [0m1.4.35-1
+[0mcommunity [1mfpc [0m2.2.3-2
+[0mcommunity [1mfpc-src [0m2.2.3-1
+[0mcommunity [1mfreedesktop-docs [0m20070711-1
+[0mcommunity [1mfreedroid [0m1.0.2-2
+[0mcommunity [1mfreedroidrpg [0m0.11-1
+[0mcommunity [1mfreemat [0m3.6-2
+[0mcommunity [1mfreemind [0m0.8.1-1
+[0mcommunity [1mfreeradius [0m2.0.5-1
+[0mcommunity [1mfreeradius-client [0m1.1.6-1
+[0mcommunity [1mfreetalk [0m3.0-1
+[0mcommunity [1mfreetds [0m0.82-1
+[0mcommunity [1mfreevo [0m1.8.2-2
+[0mcommunity [1mfreewrl [0m1.20.1-1
+[0mcommunity [1mfrostwire [0m4.17.1-1
+[0mcommunity [1mftpmonitor [0m0.80-1
+[0mcommunity [1mfuseiso [0m20070708-1
+[0mcommunity [1mfusion-icon [0m20080313-1 [7m[0m[installed][0m
+[0mcommunity [1mfxdesktop [0m0.1.12-1
+[0mcommunity [1mfxprocessview [0m0.5.0-1
+[0mcommunity [1mg2sc [0m0.2-2
+[0mcommunity [1mgalago-daemon [0m0.5.1-1
+[0mcommunity [1mgambas2 [0m2.8.2-1
+[0mcommunity [1mgamin [0m0.1.9-4
+[0mcommunity [1mgammu [0m1.21.0-1
+[0mcommunity [1mgaupol [0m0.13.1-2
+[0mcommunity [1mgavl [0m1.0.1-1
+[0mcommunity [1mgazpacho [0m0.7.2-2
+[0mcommunity [1mgcc-avr [0m4.3.2-1
+[0mcommunity [1mgcc-info [0m4.3.0-1
+[0mcommunity [1mgcolor2 [0m0.4-4
+[0mcommunity [1mgcompris [0m8.4.7-2
+[0mcommunity [1mgcstar [0m1.4.3-1
+[0mcommunity [1mgdal [0m1.5.3-1
+[0mcommunity [1mgdal-grass [0m1.4.3-2
+[0mcommunity [1mgdm-themes [0m2.4-4
+[0mcommunity [1mgdmap [0m0.8.1-1
+[0mcommunity [1mgeany [0m0.15-1 [7m[0m[installed][0m
+[0mcommunity [1mgecko-mediaplayer [0m0.9.0-1
+[0mcommunity [1mgedit-plugins [0m2.22.5-3 [7m[0m[installed][0m
+[0mcommunity [1mgen2shp [0m0.3.1-4
+[0mcommunity [1mgenerator [0m0.35_cbiere_r3-3
+[0mcommunity [1mgensplash [0m1.4.2.1-1
+[0mcommunity [1mgeoid [0m1.0107-1
+[0mcommunity [1mgeos [0m3.0.0-3 [7m[0m[installed][0m
+[0mcommunity [1mgfceu [0m0.6.0-1
+[0mcommunity [1mgg2 [0m2.3.0-1
+[0mcommunity [1mghemical [0m2.98-2
+[0mcommunity [1mgimmage [0m0.2.3-2
+[0mcommunity [1mgimmie [0m0.2.8-2
+[0mcommunity [1mgimmix [0m0.5.2-1
+[0mcommunity [1mgimp-mathmap [0m1.2.4-3
+[0mcommunity [1mgimp-plugin-greycstoration [0m2.9-1
+[0mcommunity [1mgimpshop [0m2.2.11-4
+[0mcommunity [1mgkrellm [0m2.3.2-1
+[0mcommunity [1mgkrellmpc [0m0.1_beta9-4
+[0mcommunity [1mgl-117 [0m1.3.2-2
+[0mcommunity [1mglade-docs [0m3.5.2-1
+[0mcommunity [1mglest [0m3.1.2-2
+[0mcommunity [1mglest-data [0m3.1.2-2
+[0mcommunity [1mglib2-docs [0m2.18.0-1
+[0mcommunity [1mglipper [0m1.0-8 [7m[0m[installed][0m
+[0mcommunity [1mglipper-old [0m0.95.1-2
+[0mcommunity [1mglitz [0m0.5.6-1
+[0mcommunity [1mgliv [0m1.9.6-1
+[0mcommunity [1mglob2 [0m0.9.3-1
+[0mcommunity [1mglom [0m1.4.4-1
+[0mcommunity [1mgloox [0m0.9.9.5-3
+[0mcommunity [1mgmailfs [0m0.8.0-1
+[0mcommunity [1mgmerlin [0m0.3.8-1
+[0mcommunity [1mgmerlin-avdecoder [0m0.1.8-1
+[0mcommunity [1mgmrun [0m0.9.2-2
+[0mcommunity [1mgmusicbrowser [0m1.0-1
+[0mcommunity [1mgnochm [0m0.9.11-3
+[0mcommunity [1mgnome-commander [0m1.2.7-2
+[0mcommunity [1mgnome-cups-manager [0m0.33-4
+[0mcommunity [1mgnome-do [0m0.6.1.0-3
+[0mcommunity [1mgnome-keyring-sharp-svn [0m87622-3
+[0mcommunity [1mgnome-mastermind [0m0.3.1-1
+[0mcommunity [1mgnome-mplayer [0m0.9.1-1
+[0mcommunity [1mgnome-ppp [0m0.3.23-3
+[0mcommunity [1mgnome-python-docs [0m2.24.0-1
+[0mcommunity [1mgnome-schedule [0m2.0.2-1
+[0mcommunity [1mgnome-subtitles [0m0.8-6
+[0mcommunity [1mgnome-system-tools [0m2.22.1-1
+[0mcommunity [1mgnome-vfs-docs [0m2.24.0-1
+[0mcommunity [1mgnomebaker [0m0.6.4-1
+[0mcommunity [1mgnomesu [0m0.3.1-5
+[0mcommunity [1mgnonlin [0m0.10.10-1
+[0mcommunity [1mgnormalize [0m0.63-1
+[0mcommunity [1mgnubiff [0m2.2.10-1
+[0mcommunity [1mgnubiff-gtk [0m2.2.10-1
+[0mcommunity [1mgnuconcept [0m0.3.5-1
+[0mcommunity [1mgnudoku [0m0.93-3
+[0mcommunity [1mgnuhtml2latex [0m0.3-1
+[0mcommunity [1mgnumail [0m1.2.0pre3-1
+[0mcommunity [1mgnump3d [0m3.0-2
+[0mcommunity [1mgnunet [0m0.8.0-2
+[0mcommunity [1mgnunet-gtk [0m0.8.0-2
+[0mcommunity [1mgnustep-back [0m0.14.0-1
+[0mcommunity [1mgnustep-base [0m1.16.3-1
+[0mcommunity [1mgnustep-gui [0m0.14.0-1
+[0mcommunity [1mgnustep-make [0m2.0.6-1
+[0mcommunity [1mgnutu [0m2.5-1
+[0mcommunity [1mgobby [0m0.4.8-1 [7m[0m[installed][0m
+[0mcommunity [1mgogh [0m0.1.2.1-3
+[0mcommunity [1mgoocanvas [0m0.12-1
+[0mcommunity [1mgourmet [0m0.13.4-2
+[0mcommunity [1mgpa [0m0.7.6-1
+[0mcommunity [1mgpac [0m0.4.4-2
+[0mcommunity [1mgpg-crypter [0m0.3.5-3 [7m[0m[installed][0m
+[0mcommunity [1mgphotofs [0m0.3-2
+[0mcommunity [1mgphpedit [0m0.9.91-3
+[0mcommunity [1mgpicview [0m0.1.10-2
+[0mcommunity [1mgpodder [0m0.13.1-1
+[0mcommunity [1mgpredict [0m0.9.0-1
+[0mcommunity [1mgprename [0m2.6-1
+[0mcommunity [1mgproftpd [0m8.3.2-2
+[0mcommunity [1mgprolog [0m1.3.0-3
+[0mcommunity [1mgps [0m1.1.0-1
+[0mcommunity [1mgpsbabel [0m1.3.6-1
+[0mcommunity [1mgpsd [0m2.37-2
+[0mcommunity [1mgpsdrive [0m2.10pre4-1
+[0mcommunity [1mgpsim [0m0.22.0-1
+[0mcommunity [1mgpsk31 [0m0.5-1
+[0mcommunity [1mgpsman [0m6.3.2-1
+[0mcommunity [1mgpsmanshp [0m1.2-2
+[0mcommunity [1mgputils [0m0.13.5-1
+[0mcommunity [1mgq [0m1.2.3-1
+[0mcommunity [1mgquilt [0m0.20-1
+[0mcommunity [1mgrace [0m5.1.22-1
+[0mcommunity [1mgramps [0m3.0.3-2
+[0mcommunity [1mgraphicsmagick [0m1.2.5-2
+[0mcommunity [1mgrass [0m6.2.3-1
+[0mcommunity [1mgresolver [0m0.0.5-4
+[0mcommunity [1mgreycstoration [0m2.9-1
+[0mcommunity [1mgri [0m2.12.18-3
+[0mcommunity [1mgriffith [0m0.9.7.1-2
+[0mcommunity [1mgrig [0m0.7.2-1
+[0mcommunity [1mgroff-utf8 [0m1-1
+[0mcommunity [1mgromacs [0m3.3.3-2
+[0mcommunity [1mgrsync [0m0.6.1-1
+[0mcommunity [1mgrub-gfx [0m0.97-9
+[0mcommunity [1mgshare [0m0.94-2
+[0mcommunity [1mgshutdown [0m0.2-1
+[0mcommunity [1mgsopcast [0m0.4.0-2
+[0mcommunity [1mgstm [0m1.2-1
+[0mcommunity [1mgstreamer0.10-pulse [0m0.9.7-1
+[0mcommunity [1mgsynaptics [0m0.9.14-2
+[0mcommunity [1mgtk-aurora-engine [0m1.4-1
+[0mcommunity [1mgtk-candido-engine [0m0.9.1-3
+[0mcommunity [1mgtk-chtheme [0m0.3.1-4
+[0mcommunity [1mgtk-engine-murrine [0m0.53.1-1
+[0mcommunity [1mgtk-gnutella [0m0.96.5-2
+[0mcommunity [1mgtk-recordmydesktop [0m0.3.7-1
+[0mcommunity [1mgtk-rezlooks-engine [0m0.6-8
+[0mcommunity [1mgtk2+extra [0m2.1.1-1
+[0mcommunity [1mgtk2-docs [0m2.14.3-1
+[0mcommunity [1mgtk2_prefs [0m0.4.1-1
+[0mcommunity [1mgtk2fontsel [0m0.1-2
+[0mcommunity [1mgtkballs [0m3.1.5-1
+[0mcommunity [1mgtkdatabox [0m0.7.0.1-1
+[0mcommunity [1mgtkdialog [0m0.7.20-1
+[0mcommunity [1mgtkmmorse [0m0.9.27-1
+[0mcommunity [1mgtkperf [0m0.40-2
+[0mcommunity [1mgtranslator [0m1.1.7-3
+[0mcommunity [1mgtvg [0m0.3-2
+[0mcommunity [1mgtweakui [0m0.4.0-2
+[0mcommunity [1mgtypist [0m2.8-2
+[0mcommunity [1mguake [0m0.3.1-2
+[0mcommunity [1mguarddog [0m2.6.0-3
+[0mcommunity [1mgufw [0m0.20.2-2
+[0mcommunity [1mguichan [0m0.8.1-1
+[0mcommunity [1mguifications [0m2.16-1
+[0mcommunity [1mgutenpy [0m0.3.0-5
+[0mcommunity [1mgwenhywfar [0m3.4.0-1
+[0mcommunity [1mgwget [0m0.99-4
+[0mcommunity [1mgxmessage [0m2.6.2-3
+[0mcommunity [1mhacburn [0m0.3.5-3
+[0mcommunity [1mhal-cups-utils [0m0.6.13-1
+[0mcommunity [1mhamachi [0m0.9.9.9_20-5
+[0mcommunity [1mhamlib [0m1.2.7-1
+[0mcommunity [1mhamradio-menus [0m1.0-1
+[0mcommunity [1mhardinfo [0m0.4.2.3-3
+[0mcommunity [1mhashcash [0m1.22-1
+[0mcommunity [1mhaskell-x11 [0m1.4.2-1.2
+[0mcommunity [1mhatari [0m1.0.1-1
+[0mcommunity [1mhddtemp [0m0.3.beta15.38-1
+[0mcommunity [1mhedgewars [0m0.9.7-1
+[0mcommunity [1mhevea [0m1.10-1
+[0mcommunity [1mhex-a-hop [0m20070705-6
+[0mcommunity [1mhgsvn [0m0.1.6-2
+[0mcommunity [1mhomebank [0m3.8-1
+[0mcommunity [1mhsoconnect [0m1.1.83-2
+[0mcommunity [1mhsolink [0m1.0.118-4
+[0mcommunity [1mht [0m2.0.13-2
+[0mcommunity [1mhtml2text [0m1.3.2a-6
+[0mcommunity [1mhtmldoc [0m1.8.27-1
+[0mcommunity [1mhula [0mr2507-1
+[0mcommunity [1mi8086emu [0m0.9.2-4
+[0mcommunity [1miasl [0m20080729-1
+[0mcommunity [1miat [0m0.1.3-1
+[0mcommunity [1micewm-themes [0m1.2.26-1
+[0mcommunity [1micewm-utils [0m1.0-1
+[0mcommunity [1mico2xpm [0m1.1-1
+[0mcommunity [1micoconvert [0m2.0-3
+[0mcommunity [1micomplete [0m0.5-1
+[0mcommunity [1micon-slicer [0m0.3-2
+[0mcommunity [1mid3lib-rcc [0m3.8.3-5
+[0mcommunity [1midutils [0m4.2-1
+[0mcommunity [1mies4linux [0m2.99.0.1-2
+[0mcommunity [1miftop [0m0.17-6
+[0mcommunity [1miie [0m0.0.3-r
+[0mcommunity [1miksemel [0m1.3-4
+[0mcommunity [1mimdbpy [0m3.8-1
+[0mcommunity [1miniparser [0m2.17-1
+[0mcommunity [1minitscripts-splash [0m2007.11-1
+[0mcommunity [1minkblot [0m0.99.8-1
+[0mcommunity [1minn [0m2.4.5-3
+[0mcommunity [1minotail [0m0.5-3
+[0mcommunity [1minterlis-compiler [0m3.6.8-1
+[0mcommunity [1miodbc [0m3.52.6-1
+[0mcommunity [1miotop [0m0.2.1-2
+[0mcommunity [1mipcheck [0m0.237-1
+[0mcommunity [1mipguard [0m0.04-2
+[0mcommunity [1mipsec-tools [0m0.7.1-1
+[0mcommunity [1mipython [0m0.9.1-1
+[0mcommunity [1mircii-pana [0m1.1-3
+[0mcommunity [1mircservices [0m5.0.62-3
+[0mcommunity [1misomaster [0m1.3.3-1
+[0mcommunity [1miw [0m0.9.5-1
+[0mcommunity [1mjabberd14 [0m1.6.1.1-2
+[0mcommunity [1mjabref [0m2.4.1-1
+[0mcommunity [1mjabwebhist [0m200801-1
+[0mcommunity [1mjap [0m00.10.003-1
+[0mcommunity [1mjava-commons-logging [0m1.1.1-1
+[0mcommunity [1mjava-flexdock [0m0.5.1-1
+[0mcommunity [1mjava-gnome [0m4.0.6-1
+[0mcommunity [1mjava-gnome-docs [0m4.0.6-1
+[0mcommunity [1mjava-skinlf [0m6.7-1
+[0mcommunity [1mjavacc [0m4.0-2
+[0mcommunity [1mjavasqlite [0m20080420-1
+[0mcommunity [1mjbidwatcher [0m1.0.2-1
+[0mcommunity [1mjbigkit [0m1.6-4
+[0mcommunity [1mjdk [0m6u10-1 [7m[0m[installed][0m
+[0mcommunity [1mjedit [0m4.2-7
+[0mcommunity [1mjgnash [0m1.11.7-1
+[0mcommunity [1mjgoodies-looks [0m2.1.4-3
+[0mcommunity [1mjmc [0m0.2.2-1
+[0mcommunity [1mjokosher [0m0.10.1-1
+[0mcommunity [1mjre [0m6u10-1 [7m[0m[installed][0m
+[0mcommunity [1mjump-project [0m1.1.2-3
+[0mcommunity [1mjump-roadmatcher [0m1.4-1
+[0mcommunity [1mjwm [0m2.0.1-2
+[0mcommunity [1mjython [0m2.2.1-2
+[0mcommunity [1mk9copy [0m2.1.0-1
+[0mcommunity [1mkaa-base [0m0.4.0-2
+[0mcommunity [1mkaa-imlib2 [0m0.2.3-2
+[0mcommunity [1mkaa-metadata [0m0.7.3-2
+[0mcommunity [1mkadu [0m0.6.0.2-1
+[0mcommunity [1mkakasi [0m2.3.4-2
+[0mcommunity [1mkatapult [0m0.3.2.1-1
+[0mcommunity [1mkazehakase [0m0.5.5-2
+[0mcommunity [1mkbd-ru-keymaps [0m1-1
+[0mcommunity [1mkcheckers [0m0.8.1-5
+[0mcommunity [1mkchmviewer [0m3.1-3
+[0mcommunity [1mkdbg [0m2.1.0-1
+[0mcommunity [1mkdeicons-crystaldiamond [0m2.8-2
+[0mcommunity [1mkdesvn [0m1.2.1-2
+[0mcommunity [1mkdiff3 [0m0.9.92-2
+[0mcommunity [1mkdvdauthorwizard [0m1.4.6-4
+[0mcommunity [1mkeepassx [0m0.3.3-1
+[0mcommunity [1mkeyboardcast [0m0.1.1-2
+[0mcommunity [1mkeysafe [0m0.3.5-1
+[0mcommunity [1mkftpgrabber [0m0.8.1-2
+[0mcommunity [1mkid3 [0m1.1-1
+[0mcommunity [1mkiwi [0m1.9.22-2
+[0mcommunity [1mkleansweep [0m0.2.9-1
+[0mcommunity [1mklogwatch [0m2.0.3-1
+[0mcommunity [1mkmess [0m1.5.1-3
+[0mcommunity [1mkmymoney2 [0m0.8.9-2
+[0mcommunity [1mknemo [0m0.4.8-1
+[0mcommunity [1mknetdockapp [0m0.82.1-1
+[0mcommunity [1mknetstats [0m1.6.2-1
+[0mcommunity [1mkooldock [0m0.4.7-2
+[0mcommunity [1mkovpn [0m0.3pre6-3
+[0mcommunity [1mkpacman [0m0.3.2-5
+[0mcommunity [1mkpogre [0m1.6.4-1
+[0mcommunity [1mkrename [0m3.0.14-2
+[0mcommunity [1mksniffer [0m0.3.2-3
+[0mcommunity [1mksplash-engine-moodin [0m0.4.2-2
+[0mcommunity [1mktechlab [0m0.3.6-1
+[0mcommunity [1mktoblzcheck [0m1.16-1
+[0mcommunity [1mkungfu [0m0.2.3-4
+[0mcommunity [1mkvirc [0m3.4.2-1
+[0mcommunity [1mkvpnc [0m0.9.0-1
+[0mcommunity [1mkxdocker [0m1.1.4a-2
+[0mcommunity [1mkydpdict [0m0.9.4-2
+[0mcommunity [1mlal [0m1.0-1
+[0mcommunity [1mlast-exit [0m6-1
+[0mcommunity [1mlastfm-client [0m1.5.1.31879-2
+[0mcommunity [1mlastfmsubmitd [0m0.35-1
+[0mcommunity [1mlat [0m1.2.3-1
+[0mcommunity [1mlaunchy [0m2.1.2-1
+[0mcommunity [1mlazarus [0m0.9.26-1
+[0mcommunity [1mleafnode [0m1.11.6-1
+[0mcommunity [1mlesspipe [0m1.55-2
+[0mcommunity [1mlibacpi [0m0.2-2
+[0mcommunity [1mlibao-pulse [0m0.9.3-1
+[0mcommunity [1mlibast [0m0.7-2
+[0mcommunity [1mlibasyncns [0m0.3-1
+[0mcommunity [1mlibatomic_ops [0m1.2-1
+[0mcommunity [1mlibax25 [0m0.0.11-2
+[0mcommunity [1mlibburn [0m0.5.6-2
+[0mcommunity [1mlibcgi [0m1.0-4
+[0mcommunity [1mlibcompizconfig [0m0.7.8-1 [7m[0m[installed][0m
+[0mcommunity [1mlibconfig [0m1.3-1
+[0mcommunity [1mlibdnet [0m1.12-1
+[0mcommunity [1mlibesmtp [0m1.0.4-3
+[0mcommunity [1mlibev [0m3.44-2
+[0mcommunity [1mlibexosip2 [0m3.1.0-1
+[0mcommunity [1mlibfbclient [0m2.1.1.17910-1
+[0mcommunity [1mlibflashsupport-oss [0m4.1_rc2-2
+[0mcommunity [1mlibgadu [0m1.8.2-2
+[0mcommunity [1mlibgalago [0m0.5.2-2
+[0mcommunity [1mlibgalago-gtk [0m0.5.0-2
+[0mcommunity [1mlibgdamm [0m1.3.7-1
+[0mcommunity [1mlibgeotiff [0m1.2.5-1
+[0mcommunity [1mlibghemical [0m2.98-1
+[0mcommunity [1mlibgmail [0m0.1.10-1
+[0mcommunity [1mlibgtksourceviewmm [0m0.3.1-1
+[0mcommunity [1mlibgtksourceviewmm2 [0m1.9.5-1
+[0mcommunity [1mlibident [0m0.32-1
+[0mcommunity [1mlibinklevel [0m0.7.3-1
+[0mcommunity [1mlibisoburn [0m0.2.8-1
+[0mcommunity [1mlibisofs [0m0.6.10-1
+[0mcommunity [1mlibjingle [0m0.3.11-2
+[0mcommunity [1mlibmatio [0m1.3.3-1
+[0mcommunity [1mlibnetfilter_conntrack [0m0.0.97-1
+[0mcommunity [1mlibnewt [0m0.52.8-1
+[0mcommunity [1mlibnfnetlink [0m0.0.39-1
+[0mcommunity [1mlibnxml [0m0.18.3-1
+[0mcommunity [1mlibofx [0m0.9.0-1
+[0mcommunity [1mliboglappth [0m0.98-1
+[0mcommunity [1mliboobs [0m2.22.0-1
+[0mcommunity [1mliboop [0m1.0-1
+[0mcommunity [1mlibopenraw [0m0.0.5-1
+[0mcommunity [1mlibosip2 [0m3.1.0-1
+[0mcommunity [1mlibpaper [0m1.1.23-2
+[0mcommunity [1mlibpar2 [0m0.2-3
+[0mcommunity [1mlibphobos [0m1.035-1
+[0mcommunity [1mlibpq++ [0m4.0-2 [7m[0m[installed][0m
+[0mcommunity [1mlibquicktime [0m1.0.3-2
+[0mcommunity [1mlibrcc [0m0.2.6-1
+[0mcommunity [1mlibrcd [0m0.1.11-1
+[0mcommunity [1mlibrsync [0m0.9.7-3
+[0mcommunity [1mlibscigraphica [0m2.1.1-2
+[0mcommunity [1mlibsieve [0m2.2.6-1
+[0mcommunity [1mlibsoup-docs [0m2.4.1-1
+[0mcommunity [1mlibstatgrab [0m0.16-1
+[0mcommunity [1mlibsynaptics [0m0.14.6c-2
+[0mcommunity [1mlibtango [0m0.99.7-1
+[0mcommunity [1mlibtextcat [0m2.2-5
+[0mcommunity [1mlibtlen [0m20041113-3
+[0mcommunity [1mlibtorrent [0m0.11.9-2
+[0mcommunity [1mlibtorrent-rasterbar [0m0.14-1
+[0mcommunity [1mlibtrash [0m3.2-1
+[0mcommunity [1mlibvc [0m003-1
+[0mcommunity [1mlibview [0m0.6.1-1
+[0mcommunity [1mlibxft-lcd [0m2.1.13-1
+[0mcommunity [1mlibxml-perl [0m0.08-1
+[0mcommunity [1mlibxml2-docs [0m2.7.2-1
+[0mcommunity [1mlibxnvctrl [0m1.16-1
+[0mcommunity [1mlibzdb [0m2.2.3-1
+[0mcommunity [1mlilypond [0m2.10.33-4
+[0mcommunity [1mlimewire [0m4.18.6-1
+[0mcommunity [1mlincity-ng [0m1.1.2-3
+[0mcommunity [1mlink-monitor-applet [0m2.2-1
+[0mcommunity [1mlinks-g [0m2.2-1
+[0mcommunity [1mlinphone [0m3.0.0-1
+[0mcommunity [1mlinsmith [0m0.99.4-1
+[0mcommunity [1mlinux-howtos [0m20070609-1
+[0mcommunity [1mlinuxtv-dvb-apps [0m1.1.1-1
+[0mcommunity [1mlire [0m2.0.3-1
+[0mcommunity [1mlisten [0m0.5-8
+[0mcommunity [1mlive-f1 [0m0.2.7-3
+[0mcommunity [1mllvm [0m2.4-1
+[0mcommunity [1mlmctl [0m0.3.2-4
+[0mcommunity [1mlmms [0m0.4.0-2
+[0mcommunity [1mlockdev [0m1.0.3_1.2-1
+[0mcommunity [1mlogwatch [0m7.3.6-1
+[0mcommunity [1mlomoco [0m1.0-4
+[0mcommunity [1mlrmi [0m0.10-1
+[0mcommunity [1mltris [0m1.0.12-1
+[0mcommunity [1mlua-compat [0m5.0.3-2
+[0mcommunity [1mluafilesystem [0m1.4.1-1
+[0mcommunity [1mluajit [0m1.1.4-2
+[0mcommunity [1mluarocks [0m1.0-1
+[0mcommunity [1mluasocket [0m2.0.2-1
+[0mcommunity [1mluasql-mysql [0m2.1.1-2
+[0mcommunity [1mluma [0m2.4-1
+[0mcommunity [1mlwm [0m1.2.1-2
+[0mcommunity [1mlwp [0m2.4-1
+[0mcommunity [1mlxappearance [0m0.2-3
+[0mcommunity [1mlxde-common [0m0.3.2.1-2
+[0mcommunity [1mlxlauncher [0m0.2-1
+[0mcommunity [1mlxpanel [0m0.3.8.1-1
+[0mcommunity [1mlxrandr [0m0.1-1
+[0mcommunity [1mlxsession-lite [0m0.3.6-2
+[0mcommunity [1mlxtask [0m0.1-1
+[0mcommunity [1mlxterminal [0m0.1.3-1
+[0mcommunity [1mmacchanger [0m1.5.0-1
+[0mcommunity [1mmadman [0m0.93-3
+[0mcommunity [1mmagickthumbnail [0m1.0-1
+[0mcommunity [1mmailutils [0m1.2-1
+[0mcommunity [1mman-db [0m2.5.2-2
+[0mcommunity [1mman-pages-cs [0m0.17.20080113-5
+[0mcommunity [1mman-pages-de [0m0.5-3
+[0mcommunity [1mman-pages-it [0m2.80-1
+[0mcommunity [1mman-pages-pt_br [0m0.1-4
+[0mcommunity [1mman-pages-ru [0m0.98-4
+[0mcommunity [1mmandvd [0m2.5-1
+[0mcommunity [1mmarote [0m3.1-1
+[0mcommunity [1mmaven [0m2.0.9-1
+[0mcommunity [1mmc-colorer [0m20060530_0.9-2
+[0mcommunity [1mmc-mp [0m4.1.40_pre9-3
+[0mcommunity [1mmcabber [0m0.9.9-1
+[0mcommunity [1mmcdp [0m0.4a-2
+[0mcommunity [1mmcedit-pkgbuild-syntax [0m6-1
+[0mcommunity [1mmdf2iso [0m0.3.0-3
+[0mcommunity [1mmediaproxy [0m2.1.0-1
+[0mcommunity [1mmediawiki [0m1.13.2-1
+[0mcommunity [1mmedit [0m0.9.4-3
+[0mcommunity [1mmednafen [0m0.8.A-2
+[0mcommunity [1mmemcached [0m1.2.6-1
+[0mcommunity [1mmenumaker [0m0.99.7-5
+[0mcommunity [1mmercury [0m1.9-2
+[0mcommunity [1mmetakit [0m2.4.9.7-1
+[0mcommunity [1mmezogis [0m0.1.5-1
+[0mcommunity [1mmftrace [0m1.2.15-1
+[0mcommunity [1mmg [0m20080610-1
+[0mcommunity [1mmget [0m1.50-1
+[0mcommunity [1mmhwaveedit [0m1.4.15-1
+[0mcommunity [1mmime-editor [0m0.5-1
+[0mcommunity [1mmingw32-binutils [0m2.18.50-1
+[0mcommunity [1mmingw32-gcc [0m4.3.0-1
+[0mcommunity [1mmingw32-gcc-base [0m4.3.0-1
+[0mcommunity [1mmingw32-runtime [0m3.15-1
+[0mcommunity [1mmingw32-w32api [0m3.12-1
+[0mcommunity [1mminiracer [0m1.04-6
+[0mcommunity [1mmiscsplashutils [0m0.1.8-1
+[0mcommunity [1mmitter [0m0.3.2.2-2
+[0mcommunity [1mmldonkey [0m2.9.6-1
+[0mcommunity [1mmmap [0m0.0.9-2
+[0mcommunity [1mmmpython [0m0.4.10-1
+[0mcommunity [1mmms_client [0m0.0.3-2
+[0mcommunity [1mmmsrip [0m0.7.0-1
+[0mcommunity [1mmod_dnssd [0m0.5-1
+[0mcommunity [1mmoinmoin [0m1.7.2-2
+[0mcommunity [1mmonodevelop [0m1.0-4
+[0mcommunity [1mmoreutils-svn [0m81-1
+[0mcommunity [1mmotor [0m3.4.0-2
+[0mcommunity [1mmozplugger [0m1.11.0-1
+[0mcommunity [1mmp3gain [0m1.4.6-2
+[0mcommunity [1mmp3info [0m0.8.5a-1
+[0mcommunity [1mmp3unicode [0m1.2-2
+[0mcommunity [1mmpdcon [0m1.1.99-1
+[0mcommunity [1mmpgtx [0m1.3.1-1
+[0mcommunity [1mmrbayes [0m3.1.2-1
+[0mcommunity [1mmtaskbar [0m0.7-1
+[0mcommunity [1mmtpaint [0m3.21-1
+[0mcommunity [1mmultiget [0m1.2.0-2
+[0mcommunity [1mmultimux [0m0.2.5.1-1
+[0mcommunity [1mmupen64plus [0m1.4.1-1
+[0mcommunity [1mmurrine-configurator [0m0.5-1
+[0mcommunity [1mmusepack-tools [0m1.15v-1
+[0mcommunity [1mmusic-applet [0m2.4.0-2
+[0mcommunity [1mmusicmanager [0m0.9.15-1
+[0mcommunity [1mmutt_vc_query [0m002-1
+[0mcommunity [1mmuttng [0m1.5.17-1
+[0mcommunity [1mmxml [0m2.5-1
+[0mcommunity [1mmysql-gui-tools [0m5.0r12-2 [7m[0m[installed][0m
+[0mcommunity [1mmysql-ruby [0m2.8pre4-1
+[0mcommunity [1mmysqlcc [0m0.9.8-3
+[0mcommunity [1mnail [0m12.4-2
+[0mcommunity [1mnas [0m1.9.1-2
+[0mcommunity [1mnautilus-actions [0m1.4.1-3
+[0mcommunity [1mnautilus-audio-convert [0m0.1-2
+[0mcommunity [1mnautilus-locked-folder [0m1.0.1-1
+[0mcommunity [1mnautilus-open-terminal [0m0.9-2
+[0mcommunity [1mnautilus-share [0m0.7.2-2
+[0mcommunity [1mnbtscan [0m1.5.1-1
+[0mcommunity [1mncmpcpp [0m0.2.4-3
+[0mcommunity [1mncpfs [0m2.2.6-2
+[0mcommunity [1mncrypt [0m0.7.0-1
+[0mcommunity [1mnemesis [0m1.4-1
+[0mcommunity [1mnepim [0m0.52-1
+[0mcommunity [1mnet6 [0m1.3.8-1 [7m[0m[installed][0m
+[0mcommunity [1mnetbeans [0m6.1-2
+[0mcommunity [1mnetbrake [0m0.2-1
+[0mcommunity [1mnetcount [0m0.8i-1
+[0mcommunity [1mnetwork-ups-tools [0m2.2.2-1
+[0mcommunity [1mnextaw [0m0.15.1-4
+[0mcommunity [1mnexuiz [0m2.4.2-1
+[0mcommunity [1mnginx [0m0.6.32-1
+[0mcommunity [1mngircd [0m0.12.1-1
+[0mcommunity [1mngspice [0mr17-2
+[0mcommunity [1mnilfs [0m2.0.4-1
+[0mcommunity [1mnilfs-utils [0m2.0.5-1
+[0mcommunity [1mnoip [0m2.1.7-1
+[0mcommunity [1mnopaste [0m2835-1
+[0mcommunity [1mnotecase [0m1.9.7-1
+[0mcommunity [1mnoteedit [0m2.8.1-3
+[0mcommunity [1mnotify-sharp-svn [0m3009-2
+[0mcommunity [1mnoyau [0m2.1-2
+[0mcommunity [1mnrg2iso [0m0.4-5
+[0mcommunity [1mnvu [0m1.0-2
+[0mcommunity [1mnwload [0m0.2e-2
+[0mcommunity [1mnzbget [0m0.5.1-1
+[0mcommunity [1mobby [0m0.4.6-1 [7m[0m[installed][0m
+[0mcommunity [1mobexfs [0m0.11-1
+[0mcommunity [1mobextool [0m0.33-1
+[0mcommunity [1mobmenu [0m1.0-5
+[0mcommunity [1mofflineimap [0m6.0.3-1
+[0mcommunity [1mogle-gui [0m0.9.2-3
+[0mcommunity [1mogmrip [0m0.12.2-1
+[0mcommunity [1moidentd [0m2.0.8-2
+[0mcommunity [1moldstand-font [0m1.0-2
+[0mcommunity [1momniorb [0m4.1.3-1
+[0mcommunity [1mopcion [0m1.1.1-4
+[0mcommunity [1mopen-vm-tools [0m2008.10.10-2
+[0mcommunity [1mopen-vm-tools-modules [0m2008.10.10-1
+[0mcommunity [1mopenbox-themes [0m1.0.2-1
+[0mcommunity [1mopenc6 [0m0.9.9-3
+[0mcommunity [1mopendx [0m4.4.4-1
+[0mcommunity [1mopenjpeg [0m1.3-1
+[0mcommunity [1mopenlh-client [0m0.1-2
+[0mcommunity [1mopenlh-server [0m0.1-4
+[0mcommunity [1mopenmotif [0m2.3.1-1
+[0mcommunity [1mopenmovieeditor [0m0.0.20081029-1
+[0mcommunity [1mopenntpd [0m3.9p1-7
+[0mcommunity [1mopenoffice-ca [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-cs [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-da [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-el [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-en_gb [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-et [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-fi [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-he [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-hu [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-lt [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-nb [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-nn [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-pl [0m3.0.0-1
+[0mcommunity [1mopenoffice-ru [0m3.0.0-1
+[0mcommunity [1mopenoffice-sh [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-sk [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-sr [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-tr [0m3.0.0rc4-1
+[0mcommunity [1mopenoffice-uk [0m3.0.0rc4-1
+[0mcommunity [1mopensips [0m1.4.2-5
+[0mcommunity [1mopenthreads [0m2.2.1-1
+[0mcommunity [1mopenttd [0m0.6.3-1
+[0mcommunity [1mopenvpn-admin [0m1.9.4.2-1
+[0mcommunity [1mopera-static [0m9.61-1
+[0mcommunity [1moptipng [0m0.6.2-1
+[0mcommunity [1morange [0m0.3.2-1
+[0mcommunity [1moregano [0m0.69.0-1
+[0mcommunity [1mortp [0m0.14.0-1
+[0mcommunity [1mosdbattery [0m1.4-2
+[0mcommunity [1mosec [0m1.0.2-1
+[0mcommunity [1mosiris [0m4.2.3-1
+[0mcommunity [1mosmo [0m0.2.4-1
+[0mcommunity [1moss [0m4.1_rc2-2
+[0mcommunity [1mozerocdoff [0m2-1
+[0mcommunity [1mp2c [0m1.21alpha2-3
+[0mcommunity [1mp3scan [0m2.3.2-2
+[0mcommunity [1mpacman-contrib [0m3.2.0-1
+[0mcommunity [1mpaco [0m2.0.4-1
+[0mcommunity [1mpacupdate [0m0.1.1-2
+[0mcommunity [1mpadevchooser [0m0.9.3-4
+[0mcommunity [1mpam_pwcheck [0m3.9-1
+[0mcommunity [1mpaman [0m0.9.4-1
+[0mcommunity [1mpanda3d [0m1.5.3-4
+[0mcommunity [1mpanda3d-samples [0m1.5.3-1
+[0mcommunity [1mpandoc [0m0.46-1
+[0mcommunity [1mpantomime [0m1.2.0pre3-1
+[0mcommunity [1mpaprefs [0m0.9.6-1
+[0mcommunity [1mparano [0m0.3.4-1
+[0mcommunity [1mparcellite [0m0.8-1
+[0mcommunity [1mparrot [0m0.8.0-1
+[0mcommunity [1mpartimage [0m0.6.7-4
+[0mcommunity [1mpartlibrary [0m2.1.2.8-1
+[0mcommunity [1mpavucontrol [0m0.9.5-2
+[0mcommunity [1mpavumeter [0m0.9.3-1
+[0mcommunity [1mpawm [0m2.2.9-1
+[0mcommunity [1mpcmanfm [0m0.5-2
+[0mcommunity [1mpdf2djvu [0m0.4.13-2
+[0mcommunity [1mpdfedit [0m0.4.1-2
+[0mcommunity [1mpdftrans [0m1.2-4
+[0mcommunity [1mpdmenu [0m1.2.93-1
+[0mcommunity [1mpdnsd [0m1.2.7-1
+[0mcommunity [1mpearpc [0m0.4-5
+[0mcommunity [1mperl-algorithm-annotate [0m0.10-3
+[0mcommunity [1mperl-algorithm-diff [0m1.1902-3
+[0mcommunity [1mperl-app-cli [0m0.07-5
+[0mcommunity [1mperl-authen-sasl [0m2.10-3
+[0mcommunity [1mperl-b-keywords [0m1.08-1
+[0mcommunity [1mperl-berkeleydb [0m0.35-1
+[0mcommunity [1mperl-cache-memcached [0m1.24-2
+[0mcommunity [1mperl-cgi [0m3.42-1
+[0mcommunity [1mperl-cgi-formbuilder [0m3.0501-3
+[0mcommunity [1mperl-cgi-session [0m4.37-1
+[0mcommunity [1mperl-chart [0m2.4.1-1
+[0mcommunity [1mperl-class-accessor [0m0.31-2
+[0mcommunity [1mperl-class-accessor-chained [0m0.01-3
+[0mcommunity [1mperl-class-autouse [0m1.29-2
+[0mcommunity [1mperl-class-data-inheritable [0m0.08-1
+[0mcommunity [1mperl-class-errorhandler [0m0.01-3
+[0mcommunity [1mperl-class-inspector [0m1.23-1
+[0mcommunity [1mperl-class-methodmaker [0m2.12-1
+[0mcommunity [1mperl-class-singleton [0m1.4-2
+[0mcommunity [1mperl-class-trigger [0m0.13-1
+[0mcommunity [1mperl-clone [0m0.29-1
+[0mcommunity [1mperl-color-calc [0m1.04-3
+[0mcommunity [1mperl-config-tiny [0m2.12-2
+[0mcommunity [1mperl-convert-asn1 [0m0.21-3
+[0mcommunity [1mperl-cpanplus-pacman [0m0.3.0-1
+[0mcommunity [1mperl-critic [0m1.090-1
+[0mcommunity [1mperl-crypt-blowfish [0m2.10-3
+[0mcommunity [1mperl-crypt-cbc [0m2.24-2
+[0mcommunity [1mperl-crypt-openssl-bignum [0m0.04-2
+[0mcommunity [1mperl-crypt-openssl-random [0m0.04-2
+[0mcommunity [1mperl-crypt-openssl-rsa [0m0.25-3
+[0mcommunity [1mperl-crypt-simple [0m0.06-3
+[0mcommunity [1mperl-crypt-ssleay [0m0.57-2
+[0mcommunity [1mperl-curses [0m1.20-2
+[0mcommunity [1mperl-curses-ui [0m0.9601-2
+[0mcommunity [1mperl-curses-ui-poe [0m0.02801-3
+[0mcommunity [1mperl-danga-socket [0m1.59-1
+[0mcommunity [1mperl-data-hierarchy [0m0.34-3
+[0mcommunity [1mperl-data-structure-util [0m0.12-3
+[0mcommunity [1mperl-data-uuid [0m1.148-3
+[0mcommunity [1mperl-datetime [0m0.43.04-1
+[0mcommunity [1mperl-datetime-cron-simple [0m0.2-3
+[0mcommunity [1mperl-datetime-event-ical [0m0.09-3
+[0mcommunity [1mperl-datetime-event-recurrence [0m0.16-3
+[0mcommunity [1mperl-datetime-format-ical [0m0.08-3
+[0mcommunity [1mperl-datetime-format-mail [0m0.3001-3
+[0mcommunity [1mperl-datetime-format-strptime [0m1.0702-2
+[0mcommunity [1mperl-datetime-format-w3cdtf [0m0.04-3
+[0mcommunity [1mperl-datetime-locale [0m0.41-1
+[0mcommunity [1mperl-datetime-set [0m0.25-3
+[0mcommunity [1mperl-datetime-timezone [0m0.78-1
+[0mcommunity [1mperl-dbd-odbc [0m1.16-1
+[0mcommunity [1mperl-dbd-pg [0m2.4.0-1
+[0mcommunity [1mperl-dbd-sqlite2 [0m0.33-3
+[0mcommunity [1mperl-dbd-sybase [0m1.08-1
+[0mcommunity [1mperl-dbi-shell [0m11.94-2
+[0mcommunity [1mperl-devel-symdump [0m2.08-2
+[0mcommunity [1mperl-djabberd [0m0.83-1
+[0mcommunity [1mperl-djabberd-rosterstorage-sqlite [0m1.00-1
+[0mcommunity [1mperl-docs [0m5.10-1
+[0mcommunity [1mperl-email-abstract [0m2.134-1
+[0mcommunity [1mperl-email-address [0m1.889-1
+[0mcommunity [1mperl-email-date-format [0m1.002-1
+[0mcommunity [1mperl-email-messageid [0m1.351-1
+[0mcommunity [1mperl-email-mime [0m1.861-1
+[0mcommunity [1mperl-email-mime-attachment-stripper [0m1.315-1
+[0mcommunity [1mperl-email-mime-contenttype [0m1.014-1
+[0mcommunity [1mperl-email-mime-creator [0m1.454-1
+[0mcommunity [1mperl-email-mime-encodings [0m1.311-1
+[0mcommunity [1mperl-email-mime-modifier [0m1.442-1
+[0mcommunity [1mperl-email-reply [0m1.202-1
+[0mcommunity [1mperl-email-send [0m2.192-1
+[0mcommunity [1mperl-email-simple [0m2.004-1
+[0mcommunity [1mperl-email-simple-creator [0m1.424-1
+[0mcommunity [1mperl-exception-class [0m1.24-1
+[0mcommunity [1mperl-extutils-xsbuilder [0m0.28-3
+[0mcommunity [1mperl-fcgi [0m0.67-4
+[0mcommunity [1mperl-feed-find [0m0.06-4
+[0mcommunity [1mperl-file-chdir [0m0.09-2
+[0mcommunity [1mperl-file-homedir [0m0.69-1
+[0mcommunity [1mperl-file-nfslock [0m1.20-5
+[0mcommunity [1mperl-file-path-expand [0m1.02-3
+[0mcommunity [1mperl-file-remove [0m0.39-2
+[0mcommunity [1mperl-file-slurp [0m9999.13-1
+[0mcommunity [1mperl-file-type [0m0.22-3
+[0mcommunity [1mperl-file-which [0m0.05-3
+[0mcommunity [1mperl-finance-quote [0m1.13-4
+[0mcommunity [1mperl-font-afm [0m1.19-3
+[0mcommunity [1mperl-freezethaw [0m0.43-3
+[0mcommunity [1mperl-fuse [0m0.09-2
+[0mcommunity [1mperl-gd [0m2.41-1
+[0mcommunity [1mperl-gdgraph [0m1.44-1
+[0mcommunity [1mperl-gdtextutil [0m0.86-1
+[0mcommunity [1mperl-getopt-argvfile [0m1.11-3
+[0mcommunity [1mperl-gettext [0m0.01-4
+[0mcommunity [1mperl-gnome2-wnck [0m0.15-2
+[0mcommunity [1mperl-graphics-colornames [0m2.10_04-3
+[0mcommunity [1mperl-graphics-colornames-www [0m0.01-3
+[0mcommunity [1mperl-gssapi [0m0.24-4
+[0mcommunity [1mperl-gstreamer [0m0.10-1
+[0mcommunity [1mperl-gstreamer-interfaces [0m0.04-1
+[0mcommunity [1mperl-gtk2-mozembed [0m0.08-1
+[0mcommunity [1mperl-gtk2-sexy [0m0.02-4
+[0mcommunity [1mperl-gtk2-trayicon [0m0.06-3
+[0mcommunity [1mperl-hash-merge [0m0.10-3
+[0mcommunity [1mperl-heap [0m0.80-3
+[0mcommunity [1mperl-html-element-extended [0m1.17-2
+[0mcommunity [1mperl-html-highlight [0m0.20-3
+[0mcommunity [1mperl-html-scrubber [0m0.08-3
+[0mcommunity [1mperl-html-strip [0m1.06-3
+[0mcommunity [1mperl-html-tableextract [0m2.10-4
+[0mcommunity [1mperl-html-tagfilter [0m1.03-4
+[0mcommunity [1mperl-html-template [0m2.9-3
+[0mcommunity [1mperl-html-template-expr [0m0.07-3
+[0mcommunity [1mperl-html-tree [0m3.23-6
+[0mcommunity [1mperl-http-cache-transparent [0m1.0-2
+[0mcommunity [1mperl-http-lite [0m2.1.6-3
+[0mcommunity [1mperl-ical-parser [0m1.14-3
+[0mcommunity [1mperl-inline [0m0.44-3
+[0mcommunity [1mperl-inline-java [0m0.52-3
+[0mcommunity [1mperl-io-digest [0m0.10-3
+[0mcommunity [1mperl-io-multiplex [0m1.09-3
+[0mcommunity [1mperl-io-pager [0m0.06-3
+[0mcommunity [1mperl-io-string [0m1.08-5
+[0mcommunity [1mperl-io-stringy [0m2.110-6
+[0mcommunity [1mperl-io-tee [0m0.64-2
+[0mcommunity [1mperl-io-tty [0m1.07-3
+[0mcommunity [1mperl-ipc-run [0m0.80-3
+[0mcommunity [1mperl-ipc-shareable [0m0.60-3
+[0mcommunity [1mperl-json [0m2.12-1
+[0mcommunity [1mperl-json-xs [0m2.23-1
+[0mcommunity [1mperl-ldap [0m0.38-1
+[0mcommunity [1mperl-libapreq2 [0m2.08-3
+[0mcommunity [1mperl-lingua-en-numbers [0m1.01-2
+[0mcommunity [1mperl-lingua-en-numbers-ordinate [0m1.02-2
+[0mcommunity [1mperl-lingua-preferred [0m0.2.4-2
+[0mcommunity [1mperl-list-moreutils [0m0.21-1
+[0mcommunity [1mperl-locale-maketext-lexicon [0m0.65-2
+[0mcommunity [1mperl-log-log4perl [0m1.18-1
+[0mcommunity [1mperl-mail-box [0m2.079-2
+[0mcommunity [1mperl-mail-box-parser-c [0m3.006-3
+[0mcommunity [1mperl-mail-dkim [0m0.31-2
+[0mcommunity [1mperl-mail-domainkeys [0m1.0-2
+[0mcommunity [1mperl-mail-sendmail [0m0.79-3
+[0mcommunity [1mperl-mail-transport-dbx [0m0.07-3
+[0mcommunity [1mperl-math-base85 [0m0.2-3
+[0mcommunity [1mperl-math-round [0m0.06-2
+[0mcommunity [1mperl-mime-tools [0m5.426-1
+[0mcommunity [1mperl-module-install [0m0.68-2
+[0mcommunity [1mperl-module-scandeps [0m0.82-1
+[0mcommunity [1mperl-module-signature [0m0.55-5
+[0mcommunity [1mperl-net-dbus [0m0.33.6-2
+[0mcommunity [1mperl-net-ipv4addr [0m0.10-4
+[0mcommunity [1mperl-net-ipv6addr [0m0.2-4
+[0mcommunity [1mperl-net-jabber [0m2.0-3
+[0mcommunity [1mperl-net-libidn [0m0.10-1
+[0mcommunity [1mperl-net-server [0m0.97-2
+[0mcommunity [1mperl-net-smtp-ssl [0m1.01-1
+[0mcommunity [1mperl-net-snmp [0m5.2.0-2
+[0mcommunity [1mperl-net-subnets [0m0.21-3
+[0mcommunity [1mperl-net-telnet [0m3.03-3
+[0mcommunity [1mperl-net-xmpp [0m1.02-3
+[0mcommunity [1mperl-net-xmpp2 [0m0.13-1
+[0mcommunity [1mperl-object-event [0m0.4-1
+[0mcommunity [1mperl-object-multitype [0m0.05-3
+[0mcommunity [1mperl-object-realize-later [0m0.18-2
+[0mcommunity [1mperl-package-constants [0m0.01-3
+[0mcommunity [1mperl-par [0m0.977-2
+[0mcommunity [1mperl-par-dist [0m0.29-1
+[0mcommunity [1mperl-par-packer [0m0.978-1
+[0mcommunity [1mperl-params-util [0m0.31-1
+[0mcommunity [1mperl-params-validate [0m0.91-1
+[0mcommunity [1mperl-paranoid [0m0.18-1
+[0mcommunity [1mperl-parse-plainconfig [0m2.04-1
+[0mcommunity [1mperl-parse-recdescent [0m1.95.1-2
+[0mcommunity [1mperl-parse-yapp [0m1.05-3
+[0mcommunity [1mperl-patchreader [0m0.9.5-1
+[0mcommunity [1mperl-path-class [0m0.16-3
+[0mcommunity [1mperl-pod-coverage [0m0.19-2
+[0mcommunity [1mperl-poe [0m0.9999-2
+[0mcommunity [1mperl-poe-component-client-dns [0m1.00-3
+[0mcommunity [1mperl-poe-component-client-http [0m0.82-3
+[0mcommunity [1mperl-poe-component-client-keepalive [0m0.1000-2
+[0mcommunity [1mperl-poe-component-ikc [0m0.2000-2
+[0mcommunity [1mperl-ppi [0m1.203-1
+[0mcommunity [1mperl-readonly [0m1.03-2
+[0mcommunity [1mperl-regexp-shellish [0m0.93-3
+[0mcommunity [1mperl-return-value [0m1.302-1
+[0mcommunity [1mperl-rpc-xml [0m0.59-4
+[0mcommunity [1mperl-set-infinite [0m0.61-3
+[0mcommunity [1mperl-soap-lite [0m0.710.08-1
+[0mcommunity [1mperl-spiffy [0m0.30-3
+[0mcommunity [1mperl-string-crc32 [0m1.4-3
+[0mcommunity [1mperl-string-format [0m1.14-1
+[0mcommunity [1mperl-sub-uplevel [0m0.18-2
+[0mcommunity [1mperl-svn-mirror [0m0.73-4
+[0mcommunity [1mperl-svn-simple-edit [0m0.27-5
+[0mcommunity [1mperl-sys-syscall [0m0.22-1
+[0mcommunity [1mperl-task-weaken [0m1.02-1
+[0mcommunity [1mperl-template-gd [0m2.66-1
+[0mcommunity [1mperl-term-animation [0m2.4-3
+[0mcommunity [1mperl-term-progressbar [0m2.09-3
+[0mcommunity [1mperl-term-read-password [0m0.11-2
+[0mcommunity [1mperl-term-readline [0m1.0302-1
+[0mcommunity [1mperl-test-base [0m0.54-2
+[0mcommunity [1mperl-test-deep [0m0.099-3
+[0mcommunity [1mperl-test-differences [0m0.47-3
+[0mcommunity [1mperl-test-exception [0m0.27-1
+[0mcommunity [1mperl-test-manifest [0m1.22-2
+[0mcommunity [1mperl-test-mockobject [0m1.08-2
+[0mcommunity [1mperl-test-nowarnings [0m0.084-2
+[0mcommunity [1mperl-test-tester [0m0.106-3
+[0mcommunity [1mperl-text-bidi [0m0.03-3
+[0mcommunity [1mperl-text-charwidth [0m0.04-3
+[0mcommunity [1mperl-text-csv [0m1.10-1
+[0mcommunity [1mperl-text-csv-xs [0m0.37-1
+[0mcommunity [1mperl-text-diff [0m0.35-3
+[0mcommunity [1mperl-text-glob [0m0.08-3
+[0mcommunity [1mperl-text-kakasi [0m2.04-4
+[0mcommunity [1mperl-text-markdown [0m1.0.3-3
+[0mcommunity [1mperl-text-reform [0m1.11-1
+[0mcommunity [1mperl-text-vfile-asdata [0m0.05-3
+[0mcommunity [1mperl-tidy [0m20071205-2
+[0mcommunity [1mperl-tie-cphash [0m1.04-1
+[0mcommunity [1mperl-tie-hash-indexed [0m0.05-2
+[0mcommunity [1mperl-tie-ixhash [0m1.21-3
+[0mcommunity [1mperl-time-duration [0m1.06-3
+[0mcommunity [1mperl-time-format [0m1.02-3
+[0mcommunity [1mperl-time-human [0m1.03-3
+[0mcommunity [1mperl-tk-tablematrix [0m1.23-4
+[0mcommunity [1mperl-unicode-utf8simple [0m1.06-2
+[0mcommunity [1mperl-universal-can [0m1.12-3
+[0mcommunity [1mperl-universal-isa [0m0.06-3
+[0mcommunity [1mperl-universal-require [0m0.11-3
+[0mcommunity [1mperl-uri-fetch [0m0.08-4
+[0mcommunity [1mperl-user-identity [0m0.92-2
+[0mcommunity [1mperl-www-curl [0m3.02-3
+[0mcommunity [1mperl-www-mechanize [0m1.34-2
+[0mcommunity [1mperl-www-sms [0m0.09-4
+[0mcommunity [1mperl-x11-protocol [0m0.56-3
+[0mcommunity [1mperl-xml-atom [0m0.28-2
+[0mcommunity [1mperl-xml-dom [0m1.44-5
+[0mcommunity [1mperl-xml-feed [0m0.12-4
+[0mcommunity [1mperl-xml-grove [0m0.46alpha-3
+[0mcommunity [1mperl-xml-libxml [0m1.66-3
+[0mcommunity [1mperl-xml-libxml-common [0m0.13-3
+[0mcommunity [1mperl-xml-libxslt [0m1.66-2
+[0mcommunity [1mperl-xml-namespacesupport [0m1.09-3
+[0mcommunity [1mperl-xml-regexp [0m0.03-3
+[0mcommunity [1mperl-xml-rss [0m1.31-2
+[0mcommunity [1mperl-xml-rsslite [0m0.11-3
+[0mcommunity [1mperl-xml-sax [0m0.16-4
+[0mcommunity [1mperl-xml-sax-expat [0m0.39-2
+[0mcommunity [1mperl-xml-smart [0m1.6.9-3
+[0mcommunity [1mperl-xml-stream [0m1.22-3
+[0mcommunity [1mperl-xml-writer [0m0.604-1
+[0mcommunity [1mperl-xml-xpath [0m1.13-3
+[0mcommunity [1mperl-xmms [0m0.12-4
+[0mcommunity [1mperl-yaml-tiny [0m1.25-1
+[0mcommunity [1mperlio-eol [0m0.14-3
+[0mcommunity [1mperlio-gzip [0m0.18-4
+[0mcommunity [1mperlio-via-dynamic [0m0.12-3
+[0mcommunity [1mperlio-via-symlink [0m0.05-3
+[0mcommunity [1mperlpanel [0m20080729-1
+[0mcommunity [1mpessulus [0m2.16.2-2
+[0mcommunity [1mpgadmin3 [0m1.8.4-2 [7m[0m[installed][0m
+[0mcommunity [1mphp-docs [0m5.2.6-1
+[0mcommunity [1mphp-fileinfo [0m1.0.4-3
+[0mcommunity [1mphp-xdebug [0m2.0.3-1
+[0mcommunity [1mphpa [0m0.1-1
+[0mcommunity [1mphpldapadmin [0m1.1.0.5-1
+[0mcommunity [1mphpmyadmin [0m3.0.1.1-1
+[0mcommunity [1mphppgadmin [0m4.2.1-2
+[0mcommunity [1mphysfs [0m1.1.1-1
+[0mcommunity [1mpicard [0m0.10-2
+[0mcommunity [1mpida [0m0.5.1-4
+[0mcommunity [1mpidgin-facebookchat [0m1.38-1
+[0mcommunity [1mpidgin-libnotify [0m0.13-4
+[0mcommunity [1mpidgin-otr [0m3.2.0-1
+[0mcommunity [1mpigment [0m0.3.12-1
+[0mcommunity [1mpinfo [0m0.6.8-3
+[0mcommunity [1mpingus [0m0.7.2-1
+[0mcommunity [1mpinot [0m0.88-1
+[0mcommunity [1mpitivi [0m0.11.2-3
+[0mcommunity [1mpizza_party [0m0.1.b-2
+[0mcommunity [1mpkgtools [0m10-1
+[0mcommunity [1mplan9port [0m20051127-1
+[0mcommunity [1mplib [0m1.8.5-1
+[0mcommunity [1mpmtools [0m20071116-1
+[0mcommunity [1mpnews [0m2.6.5-1
+[0mcommunity [1mpng2ico [0m20021208-2
+[0mcommunity [1mpoedit [0m1.4.2-1
+[0mcommunity [1mpokerth [0m0.6.2-4
+[0mcommunity [1mpolymer [0m0.3.2-4
+[0mcommunity [1mpork [0m0.99.8.1-2
+[0mcommunity [1mportaudio [0m19_20071207-2
+[0mcommunity [1mportaudio_cpp [0m19_20071207-1
+[0mcommunity [1mpostfix-policyd-spf-perl [0m2.004-1
+[0mcommunity [1mpostgis [0m1.3.3-1 [7m[0m[installed][0m
+[0mcommunity [1mpostgresql-tsearch2 [0m8.3.3-1
+[0mcommunity [1mpostgrey [0m1.32-1
+[0mcommunity [1mpound [0m2.4.3-1
+[0mcommunity [1mpoweriso [0m1.3-1
+[0mcommunity [1mpowertop [0m1.10-1
+[0mcommunity [1mpppd-ldap [0m0.12b-1
+[0mcommunity [1mpppd-ldap-simple [0m0.12b-1
+[0mcommunity [1mpppusage [0m0.2.5-2
+[0mcommunity [1mpptpd [0m1.3.4-1
+[0mcommunity [1mpreload [0m0.6.3-2
+[0mcommunity [1mpremake [0m3.6-1
+[0mcommunity [1mprimer3 [0m1.1.4-1
+[0mcommunity [1mprocstatd [0m1.4.2-4
+[0mcommunity [1mproguard [0m4.2-1
+[0mcommunity [1mproj [0m4.6.1-1 [7m[0m[installed][0m
+[0mcommunity [1mprosper [0m1.5-2
+[0mcommunity [1mprotege [0m3.3.1-6
+[0mcommunity [1mprotobuf [0m2.0.2-1
+[0mcommunity [1mproxytunnel [0m1.9.0-1
+[0mcommunity [1mpsqlodbc [0m08.03.0200-1
+[0mcommunity [1mpstreams [0m0.6.0-1
+[0mcommunity [1mpsyco [0m1.6-3
+[0mcommunity [1mpulseaudio [0m0.9.10-1
+[0mcommunity [1mpunbb [0m1.2.20-1
+[0mcommunity [1mpuzzles [0m7989-3
+[0mcommunity [1mpv [0m1.1.4-1
+[0mcommunity [1mpwmanager [0m1.2.4-1
+[0mcommunity [1mpwsafe [0m0.2.0-3
+[0mcommunity [1mpyaim [0m0.8a-1
+[0mcommunity [1mpycddb [0m0.1.3-2
+[0mcommunity [1mpychecker [0m0.8.18-1
+[0mcommunity [1mpychess [0m0.8.2-1
+[0mcommunity [1mpyclamav [0m0.4.1-2
+[0mcommunity [1mpycups [0m1.9.42-2
+[0mcommunity [1mpydb [0m1.22-3
+[0mcommunity [1mpydns [0m2.3.3-1
+[0mcommunity [1mpyenchant [0m1.4.2-2
+[0mcommunity [1mpyglet [0m1.1.2-2
+[0mcommunity [1mpygments [0m0.11-1
+[0mcommunity [1mpygobject-docs [0m2.15.4-1
+[0mcommunity [1mpygoocanvas [0m0.12.0-3
+[0mcommunity [1mpygtk-docs [0m2.13.0-1
+[0mcommunity [1mpyicq [0m0.8b-2
+[0mcommunity [1mpyid3lib [0m0.5.1-3
+[0mcommunity [1mpykde [0m3.16.1-1
+[0mcommunity [1mpympc [0m20050330-3
+[0mcommunity [1mpympd [0m0.08-2
+[0mcommunity [1mpymsn [0m0.3.3-1
+[0mcommunity [1mpymsnt [0m0.11.3-1
+[0mcommunity [1mpyneighborhood [0m0.4.1-1
+[0mcommunity [1mpyopenssl [0m0.8-1
+[0mcommunity [1mpypanel [0m2.4-4
+[0mcommunity [1mpyrss [0m0.9.9.1-2
+[0mcommunity [1mpyrtf [0m0.45-1
+[0mcommunity [1mpysdl_mixer [0m0.0.3-2
+[0mcommunity [1mpysol-sound-server [0m3.01-5
+[0mcommunity [1mpysolfc [0m1.1-2
+[0mcommunity [1mpysolfc-cardsets [0m1.1-1
+[0mcommunity [1mpyspf [0m1.6-2
+[0mcommunity [1mpystatgrab [0m0.5-1
+[0mcommunity [1mpython-application [0m1.0.9-1
+[0mcommunity [1mpython-boto [0m1.4c-1
+[0mcommunity [1mpython-bsddb [0m4.7.2-1
+[0mcommunity [1mpython-certtool [0m0.1-4
+[0mcommunity [1mpython-chardet [0m1.0.1-1
+[0mcommunity [1mpython-cjson [0m1.0.5-1
+[0mcommunity [1mpython-clientform [0m0.2.9-2
+[0mcommunity [1mpython-configobj [0m4.5.3-2
+[0mcommunity [1mpython-constraint [0m1.1-2
+[0mcommunity [1mpython-cssutils [0m0.9.5.1-2
+[0mcommunity [1mpython-dateutil [0m1.4.1-1
+[0mcommunity [1mpython-distutils-extra [0m1.91.2-2
+[0mcommunity [1mpython-dnspython [0m1.4.0-2
+[0mcommunity [1mpython-docs [0m2.5.2-1
+[0mcommunity [1mpython-flup [0m1.0.1-2
+[0mcommunity [1mpython-fuse [0m20081109-1
+[0mcommunity [1mpython-galago [0m0.5.0-1
+[0mcommunity [1mpython-galago-gtk [0m0.5.0-1
+[0mcommunity [1mpython-gammu [0m0.27-2
+[0mcommunity [1mpython-genshi [0m0.5.1-1
+[0mcommunity [1mpython-geotypes [0m0.7.0-1
+[0mcommunity [1mpython-geotypes-svn [0m876-1
+[0mcommunity [1mpython-gnupginterface [0m0.3.2-3
+[0mcommunity [1mpython-gnutls [0m1.1.6-2
+[0mcommunity [1mpython-lcms [0m1.17-1
+[0mcommunity [1mpython-ldap [0m2.3.5-1
+[0mcommunity [1mpython-lxml [0m2.1.2-2
+[0mcommunity [1mpython-m2crypto [0m0.19.1-1
+[0mcommunity [1mpython-matplotlib [0m0.98.3-3
+[0mcommunity [1mpython-mechanize [0m0.1.9-1
+[0mcommunity [1mpython-memcached [0m1.43-1
+[0mcommunity [1mpython-mpdclient2 [0m0.11.1-3
+[0mcommunity [1mpython-musicbrainz2 [0m0.4.1-1
+[0mcommunity [1mpython-nose [0m0.10.4-1
+[0mcommunity [1mpython-notify [0m0.1.1-5
+[0mcommunity [1mpython-numarray [0m1.5.2-2
+[0mcommunity [1mpython-numpy [0m1.2.1-2
+[0mcommunity [1mpython-openbabel [0m2.2.0-2
+[0mcommunity [1mpython-paramiko [0m1.7.4-1
+[0mcommunity [1mpython-pexpect [0m2.3-2
+[0mcommunity [1mpython-pigment [0m0.3.9-1
+[0mcommunity [1mpython-psycopg1 [0m1.1.21-3
+[0mcommunity [1mpython-psycopg2 [0m2.0.8-1
+[0mcommunity [1mpython-pyalsaaudio [0m0.3-2
+[0mcommunity [1mpython-pybluez [0m0.15-2
+[0mcommunity [1mpython-pychart [0m1.39-3
+[0mcommunity [1mpython-pychm [0m0.8.4-2
+[0mcommunity [1mpython-pycurl [0m7.19.0-2
+[0mcommunity [1mpython-pygresql [0m3.8.1-3
+[0mcommunity [1mpython-pymedia [0m1.3.7.3-6
+[0mcommunity [1mpython-pyparallel [0m0.1-2
+[0mcommunity [1mpython-pypdf [0m1.10-1
+[0mcommunity [1mpython-pyro [0m3.8beta-1
+[0mcommunity [1mpython-pyserial [0m2.2-3
+[0mcommunity [1mpython-pytz [0m2008i-1
+[0mcommunity [1mpython-pyx [0m0.10-2
+[0mcommunity [1mpython-pyxmpp [0m1.0.0-3
+[0mcommunity [1mpython-reportlab [0m2.2-2
+[0mcommunity [1mpython-scipy [0m0.7.0svn-1
+[0mcommunity [1mpython-sexy [0m0.1.9-4
+[0mcommunity [1mpython-simplejson [0m2.0.1-1
+[0mcommunity [1mpython-sphinx [0m0.4.3-2
+[0mcommunity [1mpython-sqlalchemy [0m0.4.6-2
+[0mcommunity [1mpython-urwid [0m0.9.8.2-1
+[0mcommunity [1mpython-vorbissimple [0m0.0.2-1
+[0mcommunity [1mpython-webpy [0m0.23-1
+[0mcommunity [1mpython-xlib [0m0.13-3
+[0mcommunity [1mpytube [0m0.0.11.4-2
+[0mcommunity [1mqbittorrent [0m1.2.999-1
+[0mcommunity [1mqc-usb [0m0.6.6-12
+[0mcommunity [1mqc-usb-messenger [0m1.8-3
+[0mcommunity [1mqcad [0m2.0.5.0-4
+[0mcommunity [1mqemu-launcher [0m1.7.4-1
+[0mcommunity [1mqemulator [0m0.5-2
+[0mcommunity [1mqgis [0m0.11.0-2
+[0mcommunity [1mqgo [0m1.5.4-2
+[0mcommunity [1mqingy [0m0.9.7-3
+[0mcommunity [1mqingy-theme-arch [0m2.0-1
+[0mcommunity [1mqmc2 [0m0.2.b4-1
+[0mcommunity [1mqmmp [0m0.2.2-1
+[0mcommunity [1mqmpdclient [0m1.0.9-1
+[0mcommunity [1mqpxtool [0m0.6.1-3
+[0mcommunity [1mqrq [0m0.1.4-1
+[0mcommunity [1mqsopcast [0m0.3.5-3
+[0mcommunity [1mqsstv [0m5.3c-1
+[0mcommunity [1mqstardict [0m0.12.9-2
+[0mcommunity [1mqsvn [0m0.7.0-1
+[0mcommunity [1mqt-recordmydesktop [0m0.3.7-1 [7m[0m[installed][0m
+[0mcommunity [1mqtemu [0m1.0.5-2
+[0mcommunity [1mqtoctave [0m0.8.1-1
+[0mcommunity [1mqtorrent [0m0.9.5-3
+[0mcommunity [1mqtpfsgui [0m1.9.2-2
+[0mcommunity [1mqtwvdialer [0m0.4.4-2
+[0mcommunity [1mquassel [0m0.3.0.1-1
+[0mcommunity [1mqucs [0m0.0.14-1
+[0mcommunity [1mraggle [0m0.4.4-5
+[0mcommunity [1mrake [0m0.8.1-1
+[0mcommunity [1mrapidsvn [0m0.9.6-3
+[0mcommunity [1mraw-thumbnailer [0m0.2-1
+[0mcommunity [1mrawstudio [0m1.0-1
+[0mcommunity [1mrdiff-backup [0m1.2.2-2
+[0mcommunity [1mrecoll [0m1.11.0-1
+[0mcommunity [1mrecordmydesktop [0m0.3.7.3-1 [7m[0m[installed][0m
+[0mcommunity [1mrecoverdm [0m0.19-2
+[0mcommunity [1mremind [0m3.01.05-1
+[0mcommunity [1mrexima [0m1.4-2
+[0mcommunity [1mrezero [0m0.1-2
+[0mcommunity [1mrfc [0m20060831-1
+[0mcommunity [1mripperx [0m2.7.2-1
+[0mcommunity [1mrkhunter [0m1.3.2-1
+[0mcommunity [1mrlog [0m1.4-2
+[0mcommunity [1mrlwrap [0m0.30-1
+[0mcommunity [1mrocksndiamonds [0m3.2.6.0-1
+[0mcommunity [1mrolo [0m011-1
+[0mcommunity [1mrote [0m0.2.8-1
+[0mcommunity [1mroundcubemail [0m0.2b-1
+[0mcommunity [1mrox-lib [0m2.0.4-1
+[0mcommunity [1mroxterm [0m1.12.2-1
+[0mcommunity [1mrpc2 [0m2.4-1
+[0mcommunity [1mrsnapshot [0m1.3.0-1
+[0mcommunity [1mrss-glx [0m0.8.2-1
+[0mcommunity [1mrsyslog [0m3.18.4-1
+[0mcommunity [1mrtorrent [0m0.7.9-3
+[0mcommunity [1mruby-atk [0m0.18.0-1
+[0mcommunity [1mruby-gconf2 [0m0.18.0-1
+[0mcommunity [1mruby-gdkpixbuf2 [0m0.18.0-1
+[0mcommunity [1mruby-gettext [0m1.93.0-1
+[0mcommunity [1mruby-glib2 [0m0.18.0-1
+[0mcommunity [1mruby-gnome2 [0m0.18.0-1
+[0mcommunity [1mruby-gnomecanvas [0m0.18.0-1
+[0mcommunity [1mruby-gtk2 [0m0.18.0-4
+[0mcommunity [1mruby-hpricot [0m0.6-1
+[0mcommunity [1mruby-kde [0m3.4.92-2
+[0mcommunity [1mruby-libart [0m0.18.0-1
+[0mcommunity [1mruby-libglade [0m0.18.0-1
+[0mcommunity [1mruby-mpd [0m0.2.3-1
+[0mcommunity [1mruby-ncurses [0m1.1-1
+[0mcommunity [1mruby-pango [0m0.18.0-1
+[0mcommunity [1mruby-rcairo [0m1.8.0-1
+[0mcommunity [1mruby-sqlite3 [0m1.2.2-1
+[0mcommunity [1mruby-zoom [0m0.4.1-1
+[0mcommunity [1mrubygems [0m1.2.0-1
+[0mcommunity [1mrubyripper [0m0.5.3-1
+[0mcommunity [1mrusxmms [0m1.2.11_csa42-1
+[0mcommunity [1mrutilt [0m0.18-1
+[0mcommunity [1msakura [0m2.3.2-1
+[0mcommunity [1msane-gt68xx-firmware [0m1.0-3
+[0mcommunity [1msarg [0m2.2.5-1
+[0mcommunity [1msauerbraten [0m2008_06_20_ctf_edition-1
+[0mcommunity [1mschismtracker [0m0.5rc1-1
+[0mcommunity [1mschroot [0m1.2.1_1-2
+[0mcommunity [1mscigraphica [0m2.1.0-5
+[0mcommunity [1mscilab [0m4.1.2-4
+[0mcommunity [1mscite [0m1.77-1
+[0mcommunity [1mscorched3d [0m41.3-1
+[0mcommunity [1mscponly [0m4.8-4
+[0mcommunity [1mscreenlets [0m0.1.2-2
+[0mcommunity [1mscribes [0m0.3.3.3-1
+[0mcommunity [1msdd [0m1.52-4
+[0mcommunity [1msdlmame [0m0.128-1
+[0mcommunity [1mselinux-coreutils [0m6.12-1
+[0mcommunity [1mselinux-flex [0m2.5.4a-2
+[0mcommunity [1mselinux-kernel26 [0m2.6.26.2-1
+[0mcommunity [1mselinux-pam [0m1.0.1-1
+[0mcommunity [1mselinux-refpolicy-src [0m20080702-1
+[0mcommunity [1mselinux-sysvinit [0m2.86-1
+[0mcommunity [1mselinux-usr-checkpolicy [0m1.34.7-1
+[0mcommunity [1mselinux-usr-libselinux [0m1.34.15-1
+[0mcommunity [1mselinux-usr-libsemanage [0m1.10.9-1
+[0mcommunity [1mselinux-usr-libsepol [0m1.16.14-1
+[0mcommunity [1mselinux-usr-policycoreutils [0m1.34.16-1
+[0mcommunity [1msensors-applet [0m2.2.1-3
+[0mcommunity [1mser2net [0m2.4-3
+[0mcommunity [1mserpentine [0m0.9-2
+[0mcommunity [1msfarkxtc [0m1.03-5
+[0mcommunity [1msgmltools-lite [0m3.0.3-1
+[0mcommunity [1mshackshag [0m0.1.2-1
+[0mcommunity [1mshake [0m0.31-3
+[0mcommunity [1mshaman [0m1.0.9-1
+[0mcommunity [1mshapelib [0m1.2.10-3
+[0mcommunity [1mshell-fm [0m0.6-1
+[0mcommunity [1mshfs [0m0.35-13
+[0mcommunity [1mshfs-utils [0m0.35-2
+[0mcommunity [1mshorewall [0m4.2.1-1
+[0mcommunity [1mshorewall-perl [0m4.2.1-1
+[0mcommunity [1mshp2svg [0m0.5.1-1
+[0mcommunity [1mshuffle [0m1.5-1
+[0mcommunity [1msiefs [0m0.5-1
+[0mcommunity [1msimgear [0m1.0.0-1
+[0mcommunity [1msimh [0m3.7.3-1
+[0mcommunity [1msk1 [0m0.9.0-2
+[0mcommunity [1mskype [0m2.0.0.72-2 [7m[0m[installed][0m
+[0mcommunity [1mskype-staticqt [0m2.0.0.72-2
+[0mcommunity [1msleuthkit [0m3.0.0-1
+[0mcommunity [1msloccount [0m2.26-4
+[0mcommunity [1mslock [0m0.9-1
+[0mcommunity [1msmbnetfs [0m0.3.11a-1
+[0mcommunity [1msniffit [0m0.3.7.beta-7
+[0mcommunity [1msnownews [0m1.5.10-1
+[0mcommunity [1msofia-sip [0m1.12.9-1
+[0mcommunity [1msolarwolf [0m1.5-3
+[0mcommunity [1msolfege [0m3.12.0-1
+[0mcommunity [1msopcast [0m3.0.1-1
+[0mcommunity [1msoundconverter [0m1.4.0-1
+[0mcommunity [1msoundkonverter [0m0.3.8-2
+[0mcommunity [1msoundtouch [0m1.3.1-2
+[0mcommunity [1mspeedometer [0m2.6-1
+[0mcommunity [1msplat [0m1.2.1-1
+[0mcommunity [1msplint [0m3.1.2-1
+[0mcommunity [1msplix [0m1.1.1-2
+[0mcommunity [1msqlitebrowser [0m1.3-2
+[0mcommunity [1msqliteman [0m1.2.0-2
+[0mcommunity [1msqlitemanager [0m1.2.0-2
+[0mcommunity [1msquirrelmail [0m1.4.16-2
+[0mcommunity [1mssh-faker [0m1.1-2
+[0mcommunity [1mssh2 [0m2.0.13-2
+[0mcommunity [1msshguard [0m1.0-1
+[0mcommunity [1mstalonetray [0m0.7.6-2
+[0mcommunity [1mstegdetect [0m0.6-1
+[0mcommunity [1msteghide [0m0.5.1-1
+[0mcommunity [1mstormbaancoureur [0m2.1.4-1
+[0mcommunity [1mstress [0m1.0.0-1
+[0mcommunity [1mstriim [0m0.0.4-2
+[0mcommunity [1msubdl [0m1.0.2-1
+[0mcommunity [1msubdownloader [0m2.0.7-1
+[0mcommunity [1msublib [0m0.9-2
+[0mcommunity [1msubtitleeditor [0m0.25.0-1
+[0mcommunity [1msunbird [0m0.9-1
+[0mcommunity [1msunbird-i18n [0m0.9-1
+[0mcommunity [1msuperswitcher [0m0.6-2
+[0mcommunity [1msupertux [0m0.3.1-2
+[0mcommunity [1msupertuxkart [0m0.5-1
+[0mcommunity [1msurfraw [0m2.2.0-1
+[0mcommunity [1mswarp [0m0.1-1
+[0mcommunity [1mswftools [0m0.8.1-1
+[0mcommunity [1msynbak [0m1.2.1-1
+[0mcommunity [1msynce-dccm [0m0.9.1-1
+[0mcommunity [1msynce-kde [0m0.12-5
+[0mcommunity [1msynce-libmimedir [0m0.4-2
+[0mcommunity [1msynce-librapi [0m0.12-2
+[0mcommunity [1msynce-libsynce [0m0.12-2
+[0mcommunity [1msynce-mcfs [0m0.1.1-4
+[0mcommunity [1msynce-odccm [0m0.12-2
+[0mcommunity [1msynce-rra [0m0.12-2
+[0mcommunity [1msynce-serial [0m0.11-1
+[0mcommunity [1msynce-vdccm [0m0.10.1-1
+[0mcommunity [1msyncekonnector [0m0.3.2-2
+[0mcommunity [1msysstat [0m8.1.5-1
+[0mcommunity [1msystem-config-printer [0m1.0.10-1
+[0mcommunity [1msystem-tools-backends [0m2.6.0-2
+[0mcommunity [1msysvbanner [0m1.0-2
+[0mcommunity [1mt1utils [0m1.32-1
+[0mcommunity [1mtablelist [0m4.10-1
+[0mcommunity [1mtaglib-rcc [0m1.5-1
+[0mcommunity [1mtagpy [0m0.94.5-8
+[0mcommunity [1mtagtool [0m0.12.3-2
+[0mcommunity [1mtango-generator [0m3.2.3-1
+[0mcommunity [1mtasks [0m0.14-1
+[0mcommunity [1mtclgeomap [0m2.11.3-2
+[0mcommunity [1mtcllib [0m1.10-1
+[0mcommunity [1mtcpflow [0m0.21-1
+[0mcommunity [1mtdl [0m1.5.2-2
+[0mcommunity [1mtea [0m17.6.0-1
+[0mcommunity [1mtea-lite [0m17.6.0-1
+[0mcommunity [1mted [0m2.17-2
+[0mcommunity [1mteeworlds [0m0.4.3-1
+[0mcommunity [1mtelepathy-glib [0m0.7.17-1
+[0mcommunity [1mtelepathy-haze [0m0.2.1-1
+[0mcommunity [1mtelepathy-sofiasip [0m0.4.5-4
+[0mcommunity [1mtellico [0m1.3.3-1
+[0mcommunity [1mterminator [0m0.11-3
+[0mcommunity [1mterminus-font [0m4.28-1 [7m[0m[installed][0m
+[0mcommunity [1mtesseract [0m2.03-1
+[0mcommunity [1mtestdisk [0m6.10-1
+[0mcommunity [1mtexi2html [0m1.64-3
+[0mcommunity [1mtexlive-bibtexextra-doc [0m2008.10643-1
+[0mcommunity [1mtexlive-core-doc [0m2008.10646-1
+[0mcommunity [1mtexlive-fontsextra-doc [0m2008.10613-1
+[0mcommunity [1mtexlive-formatsextra-doc [0m2008.-1
+[0mcommunity [1mtexlive-games-doc [0m2008.-1
+[0mcommunity [1mtexlive-genericextra-doc [0m2008.-1
+[0mcommunity [1mtexlive-htmlxml-doc [0m2008.-1
+[0mcommunity [1mtexlive-humanities-doc [0m2008.-1
+[0mcommunity [1mtexlive-langcjk-doc [0m2008.-1
+[0mcommunity [1mtexlive-langcyrillic-doc [0m2008.-1
+[0mcommunity [1mtexlive-langextra-doc [0m2008.-1
+[0mcommunity [1mtexlive-langgreek-doc [0m2008.-1
+[0mcommunity [1mtexlive-latex3-doc [0m2008.-1
+[0mcommunity [1mtexlive-latexextra-doc [0m2008.10642-1
+[0mcommunity [1mtexlive-music-doc [0m2008.-1
+[0mcommunity [1mtexlive-pictures-doc [0m2008.10648-1
+[0mcommunity [1mtexlive-plainextra-doc [0m2008.-1
+[0mcommunity [1mtexlive-pstricks-doc [0m2008.10641-1
+[0mcommunity [1mtexlive-publishers-doc [0m2008.10647-1
+[0mcommunity [1mtexlive-science-doc [0m2008.-1
+[0mcommunity [1mtexmaker [0m1.8-1
+[0mcommunity [1mtexvc [0m1.13.1-1
+[0mcommunity [1mthoggen [0m0.7.1-3
+[0mcommunity [1mthuban-svn [0m2778-1
+[0mcommunity [1mthunar-thumbnailers [0m0.4.1-2
+[0mcommunity [1mthunderbird-spell-es [0m2.0.0.17-1
+[0mcommunity [1mthunderbird-spell-it [0m2.0.0.16-1
+[0mcommunity [1mthunderbird-spell-pl [0m2.0.0.17-1
+[0mcommunity [1mtig [0m0.12.1-1
+[0mcommunity [1mtilda [0m0.9.6-1
+[0mcommunity [1mtimidity-freepats [0m20060219-5
+[0mcommunity [1mtintin [0m1.98.6-1
+[0mcommunity [1mtinycdb [0m0.75-2
+[0mcommunity [1mtix [0m8.4.2-4
+[0mcommunity [1mtkabber [0m0.11.1-1
+[0mcommunity [1mtkgeomap [0m2.11.3-1
+[0mcommunity [1mtkgm_util [0m2.1-2
+[0mcommunity [1mtksystray [0m0.1-2
+[0mcommunity [1mtktheme [0m0.23-5
+[0mcommunity [1mtldp-howtos-html [0m20061121-1
+[0mcommunity [1mtldp-howtos-html-ru [0m20060831-1
+[0mcommunity [1mtldp-howtos-html-single [0m20061121-1
+[0mcommunity [1mtldp-howtos-txt [0m20061121-1
+[0mcommunity [1mtlf [0m0.9.31-1
+[0mcommunity [1mtls [0m1.5.0-3
+[0mcommunity [1mtmsnc [0m0.3.2-1
+[0mcommunity [1mtmw [0m0.0.26-1
+[0mcommunity [1mtmwmusic [0m0.2-1
+[0mcommunity [1mtnftp [0m20070806-2
+[0mcommunity [1mtomcat-admin [0m5.5.27-1
+[0mcommunity [1mtoolame [0m02l-6
+[0mcommunity [1mtora [0m1.3.23-1 [7m[0m[installed][0m
+[0mcommunity [1mtorcs [0m1.3.1-1
+[0mcommunity [1mtrac [0m0.11.2-1
+[0mcommunity [1mtracker [0m0.6.6-2
+[0mcommunity [1mtracker-gnome-search-tool [0m0.6.6-1
+[0mcommunity [1mtranslate-toolkit [0m1.2.0-2
+[0mcommunity [1mtransset-df [0m6-1
+[0mcommunity [1mtremulous [0m1.1.0-4
+[0mcommunity [1mtrickle [0m1.07-2
+[0mcommunity [1mtripwire [0m2.4.1.1-1
+[0mcommunity [1mtse3 [0m0.3.1-2
+[0mcommunity [1mttf-freefont [0m20080912-1
+[0mcommunity [1mttf-inconsolata [0m20070831-2 [7m[0m[installed][0m
+[0mcommunity [1mttf-liberation [0m1.04-1
+[0mcommunity [1mttf-linux-libertine [0m4.1.8-1
+[0mcommunity [1mtuxcards [0m2.1.1-1
+[0mcommunity [1mtuxcmd [0m0.6.36-1
+[0mcommunity [1mtuxguitar [0m1.0-5
+[0mcommunity [1mtuxkart [0m0.4.0-5
+[0mcommunity [1mtuxpaint [0m0.9.20-1
+[0mcommunity [1mtvision [0m2.0.3-1
+[0mcommunity [1mtwcw [0m2.0-1
+[0mcommunity [1mtwin [0m0.6.0-1
+[0mcommunity [1mtxt2man [0m1.5-1
+[0mcommunity [1mtxt2tags [0m2.5-1
+[0mcommunity [1mtypespeed [0m0.6.5-1
+[0mcommunity [1mucl [0m1.03-3
+[0mcommunity [1mude [0m0.2.9a-4
+[0mcommunity [1mufw [0m0.22-4
+[0mcommunity [1multimate-ircd [0m3.0.2-1
+[0mcommunity [1mumfpack [0m5.2.0-1
+[0mcommunity [1mumleditor [0m3.1.2-1
+[0mcommunity [1munace [0m2.5-5
+[0mcommunity [1munifdef [0m1.0-1
+[0mcommunity [1munits [0m1.87-1
+[0mcommunity [1munixcw [0m2.3-2
+[0mcommunity [1munrealircd [0m3.2.7-5
+[0mcommunity [1munrtf [0m0.20.5-1
+[0mcommunity [1munshield [0m0.5.1-1
+[0mcommunity [1muptimed [0m0.3.11-1
+[0mcommunity [1mupx [0m3.03-2
+[0mcommunity [1muqm [0m0.6.2-3
+[0mcommunity [1murlgfe [0m1.0.2-1
+[0mcommunity [1murlgrabber [0m3.1.0-1
+[0mcommunity [1mussp-push [0m0.11-1
+[0mcommunity [1mustr [0m1.0.4-1
+[0mcommunity [1muudeview [0m0.5.20-6
+[0mcommunity [1mvala [0m0.3.5-1
+[0mcommunity [1mvamps [0m0.99.2-5
+[0mcommunity [1mvarnish [0m2.0-2
+[0mcommunity [1mvde2 [0m2.2.2-2
+[0mcommunity [1mversionpkg [0m0.7.6-1
+[0mcommunity [1mvideothumbnail [0m0.1.14-1
+[0mcommunity [1mvile [0m9.6-1
+[0mcommunity [1mvim-pastie [0m1.15-1
+[0mcommunity [1mvim-rails [0m3.1-2
+[0mcommunity [1mvim-supertab [0m0.45-1
+[0mcommunity [1mvim-surround [0m1.34-1
+[0mcommunity [1mvim-timestamp [0m1.20-2
+[0mcommunity [1mvimpager [0m0.5-1
+[0mcommunity [1mvirtualbox-additions [0m2.0.4-1
+[0mcommunity [1mvirtualbox-modules [0m2.0.4-1 [7m[0m[installed][0m
+[0mcommunity [1mvirtualbox-ose [0m2.0.4-1 [7m[0m[installed][0m
+[0mcommunity [1mvirtualbox-ose-additions [0m2.0.4-1
+[0mcommunity [1mvirtualbox-ose-additions-modules [0m2.0.4-1
+[0mcommunity [1mvisitors [0m0.7-1
+[0mcommunity [1mvisualboyadvance [0m1.7.2-5
+[0mcommunity [1mvive [0m2.0.0-4
+[0mcommunity [1mvlock [0m2.2.2-1
+[0mcommunity [1mvmoviedb [0m0.1.5-3
+[0mcommunity [1mvncviewer-jar [0m1.3.9-1
+[0mcommunity [1mvnstat [0m1.6-2
+[0mcommunity [1mvobcopy [0m1.1.2-1
+[0mcommunity [1mvolwheel [0m0.2.5-1
+[0mcommunity [1mvorbisgain [0m0.36-1
+[0mcommunity [1mvorbissimple [0m0.0.2-1
+[0mcommunity [1mvsound [0m0.6-1
+[0mcommunity [1mvte-docs [0m0.16.13-1
+[0mcommunity [1mvym [0m1.12.2-3
+[0mcommunity [1mvyqchat [0m0.2.8-2
+[0mcommunity [1mw3cam [0m0.7.2-5
+[0mcommunity [1mwammu [0m0.29-1
+[0mcommunity [1mwarzone2100 [0m2.0.10-2
+[0mcommunity [1mwavegain [0m1.2.6-2
+[0mcommunity [1mwbar [0m1.3.3-2
+[0mcommunity [1mwdm [0m1.28-2
+[0mcommunity [1mweatherget [0m0.4.0.1-1
+[0mcommunity [1mweb-news [0m1.6.3-1
+[0mcommunity [1mwebboard [0m0.2-3
+[0mcommunity [1mwebfs [0m1.21-2
+[0mcommunity [1mwhen [0m1.1.13-1
+[0mcommunity [1mwhitebox [0m0.5-1
+[0mcommunity [1mwifi-radar [0m1.9.9-1
+[0mcommunity [1mwindowlab [0m1.34-2
+[0mcommunity [1mwine_gecko [0m0.1.0-2
+[0mcommunity [1mwinefish [0m1.3.3-5
+[0mcommunity [1mwinetools [0m0.9jo-6
+[0mcommunity [1mwinetricks [0m20081012-1
+[0mcommunity [1mwlassistant [0m0.5.7-2
+[0mcommunity [1mwmctrl [0m1.07-1
+[0mcommunity [1mwml [0m2.0.11-1
+[0mcommunity [1mworkrave [0m1.9.0-1
+[0mcommunity [1mwormux [0m0.8.2-1
+[0mcommunity [1mwqy-bitmapfont [0m0.9.9-4
+[0mcommunity [1mwqy-zenhei [0m0.6.26-1
+[0mcommunity [1mwtf [0m20071004-1
+[0mcommunity [1mwxsvg [0m1.0b11-1
+[0mcommunity [1mwyrd [0m1.4.4-1
+[0mcommunity [1mwzdftpd [0m0.8.3-1
+[0mcommunity [1mx-docs-pdf [0m20071217-1
+[0mcommunity [1mx11-ssh-askpass [0m1.2.4.1-2
+[0mcommunity [1mxalan-c [0m1.10-2 [7m[0m[installed][0m
+[0mcommunity [1mxapian-core [0m1.0.8-1
+[0mcommunity [1mxaralx [0m0.7r1785-3
+[0mcommunity [1mxastir [0m1.9.3-1
+[0mcommunity [1mxchat-systray-integration [0m2.4.5-1
+[0mcommunity [1mxchatosd [0m5.19-1
+[0mcommunity [1mxchm [0m1.14-1
+[0mcommunity [1mxcircuit [0m3.4.30-1
+[0mcommunity [1mxcursor-bluecurve [0m0.1-4 [7m[0m[installed][0m
+[0mcommunity [1mxcursor-chameleon-anthracite [0m0.5-2 [7m[0m[installed][0m
+[0mcommunity [1mxcursor-flatbed [0m0.1-2
+[0mcommunity [1mxcursor-grounation [0m0.3-5 [7m[0m[installed][0m
+[0mcommunity [1mxcursor-jimmac [0m2.0-4
+[0mcommunity [1mxcursor-neutral [0m1.13a-4
+[0mcommunity [1mxcursor-pinux [0m0.3-7
+[0mcommunity [1mxcursor-polar [0m1.4-6
+[0mcommunity [1mxcursor-premium [0m0.3-5
+[0mcommunity [1mxcursor-simpleandsoft [0m0.2-3
+[0mcommunity [1mxcursor-vanilla-dmz [0m0.4-4 [7m[0m[installed][0m
+[0mcommunity [1mxcursor-vanilla-dmz-aa [0m0.4-4
+[0mcommunity [1mxdg-user-dirs [0m0.10-1
+[0mcommunity [1mxdiskusage [0m1.48-3
+[0mcommunity [1mxdm-archlinux [0m0.3-2
+[0mcommunity [1mxdotool [0m20080720-5
+[0mcommunity [1mxdx [0m2.4-1
+[0mcommunity [1mxemacs-all-packages [0m20071217-1
+[0mcommunity [1mxen [0m3.3.0-1
+[0mcommunity [1mxerces-c [0m2.8.0-1 [7m[0m[installed][0m
+[0mcommunity [1mxf4vnc-libvnc [0m20070626-2
+[0mcommunity [1mxf4vnc-libxcliplist [0m20070626-2
+[0mcommunity [1mxf4vnc-vncproto [0m20070626-2
+[0mcommunity [1mxf4vnc-xcliplistproto [0m20070626-2
+[0mcommunity [1mxf4vnc-xvnc [0m20070626-2
+[0mcommunity [1mxfce4-places-plugin [0m1.1.0-3
+[0mcommunity [1mxfce4-volstatus-icon [0m0.1.0-2
+[0mcommunity [1mxfe [0m1.18-1
+[0mcommunity [1mxfmedia [0m0.9.2-3
+[0mcommunity [1mxgl [0m0.0.1.20080407-1
+[0mcommunity [1mxkbsel [0m0.13-1
+[0mcommunity [1mxloadimage [0m4.1-6
+[0mcommunity [1mxlockmore [0m5.26.1-1
+[0mcommunity [1mxlog [0m1.7-1
+[0mcommunity [1mxmltv [0m0.5.51-2
+[0mcommunity [1mxmms [0m1.2.11-1
+[0mcommunity [1mxmms-imms [0m3.0.2-1
+[0mcommunity [1mxmms-pulse [0m0.9.4-1
+[0mcommunity [1mxmms-volnorm [0m0.8.3-3
+[0mcommunity [1mxmms2 [0m0.5DrLecter-3
+[0mcommunity [1mxmmsctrl [0m1.9-1
+[0mcommunity [1mxmonad [0m0.8-1
+[0mcommunity [1mxmonad-contrib [0m0.8-1
+[0mcommunity [1mxmove [0m2.0beta2-2
+[0mcommunity [1mxmpppy [0m0.4.1-1
+[0mcommunity [1mxnc [0m5.0.4-1
+[0mcommunity [1mxnec2c [0m1.0b5-1
+[0mcommunity [1mxnee [0m3.0.1-1
+[0mcommunity [1mxosview [0m1.8.3-2
+[0mcommunity [1mxpacman [0m0.11-2
+[0mcommunity [1mxpacman2 [0m1.002-1
+[0mcommunity [1mxpad [0m3.0-1
+[0mcommunity [1mxplanet [0m1.2.0-2
+[0mcommunity [1mxrestop [0m0.4-1
+[0mcommunity [1mxsel [0m1.2.0-1
+[0mcommunity [1mxsensors [0m0.60-2
+[0mcommunity [1mxsettings-client [0m0.10-4
+[0mcommunity [1mxtmsplit [0m0.2-1
+[0mcommunity [1mxv [0m3.10a-8
+[0mcommunity [1mxvkbd [0m3.0-1
+[0mcommunity [1mxxkb [0m1.11-2
+[0mcommunity [1myacpi [0m3.0.1-1
+[0mcommunity [1myahoo-t [0m0.4-1
+[0mcommunity [1myaws [0m1.77-1
+[0mcommunity [1myaz [0m3.0.34-1
+[0mcommunity [1myfklog [0m0.3.5-1
+[0mcommunity [1myfktest [0m0.0.9-1
+[0mcommunity [1myour-freedom [0m20080619-1
+[0mcommunity [1myoutube-dl [0m2008.10.16-1
+[0mcommunity [1mzisofs-tools [0m1.0.8-2
+[0mcommunity [1mzsi [0m2.0-3
+[0mcommunity [1mzziplib [0m0.13.49-2

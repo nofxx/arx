@@ -12,7 +12,7 @@
   <tr>
     <td><%=h pkg.name %></td>
     <td><%=h pkg.desc %></td>
-    <td><%=h pkg.maintainer %></td>
+    <td><%#h pkg.maintainer %></td>
     <td><%=h pkg.repo %></td>
     <td><%= link_to 'Show', pkg %></td>
     <td><%= link_to 'Edit', edit_pkg_path(pkg) %></td>

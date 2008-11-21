@@ -1,0 +1,13 @@
+<p>
+  <b>User:</b>
+  <%=h @repo.user %>
+</p>
+
+<p>
+  <b>Path:</b>
+  <%=h @repo.path %>
+</p>
+
+
+<%= link_to 'Edit', edit_repo_path(@repo) %> |
+<%= link_to 'Back', repos_path %>
