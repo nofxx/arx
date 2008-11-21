@@ -1,0 +1,17 @@
+%h1 Repos
+
+%table
+  %tr
+    %th Pkg
+    %th User
+
+  - for repo in @repos
+    %tr
+      %td=h repo.user.name
+      %td=h repo.pkg.name
+      %td= link_to 'Show', repo
+      %td= link_to 'Edit', edit_repo_path(repo)
+      %td= link_to 'Destroy', repo, :confirm => 'Are you sure?', :method => :delete
+
+%br/
+= link_to 'New repo', new_repo_path

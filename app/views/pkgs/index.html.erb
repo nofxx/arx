@@ -12,8 +12,8 @@
   <tr>
     <td><%=h pkg.name %></td>
     <td><%=h pkg.desc %></td>
-    <td><%#h pkg.maintainer %></td>
-    <td><%=h pkg.repo %></td>
+    <td><%=h pkg.owner.name if pkg.owner %></td>
+    <td><%=h pkg.repos.count %></td>
     <td><%= link_to 'Show', pkg %></td>
     <td><%= link_to 'Edit', edit_pkg_path(pkg) %></td>
     <td><%= link_to 'Destroy', pkg, :confirm => 'Are you sure?', :method => :delete %></td>

@@ -1,0 +1,11 @@
+%p
+  %b Name:
+  =h @repo.user.name
+
+%p
+  %b Pkgbuild:
+  =h @repo.pkgbuild_text
+
+
+= link_to 'Edit', edit_repo_path(@repo)
+= link_to 'Back', repos_path

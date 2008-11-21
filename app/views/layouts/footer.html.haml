@@ -1,0 +1,14 @@
+#footer
+  %p
+    -# if logged_in?
+    #loging
+      %span
+        =# " #{link_to current_user.login.capitalize, '/opcoes'} |"
+        = link_to 'Sair', '/sair'
+        //#session_path(:id => session[:usuario_id]),:method => :delete
+
+
+    %a{ :href => "http://archlinux.org" } ArX
+    |
+    ArX BETA by
+    %a{ :href => "http://fireho.com" } fireho.com

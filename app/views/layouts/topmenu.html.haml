@@ -1,0 +1,9 @@
+#topbar
+  .logo
+    = image_tag "layout/logo_menu.png"
+
+  #topmenu
+    %ul
+      %li= link_to 'Inicial', "/", :class =>"icon home"
+      %li= link_to 'Pkgs', "/pkgs", :class =>"icon table"
+      %li= link_to 'Repos', "/repos", :class =>"icon maps"
