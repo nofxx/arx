@@ -7,6 +7,7 @@ class User < ActiveRecord::Base
   include Authorization::StatefulRoles
 
   has_many :pkgs, :foreign_key => :maintainer_id, :dependent => :nullify
+  has_many :repos, :dependent => :destroy
   has_many :comments, :dependent => :destroy
 
   validates_presence_of     :login
@@ -29,13 +30,10 @@ class User < ActiveRecord::Base
   end
 
 
-
   # HACK HACK HACK -- how to do attr_accessible from here?
   # prevents a user from submitting a crafted form that bypasses activation
   # anything else you want your user to change should be added here.
-  attr_accessible :login, :email, :name, :password, :password_confirmation
-
-
+  attr_accessible :login, :email, :name, :password, :password_confirmation, :admin
 
   # Authenticates a user by their login name and unencrypted password.  Returns the user or nil.
   #

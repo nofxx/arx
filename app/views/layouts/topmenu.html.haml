@@ -6,3 +6,7 @@
     %ul
       %li= link_to 'Home', "/", :class =>"icon home"
       %li= link_to 'Pkgs', "/pkgs", :class =>"icon pkg"
+      - if logged_in?
+        %li= link_to 'My Pkgs', "/pkgs", :class =>"icon pkg"
+      - else
+        %li= link_to 'Login' , "/login", :class =>"icon login"

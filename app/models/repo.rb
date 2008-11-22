@@ -1,56 +1,59 @@
-require "grit"
-require "uv"
-REPO_PATH = "/var/www/arx-git/"
-
 class Repo < ActiveRecord::Base
-  include Grit
+  include Gitx::Base
+
+  belongs_to :user, :counter_cache => true
+  belongs_to :pkg, :counter_cache => true
 
 
-  belongs_to :user
-  belongs_to :pkg
-
-  validates_presence_of :user
   validates_presence_of :pkg
+  validates_uniqueness_of :path
 
-  def git
-    Repo.new(path)
-  end
+
 
   def before_create
-    dir = "#{REPO_PATH}#{pkg.name}/#{user.first_name}"
-    Dir.mkdir(dir) unless File.directory?(dir)
-    system("")
-    self[:path] = dir
-    init_repo(dir)
+    self.path = create_repo(pkg, user)
   end
 
-  # SOON BDRB # #  # # # # # #
-
-#  def create_repo
-#
-
-
-#  end
-
-  def init_repo(path)
-    Dir.chdir(path) do
-      system("git init") # --template
-    end
+  # Get user by username method. System pkgs stay apart
+  # with this logic. Better ideas are welcome....
+  def username
+    user ? user.name : "system"
   end
 
-#  u = User.first
-#  p = Pkg.last
-#  r = p.repos.build
-#  r.user = u
-#  r.save
 
-
-
-  # # # # # ## # # # # #
+  # #
+  # GIT
+  #
+  def git;     get_repo(path)           end
 
   def commits; git.commits;             end
   def head;    git.commits.first;       end
   def tree;    git.commits.first.tree;  end #contents;
+  def blob;    tree.contents;           end
+
+  def empty?
+    commits.empty?
+  end
+
+  def get_commits from, max=nil
+    git.commits(from, max)
+  end
+
+  def pkgbuild
+    blob.select { |b| b.name == "PKGBUILD" }.first#repo find
+  end
+
+  def pkgbuild_code
+    Uv.parse( pkgbuild.data, "xhtml", "shell-unix-generic", true, "amy")
+  end
+
+  # #
+  # Commit code
+  def commit! msg = ""
+    git.add
+    git.commit_index(msg)
+  end
+end
 
 #head.id
 #  # => "e80bbd2ce67651aa18e57fb0b43618ad4baf7750"
@@ -76,14 +79,7 @@ class Repo < ActiveRecord::Base
 #  head.message
 #  # => "add Actor inspect"
 
-  def get_commits(from, max=nil)
-    git.commits(from,max)
-  end
 
-
-  def blob
-    tree.contents
-  end
 
 #    contents.last.name
 #  # => "lib"
@@ -107,12 +103,3 @@ class Repo < ActiveRecord::Base
 
 #  blob.data
 #  # => "Grit is a library to ..."
-
-  def pkgbuild
-    blob.select { |b| b.name == "PKGBUILD" }.first#repo find
-  end
-
-  def pkgbuild_code
-    Uv.parse( pkgbuild.data, "xhtml", "shell-unix-generic", true, "amy")
-  end
-end

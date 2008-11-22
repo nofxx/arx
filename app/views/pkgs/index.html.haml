@@ -1,0 +1,22 @@
+%h1 Listing Packages
+%table
+  %tr
+    %th Name
+    %th Desc
+    %th Maintainer
+    %th Forks
+
+  - for pkg in @pkgs
+    %tr
+      %td= link_to pkg.name, pkg
+      %td=h pkg.desc
+      %td=h pkg.owner_name
+      %td=h pkg.repos_count - 1
+      - if authorized?
+        %td= link_to 'Edit', edit_pkg_path(pkg)
+        %td= link_to 'Destroy', pkg, :confirm => 'Are you sure?', :method => :delete
+
+%br/
+
+- if logged_in?
+  = link_to 'New pkg', new_pkg_path

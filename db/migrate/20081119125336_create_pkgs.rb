@@ -4,18 +4,21 @@ class CreatePkgs < ActiveRecord::Migration
       t.references :owner
       t.string :name, :null => false
       t.text :desc, :null => false
-      t.integer :weight, :null => false, :default => 0
+      t.integer :rank, :null => false, :default => 0
 
       t.string :license, :url, :md5
-      t.integer :size, :dl_size, :arch
+      t.integer :size, :dl_size, :arch,
+        :repos_count, :installs_count, :versions_count
 
       t.timestamp :build_date
 
       t.timestamps
     end
 
-    add_index :pkgs, :name
+    add_index :pkgs, :name, :unique => true
     add_index :pkgs, :owner_id
+    add_index :pkgs, :rank
+    add_index :pkgs, :build_date
   end
 
   def self.down

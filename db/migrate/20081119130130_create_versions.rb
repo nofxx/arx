@@ -7,6 +7,7 @@ class CreateVersions < ActiveRecord::Migration
 
       t.timestamps
     end
+    add_index :versions, :pkg_id
   end
 
   def self.down

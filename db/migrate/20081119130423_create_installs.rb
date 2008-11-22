@@ -6,6 +6,9 @@ class CreateInstalls < ActiveRecord::Migration
 
       t.timestamps
     end
+
+    add_index :installs, :pkg_id
+    add_index :installs, :code
   end
 
   def self.down

@@ -8,6 +8,7 @@ class CreateKarmas < ActiveRecord::Migration
 
       t.timestamps
     end
+    add_index :karmas, :pkg_id
   end
 
   def self.down

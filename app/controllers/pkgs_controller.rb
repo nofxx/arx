@@ -41,6 +41,7 @@ class PkgsController < ApplicationController
   # POST /pkgs.xml
   def create
     @pkg = Pkg.new(params[:pkg])
+    @pkg.owner = current_user
 
     respond_to do |format|
       if @pkg.save
@@ -80,6 +81,21 @@ class PkgsController < ApplicationController
     respond_to do |format|
       format.html { redirect_to(pkgs_url) }
       format.xml  { head :ok }
+    end
+  end
+
+  def fork
+    @pkg = Pkg.find(params[:id])
+    @clone = @pkg.repos.build(:user => current_user)
+
+
+    if @clone.save
+
+    respond_to do |format|
+      format.html { redirect_to(@clone) }
+      format.xml  { head :ok }
+    end
+    else
     end
   end
 end

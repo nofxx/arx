@@ -1,6 +1,9 @@
 
+- if logged_in?
+  = link_to 'Fork', fork_pkg_path(@pkg)
+
+
 = image_tag @pkg.logo.url
-= image_tag @pkg.logo.url(:medium)
 = image_tag @pkg.logo.url(:thumb)
 
 
@@ -12,10 +15,10 @@
   %b Desc:
   =h @pkg.desc
 
-
-%p
-  - for repo in @pkg.repos
-    = link_to repo.user.name, repo
+- if logged_in?
+  %p
+    - for repo in @pkg.repos
+      = link_to repo.username, repo
 
 
 = link_to 'Edit', edit_pkg_path(@pkg)

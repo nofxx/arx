@@ -1,11 +1,10 @@
 #footer
   %p
-    -# if logged_in?
-    #loging
-      %span
-        =# " #{link_to current_user.login.capitalize, '/opcoes'} |"
-        = link_to 'Sair', '/sair'
-        //#session_path(:id => session[:usuario_id]),:method => :delete
+    - if logged_in?
+      #loging
+        %span
+          = " #{link_to current_user.login.capitalize, '/opts'} |"
+          = link_to 'Logout', '/logout'
 
 
     %a{ :href => "http://archlinux.org" } ArX
