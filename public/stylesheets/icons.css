@@ -2,26 +2,20 @@ div#content_default a.icon {
 	padding-left: 20px;
 }
 a.home {
-	background: transparent url(../images/icons/home.png) no-repeat scroll left 3px;
+	background: transparent url(../images/icons/style/home.png) no-repeat scroll left 3px;
 }
 a.login {
 	background: transparent url(../images/icons/key.png) no-repeat scroll left 3px;
 }
-a.contato {
-	background: transparent url(../images/icons/telephone.png) no-repeat scroll left 3px;
-}
-a.rotas {
-	background: transparent url(../images/icons/map/pin.png) no-repeat scroll left 3px;
+a.pkg {
+	background: transparent url(../images/icons/pkgs/box.png) no-repeat scroll left 3px;
 }
 
 
-a.car_add {
-	background: transparent url(../images/icons/car_add.png) no-repeat scroll left 3px;
-}
+
 a.add {
 	background: transparent url(../images/icons/add.png) no-repeat scroll left 3px;
 }
-
 a.accept {
 	background: transparent url(../images/icons/accept.png) no-repeat scroll left 3px;
 }
@@ -38,21 +32,18 @@ a.show {
 	background: transparent url(../images/icons/application_view_columns.png) no-repeat scroll left 3px;
 }
 
-a.ativar {
+
+a.activate {
 	background: transparent url(../images/icons/lock_unlock.png) no-repeat scroll left 3px;
 }
-a.desativar {
+a.deactivate {
 	background: transparent url(../images/icons/lock.png) no-repeat scroll left 3px;
 }
-
 a.exclamation {
 	background: transparent url(../images/icons/error.png) no-repeat scroll left 3px;
 }
 a.table {
 	background: transparent url(../images/icons/table.png) no-repeat scroll left 3px;
-}
-a.maps {
-	background: transparent url(../images/icons/maps.png) no-repeat scroll left 3px;
 }
 a.feed {
 	background: transparent url(../images/icons/feed.png) no-repeat scroll left 3px;
@@ -63,50 +54,17 @@ a.address {
 a.help {
 	background: transparent url(../images/icons/lifebuoy.png) no-repeat scroll left 3px;
 }
-a.print {
-	background: transparent url(../images/icons/doc/printer.png) no-repeat scroll left 3px;
-}
-a.pdf {
-	background: transparent url(../images/icons/doc/pdf.png) no-repeat scroll left 3px;
-}
-a.xls {
-	background: transparent url(../images/icons/doc/xls.png) no-repeat scroll left 3px;
-}
-a.xml {
-	background: transparent url(../images/icons/doc/xml.png) no-repeat scroll left 3px;
-}
-a.csv {
-	background: transparent url(../images/icons/doc/csv.png) no-repeat scroll left 3px;
-}
-a.report {
-	background: transparent url(../images/icons/doc/report.png) no-repeat scroll left 3px;
-}
 a.info {
 	background: transparent url(../images/icons/information.png) no-repeat scroll left 3px;
 }
 a.asterisk {
 	background: transparent url(../images/icons/asterisk.png) no-repeat scroll left 3px;
 }
-a.pin {
-	background: transparent url(../images/icons/map/pin.png) no-repeat scroll left 3px;
-}
+
 a.funnel {
 	background: transparent url(../images/icons/funnel.png) no-repeat scroll left 3px;
 }
-a.route {
-	background: transparent url(../images/icons/rota.png) no-repeat scroll left 3px;
-}
-a.cercas {
-	background: transparent url(../images/icons/map/map.png) no-repeat scroll left 3px;
-}
-a.lorry {
-	background: transparent url(../images/icons/truck/lorry.png) no-repeat scroll left 3px;
-}
+
 a.note {
 	background: transparent url(../images/icons/note.png) no-repeat scroll left 3px;
-}
-
-/* Grid */
-.ux-icon-search {
-  background-image:url(/images/icons/filter.gif) !important;
 }
