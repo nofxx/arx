@@ -1,14 +1,14 @@
 class CreateKarmas < ActiveRecord::Migration
   def self.up
     create_table :karmas do |t|
-      t.references :pkg, :null => false
+      t.references :repo, :null => false
       t.integer :value, :null => false
       t.references :user, :null => false
-      t.references :version, :null => false
+
 
       t.timestamps
     end
-    add_index :karmas, :pkg_id
+    add_index :karmas, :repo_id
   end
 
   def self.down

@@ -40,3 +40,26 @@ old_password_holder:
 
 
   state:                     active
+# == Schema Info
+# Schema version: 20081122103124
+#
+# Table name: users
+#
+#  id                        :integer         not null, primary key
+#  activation_code           :string(40)
+#  admin                     :boolean
+#  crypted_password          :string(40)
+#  email                     :string(100)
+#  login                     :string(40)
+#  name                      :string(100)     default("")
+#  pkgs_count                :integer
+#  remember_token            :string(40)
+#  repos_count               :integer
+#  salt                      :string(40)
+#  state                     :string(255)     not null, default("passive")
+#  activated_at              :datetime
+#  created_at                :datetime
+#  deleted_at                :datetime
+#  remember_token_expires_at :datetime
+#  updated_at                :datetime
+

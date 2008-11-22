@@ -2,7 +2,7 @@ class PkgsController < ApplicationController
   # GET /pkgs
   # GET /pkgs.xml
   def index
-    @pkgs = Pkg.find(:all)
+    @pkgs = Pkg.all
 
     respond_to do |format|
       format.html # index.html.erb
@@ -13,7 +13,7 @@ class PkgsController < ApplicationController
   # GET /pkgs/1
   # GET /pkgs/1.xml
   def show
-    @pkg = Pkg.find(params[:id])
+    @pkg = Pkg.find_by_name(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
@@ -34,7 +34,7 @@ class PkgsController < ApplicationController
 
   # GET /pkgs/1/edit
   def edit
-    @pkg = Pkg.find(params[:id])
+    @pkg = Pkg.find_by_name(params[:id])
   end
 
   # POST /pkgs
@@ -58,7 +58,7 @@ class PkgsController < ApplicationController
   # PUT /pkgs/1
   # PUT /pkgs/1.xml
   def update
-    @pkg = Pkg.find(params[:id])
+    @pkg = Pkg.find_by_name(params[:id])
 
     respond_to do |format|
       if @pkg.update_attributes(params[:pkg])
@@ -75,7 +75,7 @@ class PkgsController < ApplicationController
   # DELETE /pkgs/1
   # DELETE /pkgs/1.xml
   def destroy
-    @pkg = Pkg.find(params[:id])
+    @pkg = Pkg.find_by_name(params[:id])
     @pkg.destroy
 
     respond_to do |format|
@@ -85,7 +85,7 @@ class PkgsController < ApplicationController
   end
 
   def fork
-    @pkg = Pkg.find(params[:id])
+    @pkg = Pkg.find_by_name(params[:id])
     @clone = @pkg.repos.build(:user => current_user)
 
 

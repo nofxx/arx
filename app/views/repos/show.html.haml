@@ -6,14 +6,16 @@
 %p
   %b Name:
   =h @repo.username
+  %b Karma:
+  = @repo.karma
 
 - unless @repo.empty?
   %h2 PKGBUILD
-  =# link_to "Edit",
+  = link_to "Edit", 'files/edit', :rel => "facebox"
   = c(@repo.pkgbuild.data, :theme => 'twilight')
   // @repo.pkgbuild_code
   %h2 Install
-  =# c(@repo.install.data, :theme => 'twilight')
+  = c(@repo.install.data, :theme => 'twilight')
   %h2 Patches
 
 - else

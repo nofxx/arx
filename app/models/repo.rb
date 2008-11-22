@@ -4,11 +4,13 @@ class Repo < ActiveRecord::Base
   belongs_to :user, :counter_cache => true
   belongs_to :pkg, :counter_cache => true
   has_many :comments, :as => :commentable, :dependent => :destroy
-
+  has_many :karmas, :dependent => :destroy
+  has_many :installs, :dependent => :destroy
   validates_presence_of :pkg
   validates_uniqueness_of :path
 
-
+  named_scope :system, :conditions => { :user_id => nil }
+  named_scope :system, :conditions => { :user_id => nil }
 
   def before_create
     self.path = create_repo(pkg, user)
@@ -43,18 +45,24 @@ class Repo < ActiveRecord::Base
     blob.select { |b| b.name == "PKGBUILD" }.first#repo find
   end
 
+  def install
+    blob.select { |b| b.name =~ /.*\.install$/ }.first
+  end
+
+  def patches
+    blob.select { |b| b.name =~ /.*\.patch$/ }
+  end
+
   def pkgbuild_code
     Uv.parse( pkgbuild.data, "xhtml", "shell-unix-generic", true, "amy")
   end
 
-  def patches
+  def other_files
 
 
   end
 
-  def install
-    blob.select { |b| b.name == "*.install" }.first
-  end
+
   # #
   # Commit code
   def commit! msg = ""
@@ -111,3 +119,16 @@ end
 
 #  blob.data
 #  # => "Grit is a library to ..."
+
+
+# == Schema Info
+# Schema version: 20081122103124
+#
+# Table name: repos
+#
+#  id         :integer         not null, primary key
+#  pkg_id     :integer         not null
+#  user_id    :integer
+#  path       :string(255)     not null
+#  created_at :datetime
+#  updated_at :datetime

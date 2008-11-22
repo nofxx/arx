@@ -6,9 +6,10 @@ class User < ActiveRecord::Base
   include Authentication::ByCookieToken
   include Authorization::StatefulRoles
 
-  has_many :pkgs, :foreign_key => :maintainer_id, :dependent => :nullify
   has_many :repos, :dependent => :destroy
   has_many :comments, :dependent => :destroy
+  has_many :pkgs, :through => :repos
+  has_many :maintains, :foreign_key => :maintainer_id, :dependent => :nullify
 
   validates_presence_of     :login
   validates_length_of       :login,    :within => 3..40
@@ -22,7 +23,6 @@ class User < ActiveRecord::Base
   validates_length_of       :email,    :within => 6..100 #r@a.wk
   validates_uniqueness_of   :email
   validates_format_of       :email,    :with => Authentication.email_regex, :message => Authentication.bad_email_message
-
 
 
   def first_name
@@ -64,3 +64,27 @@ class User < ActiveRecord::Base
 
 
 end
+
+
+# == Schema Info
+# Schema version: 20081122103124
+#
+# Table name: users
+#
+#  id                        :integer         not null, primary key
+#  activation_code           :string(40)
+#  admin                     :boolean
+#  crypted_password          :string(40)
+#  email                     :string(100)
+#  login                     :string(40)
+#  name                      :string(100)     default("")
+#  pkgs_count                :integer
+#  remember_token            :string(40)
+#  repos_count               :integer
+#  salt                      :string(40)
+#  state                     :string(255)     not null, default("passive")
+#  activated_at              :datetime
+#  created_at                :datetime
+#  deleted_at                :datetime
+#  remember_token_expires_at :datetime
+#  updated_at                :datetime
