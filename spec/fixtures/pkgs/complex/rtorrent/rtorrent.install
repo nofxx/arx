@@ -1,0 +1,29 @@
+pre_install() {
+  /bin/true
+}
+
+post_install() {
+  echo "!!> rtorrent has changed it's rc file syntax. Update your   <!!"
+  echo "!!> .rtorrent.rc to change anything with get_d_* to d.get_* <!!"
+}
+
+pre_upgrade() {
+  /bin/true
+}
+
+post_upgrade() {
+  echo "!!> rtorrent has changed it's rc file syntax. Update your   <!!"
+  echo "!!> .rtorrent.rc to change anything with get_d_* to d.get_* <!!"
+}
+
+pre_remove() {
+  /bin/true
+}
+
+post_remove() {
+  /bin/true
+}
+
+op=$1
+shift
+$op $*

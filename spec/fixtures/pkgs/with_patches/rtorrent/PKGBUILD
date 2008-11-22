@@ -1,0 +1,29 @@
+# $Id: PKGBUILD,v 1.26 2008/11/20 19:59:01 BaSh Exp $
+# Maintainer: Jeff Mickey <jeff@archlinux.org>
+# Contributor: sh__
+
+pkgname=rtorrent
+pkgver=0.8.2
+pkgrel=2
+pkgdesc="Ncurses BitTorrent client based on libTorrent"
+arch=('i686' 'x86_64')
+url="http://libtorrent.rakshasa.no"
+license=('GPL')
+depends=('libtorrent>=0.12.2' 'curl>=7.12.0')
+source=(http://libtorrent.rakshasa.no/downloads/$pkgname-$pkgver.tar.gz
+	'gcc4.3.patch')
+install=$pkgname.install
+md5sums=('a2456182e1767e5aed7341dbbd058f60'
+	'fcf2bb287bb25086a86bdfec2fd90556')
+
+build() {
+  cd "$srcdir/$pkgname-$pkgver"
+
+  patch -Np1 -i "$srcdir/gcc4.3.patch"
+
+  CXXFLAGS="$CXXFLAGS -fno-strict-aliasing" \
+    ./configure --prefix=/usr --disable-debug
+  make || return 1
+  make DESTDIR="$pkgdir" install
+}
+

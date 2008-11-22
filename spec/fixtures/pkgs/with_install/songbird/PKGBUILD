@@ -1,0 +1,49 @@
+# Contributor: Muhammad 'MJ' Jassim <UnbreakableMJ@gmail.com>
+# Original Contributor: Alex Merry <huntedhacker@tiscali.co.uk>
+
+pkgname=songbird
+pkgver=0.7.0
+pkgrel=1
+pkgdesc="Digital desktop media player (jukebox) mashed-up with web browser, powered by Mozilla."
+url="http://www.songbirdnest.com/"
+license=('GPL2')
+arch=('i686' 'x86_64')
+install=songbird.install
+  ##  Much is included internally, so we can ignore most
+  ##+ namcap errors about dependencies
+depends=('libxrender' 'libxext' 'libx11' 'libxmu' \
+         'gstreamer0.10-base' 'gtk2' 'gstreamer0.10-good-plugins')
+optdepends=('gstreamer0.10-bad-plugins' 'gstreamer0.10-ugly-plugins')
+conflicts=('songbird-nightly')
+source=(http://download.songbirdnest.com/installer/linux/$CARCH/Songbird_${pkgver}_linux-${CARCH}.tar.gz \
+	Songbird.desktop songbird.install)
+[ "$CARCH" = "x86_64" ] && md5sums=('12dd57a1daddfa43cfd6226c8197bc54')
+[ "$CARCH" = "i686" ] && md5sums=('7973e486c52749076ae718ab09f81429')
+md5sums=(${md5sums[*]} '69690161475073725fe611ffee7e43a6' '6fed51b0c2984e9ef58951d703201184')
+
+build() {
+  cd ${startdir}/src/Songbird
+  
+  install -d ${startdir}/pkg/usr/lib/songbird
+  cp -a ${startdir}/src/Songbird/* \
+        ${startdir}/pkg/usr/lib/songbird || return 1
+  chmod 755 ${startdir}/pkg/usr/lib/songbird/songbird
+  chmod 755 ${startdir}/pkg/usr/lib/songbird/xulrunner/xulrunner
+  chmod 755 ${startdir}/pkg/usr/lib/songbird/xulrunner/xulrunner-bin
+  chmod -R a+r ${startdir}/pkg/usr/lib/songbird/
+  
+  install -D ${startdir}/src/Songbird/chrome/icons/default/default.xpm \
+  	     ${startdir}/pkg/usr/share/pixmaps/Songbird.xpm
+  
+  install -D -m644 ${startdir}/src/Songbird.desktop \
+  	     	   ${startdir}/pkg/usr/share/applications/Songbird.desktop
+  
+  touch ${startdir}/pkg/usr/lib/songbird/extensions/albumart@songbirdnest.com/chrome.manifest
+  touch ${startdir}/pkg/usr/lib/songbird/extensions/gonzo@songbirdnest.com/chrome.manifest
+  touch ${startdir}/pkg/usr/lib/songbird/extensions/rubberducky-dependencies\@songbirdnest.com/chrome.manifest
+  chmod 644 ${startdir}/pkg/usr/lib/songbird/extensions/albumart@songbirdnest.com/chrome.manifest
+  chmod 644 ${startdir}/pkg/usr/lib/songbird/extensions/gonzo@songbirdnest.com/chrome.manifest
+  chmod 644 ${startdir}/pkg/usr/lib/songbird/extensions/rubberducky-dependencies\@songbirdnest.com/chrome.manifest
+  install --directory ${startdir}/pkg/usr/bin
+  ln -sf /usr/lib/songbird/songbird ${startdir}/pkg/usr/bin/songbird
+}

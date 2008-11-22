@@ -1,0 +1,97 @@
+# Maintainer: Adam Eberlin < adam dot eberlin at intellitechdesign dot com >
+
+pkgname=wine-git
+pkgver=20081120
+pkgrel=1
+pkgdesc="Interpreter for the Windows 3.x and Win32 APIs"
+url="http://www.winehq.com/"
+arch=('i686')
+license=('LGPL')
+
+depends=(	'alsa-lib' 
+			'dbus' 
+			'gcc-libs' 
+			'fontconfig' 
+			'freeglut' 
+			'freetype2' 
+			'gtk2' 
+			'lcms'  
+			'libcups' 
+			'libgl' 
+			'libice' 
+			'libjpeg' 
+			'libldap'
+			'libpng' 
+			'libsasl' 
+			'libsm' 
+			'libusb' 
+			'libx11' 
+			'libxau' 
+			'libxcomposite' 
+			'libxcursor' 
+			'libxdamage'
+			'libxext' 
+			'libxi' 
+			'libxinerama' 
+			'libxml2' 
+			'libxrandr' 
+			'libxrender' 
+			'libxslt' 
+			'libxt' 
+			'libxtst' 
+			'libxv' 
+			'libxxf86vm' 
+			'mesa' 
+			'ncurses' 
+			'openssl' 
+			'libxxf86dga'
+			'openldap' 
+			'pkgconfig' 
+			'sane' 
+			'xproto' 
+			'giflib' 
+			'isdn4k-utils'
+)
+
+makedepends=('git' 'fakeroot' 'make' 'pkgconfig')
+conflicts=('bin32-wine' 'bin32-wine-suse' 'bin32-wine-war' 'wine' 'wine-git')
+replaces=()
+provides=('wine-git' 'wine')
+backup=()
+source=()
+md5sums=()
+
+_gitroot="git://source.winehq.org/git/wine.git"
+_gitname="wine"
+
+build() {
+
+  cd ${srcdir}
+  msg "Connecting to GIT server...."
+
+  if [ -d ${srcdir}/$_gitname ] ; then
+    cd $_gitname && git pull origin
+    msg "Local repository updated."
+  else
+    git clone $_gitroot $_gitname
+  fi
+  
+#  git clone git://source.winehq.org/git/wine.git wine
+  
+  msg "GIT checkout done or server timeout"
+  msg "Starting make..."
+
+  cp -r ${srcdir}/$_gitname ${srcdir}/$_gitname-build
+  cd ${srcdir}/$_gitname-build
+
+#  CARCH="i686" CHOST="i686-pc-linux-gnu" CFLAGS="-march=i686 -mtune=generic -pipe" CXXFLAGS="-march=i686 -mtune=generic -pipe" LDFLAGS="-L/opt/lib32/usr/lib" ./configure --verbose --prefix=/usr --libdir=/opt/lib32/usr/lib
+
+  ./configure --verbose --prefix=/usr
+
+  #make clean
+
+  make || return 1
+  make DESTDIR=${pkgdir} install || return 1
+
+  find ${pkgdir} -type f -name '*.la' -exec rm {} \;
+}
