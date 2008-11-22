@@ -6,7 +6,7 @@ class Pkg < ActiveRecord::Base
   has_many :karmas, :dependent => :destroy
   has_many :versions, :dependent => :destroy
   has_many :installs, :dependent => :destroy
-  has_many :comments, :dependent => :destroy
+  has_many :comments, :as => :commentable, :dependent => :destroy
 
   has_many :users, :through => :repos
 

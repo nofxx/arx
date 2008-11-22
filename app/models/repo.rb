@@ -3,7 +3,7 @@ class Repo < ActiveRecord::Base
 
   belongs_to :user, :counter_cache => true
   belongs_to :pkg, :counter_cache => true
-
+  has_many :comments, :as => :commentable, :dependent => :destroy
 
   validates_presence_of :pkg
   validates_uniqueness_of :path
@@ -47,6 +47,14 @@ class Repo < ActiveRecord::Base
     Uv.parse( pkgbuild.data, "xhtml", "shell-unix-generic", true, "amy")
   end
 
+  def patches
+
+
+  end
+
+  def install
+    blob.select { |b| b.name == "*.install" }.first
+  end
   # #
   # Commit code
   def commit! msg = ""

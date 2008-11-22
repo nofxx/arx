@@ -12,6 +12,8 @@
   =# link_to "Edit",
   = c(@repo.pkgbuild.data, :theme => 'twilight')
   // @repo.pkgbuild_code
+  %h2 Install
+  =# c(@repo.install.data, :theme => 'twilight')
   %h2 Patches
 
 - else

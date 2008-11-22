@@ -3,12 +3,11 @@ ActionController::Routing::Routes.draw do |map|
   # Root home controller
   map.root :controller => 'home', :action => 'index'
 
-  map.resources :pkgs, :member => { :fork => :get } do |pkg|
-    pkg.resources :repos
-  end
+  map.resources :pkgs, :member => { :fork => :get },
+    :has_many => [:repos, :comments]
 
 
-  map.resources :repos
+  map.resources :repos, :has_many => [:comments]
   map.resources :installs
   map.resources :karmas
   map.resources :comments
