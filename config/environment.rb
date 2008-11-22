@@ -64,5 +64,9 @@ Rails::Initializer.run do |config|
 
   # Activate observers that should always be running
   # config.active_record.observers = :cacher, :garbage_collector
+#  config.gem "postgres"
   config.gem "mojombo-grit", :lib => "grit"
+  config.gem "oniguruma"
+  config.gem "textpow"
+  config.gem "ultraviolet", :lib => "uv"
 end

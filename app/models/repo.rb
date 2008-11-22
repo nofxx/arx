@@ -1,4 +1,5 @@
 require "grit"
+require "uv"
 REPO_PATH = "/var/www/arx-git/"
 
 class Repo < ActiveRecord::Base
@@ -111,5 +112,7 @@ class Repo < ActiveRecord::Base
     blob.select { |b| b.name == "PKGBUILD" }.first#repo find
   end
 
-  def pkgbuild_text;    pkgbuild.data;      end
+  def pkgbuild_code
+    Uv.parse( pkgbuild.data, "xhtml", "shell-unix-generic", true, "amy")
+  end
 end
