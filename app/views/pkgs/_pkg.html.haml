@@ -1,0 +1,13 @@
+- form_for @pkg, :html => { :multipart => true } do |f|
+  = f.error_messages
+  %p
+    = f.label :name
+    = f.text_field :name
+  %p
+    = f.label :desc
+    = f.text_area :desc
+
+  %p
+    = f.file_field :logo
+
+  = f.submit "Submit"

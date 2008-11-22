@@ -27,3 +27,4 @@ files/**/*
 public/javascripts/cache
 public/stylesheets/cache
 tags
+public/logos/**/*

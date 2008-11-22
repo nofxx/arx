@@ -10,6 +10,8 @@ REPO_PATH = "/var/www/arx-git/"
   has_many :comments, :dependent => :destroy
 
 
+  has_attached_file :logo, :styles => {
+    :medium => "300x300>", :thumb => "100x100>" }
 
   #acts_as_state_machine :initial => :normal, :column => 'state'
 
