@@ -11,7 +11,7 @@ class CreateUsers < ActiveRecord::Migration
         :remember_token_expires_at, :deleted_at
 
       t.string :state, :null => false, :default => 'passive'
-      t.boolean :admin
+      t.boolean :admin, :tu, :default => false, :null => false
       t.integer :pkgs_count, :repos_count
     end
     add_index :users, :login, :unique => true
