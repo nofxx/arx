@@ -4,38 +4,29 @@ module Gitx
   module Base
     include Grit
 
-    REPO_PATH = "/var/www/arx-git/"
-    USER_PATH = "/var/www/arx-user/"
 
-    def get_repo(path)
+    def get_repo
       Repo.new(path)
     end
 
-    def create_repo(pkg, user = nil)
-      dir = (user ? USER_PATH : REPO_PATH) + pkg.name
-      Dir.mkdir(dir) unless File.directory?(dir)
-      init_repo(dir)
-      dir
+
+    def create_repo
+      Dir.mkdir(path) unless File.directory?(path)
+      Dir.chdir(path) { system("git init") } # --template
     end
 
-    def init_repo(path)
+    def write_out(fname,text)
       Dir.chdir(path) do
-        system("git init") # --template
+        File.open(fname, 'w') { |f| f.write('hellor ' + fname) }
       end
     end
 
-    def write_out(repo, fname,text)
-          Dir.chdir(repo) do
-        File.open(fname, 'w') { |f| f.write('hellor ' + fname) }
-          end
-
-
-
-
-
-
-end
-
+    def export_tarball
+      Dir.chdir(path) do
+      system("git archive --format=tar --prefix=tarballs/ HEAD\
+       | tar czvf > #{name}.tar.gz")
+      end
+    end
 
 
 

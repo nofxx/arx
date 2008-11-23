@@ -25,19 +25,16 @@ class Pkg < ActiveRecord::Base
   validates_uniqueness_of :name
   validates_presence_of :name
   validates_numericality_of :size, :dl_size, :allow_blank => true
-  validates_format_of :name, :with => /^(\d|[A-Z])+$/
+  validates_format_of :name, :with => /^(\d|[A-Za-z])*$/
 
   def owner_name
     owner ? owner.name : 'orphan'
   end
 
   def after_create
-    self.repos.build.save
+    #self.repos.build.save
   end
 
-  def karma
-    karmas.average('value')
-  end
 
 
 end

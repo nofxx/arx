@@ -41,7 +41,8 @@ class PkgsController < ApplicationController
   # POST /pkgs.xml
   def create
     @pkg = Pkg.new(params[:pkg])
-    @pkg.owner = current_user
+    @pkg.owner =  current_user
+
 
     respond_to do |format|
       if @pkg.save

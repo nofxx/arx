@@ -249,6 +249,21 @@ describe "render 'view_spec/foo/show.rhtml'", :type => :view do
   end
 end
 
+describe "setting path parameters", :type => :view do
+  describe "(controller)" do
+    it "should supercede the default path parameters" do
+      render "view_spec/entry_form", :controller => 'foo'
+      request.path_parameters[:controller].should == 'foo'
+    end
+  end
+  describe "(action)" do
+    it "should supercede the default path parameters" do
+      render "view_spec/entry_form", :action => 'foo'
+      request.path_parameters[:action].should == 'foo'
+    end
+  end
+end
+
 module Spec
   module Rails
     module Example

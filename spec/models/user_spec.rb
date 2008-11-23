@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 require File.dirname(__FILE__) + '/../spec_helper'
 
-# Be sure to include AuthenticatedTestHelper in spec/spec_helper.rb instead.
-# Then, you can remove it from this and the functional test.
-include AuthenticatedTestHelper
-
 describe User do
   fixtures :users
 
@@ -233,7 +229,7 @@ describe User do
   it 'registers passive user' do
     user = create_user(:password => nil, :password_confirmation => nil)
     user.should be_passive
-    user.update_attributes(:password => 'new password', :password_confirmation => 'new password')
+    user.update_attributes(:password => 'newpassword', :password_confirmation => 'newpassword')
     user.register!
     user.should be_pending
   end
@@ -310,4 +306,3 @@ end
 #  deleted_at                :datetime
 #  remember_token_expires_at :datetime
 #  updated_at                :datetime
-

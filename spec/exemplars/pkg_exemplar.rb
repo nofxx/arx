@@ -1,12 +1,14 @@
 class Pkg < ActiveRecord::Base
   generator_for :name, :method => :next_name
-  generator_for :desc, 'Nice package...'
+  generator_for :desc, "Nice package..."
 
   def self.next_name
     @last ||= "acl"
     @last = @last.succ
   end
 end
+
+
 # == Schema Info
 # Schema version: 20081122103124
 #
@@ -33,4 +35,3 @@ end
 #  created_at        :datetime
 #  logo_updated_at   :datetime
 #  updated_at        :datetime
-

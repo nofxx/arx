@@ -1,4 +1,4 @@
-class Pkg < ActiveRecord::Base
+class Repo < ActiveRecord::Base
 
 
 end
@@ -13,4 +13,3 @@ end
 #  path       :string(255)     not null
 #  created_at :datetime
 #  updated_at :datetime
-

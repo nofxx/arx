@@ -104,10 +104,10 @@ module Spec
 
           assigns[:action_name] = @action_name
 
-          @request.path_parameters = {
-          :controller => derived_controller_name(options),
-          :action => derived_action_name(options)
-          }
+          @request.path_parameters = @request.path_parameters.update(
+            :controller => options[:controller] || derived_controller_name(options),
+            :action => options[:action] || derived_action_name(options)
+          )
 
           defaults = { :layout => false }
           options = defaults.merge options

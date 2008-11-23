@@ -1,19 +1,26 @@
 class Repo < ActiveRecord::Base
   include Gitx::Base
+  REPO_PATH = "/var/www/arx-git/"
+  USER_PATH = "/var/www/arx-user/"
 
-  belongs_to :user, :counter_cache => true
   belongs_to :pkg, :counter_cache => true
+  belongs_to :user, :counter_cache => true
+
   has_many :comments, :as => :commentable, :dependent => :destroy
   has_many :karmas, :dependent => :destroy
   has_many :installs, :dependent => :destroy
+
   validates_presence_of :pkg
-  validates_uniqueness_of :path
+ # validates_presence_of :path
+  #validates_uniqueness_of :path
 
   named_scope :system, :conditions => { :user_id => nil }
   named_scope :system, :conditions => { :user_id => nil }
 
-  def before_create
-    self.path = create_repo(pkg, user)
+
+  def after_create
+   self.path = (self.user ? USER_PATH : REPO_PATH) + self.pkg.name
+    create_repo
   end
 
   # Get user by username method. System pkgs stay apart
@@ -26,7 +33,7 @@ class Repo < ActiveRecord::Base
   # #
   # GIT
   #
-  def git;     get_repo(path)           end
+  def git;     get_repo                 end
 
   def commits; git.commits;             end
   def head;    git.commits.first;       end
@@ -60,6 +67,10 @@ class Repo < ActiveRecord::Base
   def other_files
 
 
+  end
+
+  def karma
+    karmas.average('value')
   end
 
 

@@ -4,7 +4,9 @@
 class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
 
+  # Be sure to include AuthenticationSystem in Application Controller instead
   include AuthenticatedSystem
+
 
 #  before_filter :login_required
 

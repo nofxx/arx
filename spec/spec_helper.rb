@@ -2,8 +2,13 @@
 # from the project root directory.
 ENV["RAILS_ENV"] = "test"
 require File.expand_path(File.dirname(__FILE__) + "/../config/environment")
+require File.expand_path(File.dirname(__FILE__) + "/association_matchers")
+
+require File.expand_path(File.dirname(__FILE__) + "/xmatchers")
+
 require 'spec'
 require 'spec/rails'
+
 
 Spec::Runner.configure do |config|
   # If you're not using ActiveRecord you should remove these
@@ -12,6 +17,12 @@ Spec::Runner.configure do |config|
   config.use_transactional_fixtures = true
   config.use_instantiated_fixtures  = false
   config.fixture_path = RAILS_ROOT + '/spec/fixtures/'
+
+  config.include Haml::Helpers
+  config.include ActionView::Helpers
+  config.include AssociationMatchers
+  config.include AuthenticatedTestHelper
+  config.include Xmatchers
 
   # == Fixtures
   #
@@ -42,6 +53,6 @@ Spec::Runner.configure do |config|
   # config.mock_with :rr
   #
   # == Notes
-  # 
+  #
   # For more information take a look at Spec::Example::Configuration and Spec::Runner
 end

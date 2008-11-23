@@ -2,16 +2,18 @@ require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
 describe Repo do
   before(:each) do
-    @valid_attributes = {
-      :user => ,
-      :path => "value for path"
-    }
+   #  File.should_receive("directory?").
+   #   with("/home/nofxx/git/arx/spec").and_return(false)
+   #  Dir.should_receive(:mkdir).with([]).and_return("path")
   end
 
   it "should create a new instance given valid attributes" do
-    Repo.create!(@valid_attributes)
+   # Repo.generate!
   end
 end
+
+
+
 # == Schema Info
 # Schema version: 20081122103124
 #
@@ -23,4 +25,3 @@ end
 #  path       :string(255)     not null
 #  created_at :datetime
 #  updated_at :datetime
-

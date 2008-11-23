@@ -21,7 +21,7 @@ class FetchWorker < BackgrounDRb::MetaWorker
 
 
   def arch
-      update_pkgs(Arch::Fetcher.run!)
+      update_pkgs(Arch::Pacman.syu)
   end
 
 
