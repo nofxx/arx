@@ -88,3 +88,4 @@ end
 #  deleted_at                :datetime
 #  remember_token_expires_at :datetime
 #  updated_at                :datetime
+

@@ -71,7 +71,7 @@ module AnnotateModels
   # a schema info block (a comment starting
   # with "Schema as of ..."), remove it first.
   # Mod to write to the end of the file
-
+  #
   def self.annotate_one_file(file_name, info_block)
     if File.exist?(file_name)
       content = File.read(file_name)
@@ -90,7 +90,6 @@ module AnnotateModels
   # info block (basically a comment containing information
   # on the columns and their types) and put it at the front
   # of the model and fixture source files.
-
   def self.annotate(klass, header)
     info = get_schema_info(klass, header)
     model_name = klass.name.underscore
@@ -143,7 +142,7 @@ module AnnotateModels
       end
       list
     end
-    write_factory if FACTORY_FILE
+    write_factory
     puts "Annotated #{annotated.join(', ')}"
   end
 
@@ -158,6 +157,7 @@ module AnnotateModels
   end
 
   def self.write_factory
+    return unless FACTORY_FILE
     content = File.read(FACTORY_FILE)
     prefix = '== Annotate Models:'
     @all = "# #{prefix}\n##{get_schema_version}\n#{@all}\n"

@@ -37,3 +37,4 @@ end
 #  created_at        :datetime
 #  logo_updated_at   :datetime
 #  updated_at        :datetime
+

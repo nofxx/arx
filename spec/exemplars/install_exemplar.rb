@@ -1,7 +1,3 @@
-class Install < ActiveRecord::Base
-    belongs_to :pkg, :counter_cache => true
-end
-
 # == Schema Info
 # Schema version: 20081122103124
 #
