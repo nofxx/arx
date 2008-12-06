@@ -1,0 +1,5 @@
+en-US:
+  pkg: Package
+  repo: Repository
+  ver: Version
+  pkgr: Packager
