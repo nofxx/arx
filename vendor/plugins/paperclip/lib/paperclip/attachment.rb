@@ -10,7 +10,7 @@ module Paperclip
         :styles        => {},
         :default_url   => "/:attachment/:style/missing.png",
         :default_style => :original,
-        :validations   => [],
+        :validations   => {},
         :storage       => :filesystem
       }
     end
@@ -38,7 +38,7 @@ module Paperclip
       @options           = options
       @queued_for_delete = []
       @queued_for_write  = {}
-      @errors            = []
+      @errors            = {}
       @validation_errors = nil
       @dirty             = false
 
@@ -67,8 +67,9 @@ module Paperclip
       return nil unless valid_assignment?(uploaded_file)
       logger.info("[paperclip] Assigning #{uploaded_file.inspect} to #{name}")
 
+      uploaded_file.binmode if uploaded_file.respond_to? :binmode
       queue_existing_for_delete
-      @errors            = []
+      @errors            = {}
       @validation_errors = nil
 
       return nil if uploaded_file.nil?
@@ -76,7 +77,7 @@ module Paperclip
       logger.info("[paperclip] Writing attributes for #{name}")
       @queued_for_write[:original]   = uploaded_file.to_tempfile
       instance_write(:file_name,       uploaded_file.original_filename.strip.gsub(/[^\w\d\.\-]+/, '_'))
-      instance_write(:content_type,    uploaded_file.content_type.strip)
+      instance_write(:content_type,    uploaded_file.content_type.to_s.strip)
       instance_write(:file_size,       uploaded_file.size.to_i)
       instance_write(:updated_at,      Time.now)
 
@@ -105,7 +106,7 @@ module Paperclip
     # disk. If the file is stored in S3, the path is the "key" part of the URL,
     # and the :bucket option refers to the S3 bucket.
     def path style = nil #:nodoc:
-      interpolate(@path, style)
+      original_filename.nil? ? nil : interpolate(@path, style)
     end
 
     # Alias to +url+
@@ -116,12 +117,12 @@ module Paperclip
     # Returns true if there are no errors on this attachment.
     def valid?
       validate
-      errors.length == 0
+      errors.empty?
     end
 
     # Returns an array containing the errors on this attachment.
     def errors
-      @errors.compact.uniq
+      @errors
     end
 
     # Returns true if there are changes that need to be saved.
@@ -229,10 +230,13 @@ module Paperclip
 
     def validate #:nodoc:
       unless @validation_errors
-        @validation_errors = @validations.collect do |v|
-          v.call(self, instance)
-        end.flatten.compact.uniq
-        @errors += @validation_errors
+        @validation_errors = @validations.inject({}) do |errors, validation|
+          name, block = validation
+          errors[name] = block.call(self, instance) if block
+          errors
+        end
+        @validation_errors.reject!{|k,v| v == nil }
+        @errors.merge!(@validation_errors)
       end
       @validation_errors
     end
@@ -267,7 +271,7 @@ module Paperclip
                                                    extra_options_for(name),
                                                    @whiny_thumbnails)
         rescue PaperclipError => e
-          @errors << e.message if @whiny_thumbnails
+          (@errors[:processing] ||= []) << e.message if @whiny_thumbnails
         end
       end
     end
@@ -295,8 +299,8 @@ module Paperclip
     end
 
     def flush_errors #:nodoc:
-      @errors.each do |error|
-        instance.errors.add(name, error)
+      @errors.each do |error, message|
+        instance.errors.add(name, message) if message
       end
     end
 

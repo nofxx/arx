@@ -103,11 +103,11 @@ module Spec
           add_helpers(options)
 
           assigns[:action_name] = @action_name
-
-          @request.path_parameters = @request.path_parameters.update(
-            :controller => options[:controller] || derived_controller_name(options),
-            :action => options[:action] || derived_action_name(options)
-          )
+          
+          @request.path_parameters = @request.path_parameters.merge(
+            :controller => derived_controller_name(options),
+            :action => derived_action_name(options)
+          ).merge(options[:path_parameters] || {})
 
           defaults = { :layout => false }
           options = defaults.merge options

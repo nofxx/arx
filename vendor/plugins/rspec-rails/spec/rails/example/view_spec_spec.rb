@@ -252,14 +252,20 @@ end
 describe "setting path parameters", :type => :view do
   describe "(controller)" do
     it "should supercede the default path parameters" do
-      render "view_spec/entry_form", :controller => 'foo'
+      render "view_spec/entry_form", :path_parameters => {:controller => 'foo'}
       request.path_parameters[:controller].should == 'foo'
     end
   end
   describe "(action)" do
     it "should supercede the default path parameters" do
-      render "view_spec/entry_form", :action => 'foo'
+      render "view_spec/entry_form", :path_parameters => {:action => 'foo'}
       request.path_parameters[:action].should == 'foo'
+    end
+  end
+  describe "(something arbitrary)" do
+    it "should supercede the default path parameters" do
+      render "view_spec/entry_form", :path_parameters => {:foo => 'bar'}
+      request.path_parameters[:foo].should == 'bar'
     end
   end
 end
