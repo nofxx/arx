@@ -1,3 +1,16 @@
+class Comment < ActiveRecord::Base
+
+  generator_for :content, "nice"
+
+end
+
+
+
+
+
+
+
+
 # == Schema Info
 # Schema version: 20081122103124
 #
@@ -10,4 +23,3 @@
 #  content          :text            not null
 #  created_at       :datetime
 #  updated_at       :datetime
-

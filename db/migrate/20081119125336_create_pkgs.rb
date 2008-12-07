@@ -8,7 +8,7 @@ class CreatePkgs < ActiveRecord::Migration
 
       t.string :license, :url, :md5
       t.integer :size, :dl_size, :arch,
-        :repos_count, :installs_count, :versions_count
+        :repos_count, :builds_count, :versions_count
 
       t.timestamp :build_date
 

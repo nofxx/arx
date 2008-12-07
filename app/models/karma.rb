@@ -1,8 +1,11 @@
 class Karma < ActiveRecord::Base
-  belongs_to :pkg
+  belongs_to :repo
+  belongs_to :user
+
+
   validates_presence_of :user
-  validates_presence_of :pkg
-  validates_presence_of :version
+  validates_presence_of :repo
+
   validates_presence_of :value
 
 end

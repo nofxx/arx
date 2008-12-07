@@ -31,7 +31,8 @@ end
 #
 #  id                        :integer         not null, primary key
 #  activation_code           :string(40)
-#  admin                     :boolean
+#  admin                     :boolean         not null
+#  builds_count              :integer
 #  crypted_password          :string(40)
 #  email                     :string(100)
 #  login                     :string(40)
@@ -41,6 +42,7 @@ end
 #  repos_count               :integer
 #  salt                      :string(40)
 #  state                     :string(255)     not null, default("passive")
+#  tu                        :boolean         not null
 #  activated_at              :datetime
 #  created_at                :datetime
 #  deleted_at                :datetime

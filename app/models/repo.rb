@@ -8,14 +8,15 @@ class Repo < ActiveRecord::Base
 
   has_many :comments, :as => :commentable, :dependent => :destroy
   has_many :karmas, :dependent => :destroy
-  has_many :installs, :dependent => :destroy
+  has_many :builds, :dependent => :destroy
 
   validates_presence_of :pkg
+  validates_presence_of :user
  # validates_presence_of :path
   #validates_uniqueness_of :path
 
   named_scope :system, :conditions => { :user_id => nil }
-  named_scope :system, :conditions => { :user_id => nil }
+  #named_scope :system, :conditions => { :user_id => nil }
 
 
   def after_create
@@ -137,10 +138,10 @@ end
 #
 # Table name: repos
 #
-#  id         :integer         not null, primary key
-#  pkg_id     :integer         not null
-#  user_id    :integer
-#  path       :string(255)     not null
-#  created_at :datetime
-#  updated_at :datetime
-
+#  id           :integer         not null, primary key
+#  pkg_id       :integer         not null
+#  user_id      :integer
+#  builds_count :integer
+#  path         :string(255)     not null
+#  created_at   :datetime
+#  updated_at   :datetime

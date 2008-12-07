@@ -15,6 +15,9 @@ describe Arch::Pacman do
     Arch::Pacman.sy.should be_true
   end
 
+
+
+
 #  it "should parse a row" do
 #    Pkg.should_receive(:create).with(:name => "your-freedom", :desc => 'todo').
 #      and_return(mock_pkg)

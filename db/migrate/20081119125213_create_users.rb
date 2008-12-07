@@ -12,7 +12,7 @@ class CreateUsers < ActiveRecord::Migration
 
       t.string :state, :null => false, :default => 'passive'
       t.boolean :admin, :tu, :default => false, :null => false
-      t.integer :pkgs_count, :repos_count
+      t.integer :pkgs_count, :repos_count, :builds_count
     end
     add_index :users, :login, :unique => true
   end

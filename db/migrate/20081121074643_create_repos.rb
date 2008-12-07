@@ -5,6 +5,8 @@ class CreateRepos < ActiveRecord::Migration
       t.references :user
       t.string :path, :null => false
 
+      t.integer :builds_count
+
       t.timestamps
     end
 

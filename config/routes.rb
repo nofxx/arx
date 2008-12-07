@@ -8,7 +8,7 @@ ActionController::Routing::Routes.draw do |map|
 
 
   map.resources :repos, :has_many => [:comments, :files]
-  map.resources :installs
+  map.resources :builds
   map.resources :karmas
   map.resources :comments
   map.resources :versions

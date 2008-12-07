@@ -18,9 +18,9 @@ end
 #  owner_id          :integer
 #  arch              :integer
 #  build_date        :datetime
+#  builds_count      :integer
 #  desc              :text            not null
 #  dl_size           :integer
-#  installs_count    :integer
 #  license           :string(255)
 #  logo_content_type :string(255)
 #  logo_file_name    :string(255)

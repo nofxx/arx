@@ -3,11 +3,11 @@ quentin:
   id:                        1
   login:                     quentin
   email:                     quentin@example.com
-  salt:                      356a192b7913b04c54574d18c28d46e6395428ab # SHA1('0')
-  crypted_password:          fe57655d6bd95418e89bbc8fbe459b46dfe8b13b # 'monkey'
+  salt:                      ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4 # SHA1('0')
+  crypted_password:          c25ff83b3ea11f817d50510711ed3759f58cf24f # 'monkey'
   created_at:                <%= 5.days.ago.to_s :db  %>
   remember_token_expires_at: <%= 1.days.from_now.to_s %>
-  remember_token:            77de68daecd823babbb58edb1c8e14d7106e83bb
+  remember_token:            902ba3cda1883801594b6e1b452790cc53948fda
   activation_code:           
   activated_at:              <%= 5.days.ago.to_s :db %>
   state:                     active
@@ -16,12 +16,12 @@ aaron:
   id:                        2
   login:                     aaron
   email:                     aaron@example.com
-  salt:                      da4b9237bacccdf19c0760cab7aec4a8359010b0 # SHA1('1')
-  crypted_password:          afbe1b5ee09cf66b50831d35b9e5169698fbc562 # 'monkey'
+  salt:                      c1dfd96eea8cc2b62785275bca38ac261256e278 # SHA1('1')
+  crypted_password:          40296648100fc52a8b1a1d7d104e1af948bd85fc # 'monkey'
   created_at:                <%= 1.days.ago.to_s :db %>
   remember_token_expires_at: 
   remember_token:            
-  activation_code:           1b6453892473a467d07372d45eb05abc2031647a
+  activation_code:           fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f
   activated_at:              
 
   state:                     pending
@@ -47,7 +47,8 @@ old_password_holder:
 #
 #  id                        :integer         not null, primary key
 #  activation_code           :string(40)
-#  admin                     :boolean
+#  admin                     :boolean         not null
+#  builds_count              :integer
 #  crypted_password          :string(40)
 #  email                     :string(100)
 #  login                     :string(40)
@@ -57,6 +58,7 @@ old_password_holder:
 #  repos_count               :integer
 #  salt                      :string(40)
 #  state                     :string(255)     not null, default("passive")
+#  tu                        :boolean         not null
 #  activated_at              :datetime
 #  created_at                :datetime
 #  deleted_at                :datetime

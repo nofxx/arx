@@ -5,6 +5,8 @@ class CreateVersions < ActiveRecord::Migration
       t.string :name, :null => false
       t.text :desc
 
+      t.integer :installs_count
+
       t.timestamps
     end
     add_index :versions, :pkg_id

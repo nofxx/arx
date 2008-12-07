@@ -66,8 +66,9 @@ Rails::Initializer.run do |config|
   config.active_record.observers = :user_observer #, :cacher, :garbage_collector
 
 #  config.gem "postgres"
-  config.gem "mojombo-grit", :lib => "grit"
+  config.gem "mojombo-grit", :lib => "grit", :source => "http://gems.github.com"
   config.gem "oniguruma"
   config.gem "textpow"
   config.gem "ultraviolet", :lib => "uv"
+  config.gem "carlosbrando-remarkable", :lib => "remarkable", :source => "http://gems.github.com"
 end
