@@ -1,18 +1,13 @@
 require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
-describe Install do
-  before(:each) do
-#    @valid_attributes = {
-#      :pkg => ,
-#      :code => false
-#    }
-  end
+describe Build do
 
   it "should create a new instance given valid attributes" do
-  pending
-    Install.create!(@valid_attributes)
+    Build.generate!
   end
 end
+
+
 # == Schema Info
 # Schema version: 20081122103124
 #
