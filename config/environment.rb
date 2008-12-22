@@ -70,5 +70,6 @@ Rails::Initializer.run do |config|
   config.gem "oniguruma"
   config.gem "textpow"
   config.gem "ultraviolet", :lib => "uv"
-  config.gem "carlosbrando-remarkable", :lib => "remarkable", :source => "http://gems.github.com"
+  config.gem "andand"
+  #config.gem "carlosbrando-remarkable", :lib => "remarkable", :source => "http://gems.github.com"
 end

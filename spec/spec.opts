@@ -1,5 +1,5 @@
 --colour
 --loadby random
---format progress
+--format RspecSpinner::Spinner
 --reverse
 --diff

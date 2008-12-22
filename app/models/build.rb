@@ -1,8 +1,8 @@
 class Build < ActiveRecord::Base
-  belongs_to :repo, :counter_cache => true
   belongs_to :user, :counter_cache => true
   belongs_to :pkg,  :counter_cache => true
-
+  belongs_to :repo, :counter_cache => true
+  
   validates_presence_of :repo
   validates_presence_of :pkg
 

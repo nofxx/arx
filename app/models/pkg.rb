@@ -3,11 +3,13 @@ class Pkg < ActiveRecord::Base
   belongs_to :owner, :foreign_key => :owner_id, :class_name => "User"
 
   has_many :repos, :dependent => :destroy
+  has_many :sources, :dependent => :destroy
 
   has_many :versions, :dependent => :destroy
   has_many :comments, :as => :commentable, :dependent => :destroy
   has_many :users, :through => :repos
 
+  has_many :comments, :as => :commentable
 
   has_attached_file :logo, :styles => {
     :medium => "300x300>", :thumb => "100x100>" },

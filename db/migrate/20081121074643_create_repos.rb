@@ -5,6 +5,7 @@ class CreateRepos < ActiveRecord::Migration
       t.references :user
       t.string :path, :null => false
 
+      t.string :state, :null => false, :default => 'new', :limit => 10
       t.integer :builds_count
 
       t.timestamps
@@ -13,6 +14,7 @@ class CreateRepos < ActiveRecord::Migration
     add_index :repos, [:pkg_id, :user_id]
     add_index :repos, :pkg_id
     add_index :repos, :user_id
+    add_index :repos, :state
   end
 
   def self.down

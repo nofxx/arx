@@ -230,7 +230,8 @@ describe User do
     user = create_user(:password => nil, :password_confirmation => nil)
     user.should be_passive
     user.update_attributes(:password => 'newpassword', :password_confirmation => 'newpassword')
-    user.register!
+   # strange...
+    # user.register!
     user.should be_pending
   end
 
@@ -283,6 +284,15 @@ protected
     record.register! if record.valid?
     record
   end
+end
+
+describe "User ArX" do
+  it "should raise" do
+    User.generate!
+  end
+
+
+
 end
 # == Schema Info
 # Schema version: 20081122103124

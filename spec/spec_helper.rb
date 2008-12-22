@@ -8,7 +8,7 @@ require File.expand_path(File.dirname(__FILE__) + "/xmatchers")
 
 require 'spec'
 require 'spec/rails'
-
+require 'rspec_spinner'
 
 Spec::Runner.configure do |config|
   # If you're not using ActiveRecord you should remove these

@@ -1,14 +1,15 @@
 require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
 describe Repo do
-  before(:each) do
+ # before(:each) o
    #  File.should_receive("directory?").
    #   with("/home/nofxx/git/arx/spec").and_return(false)
    #  Dir.should_receive(:mkdir).with([]).and_return("path")
-  end
+ # end
 
   it "should create a new instance given valid attributes" do
-   # Repo.generate!
+    @repo = Repo.generate
+    @repo.should be_valid
   end
 end
 

@@ -5,9 +5,7 @@ module Gitx
     include Grit
 
 
-    def get_repo
-      Repo.new(path)
-    end
+  
 
 
     def create_repo

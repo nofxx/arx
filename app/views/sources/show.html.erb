@@ -1,0 +1,18 @@
+<p>
+  <b>Pkg:</b>
+  <%=h @source.pkg %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%=h @source.url %>
+</p>
+
+<p>
+  <b>State:</b>
+  <%=h @source.state %>
+</p>
+
+
+<%= link_to 'Edit', edit_source_path(@source) %> |
+<%= link_to 'Back', sources_path %>

@@ -1,4 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
+  map.resources :sources
+
 
   # Root home controller
   map.root :controller => 'home', :action => 'index'

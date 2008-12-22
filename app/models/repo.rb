@@ -1,5 +1,6 @@
 class Repo < ActiveRecord::Base
-  include Gitx::Base
+  #include Gitx::Base
+ # include Grit
   REPO_PATH = "/var/www/arx-git/"
   USER_PATH = "/var/www/arx-user/"
 
@@ -18,31 +19,49 @@ class Repo < ActiveRecord::Base
   named_scope :system, :conditions => { :user_id => nil }
   #named_scope :system, :conditions => { :user_id => nil }
 
+  acts_as_state_machine :initial => :new
+  state :new
+  state :init #, :enter => Proc.new {|p| Bdrb    }
+  state :ok
+  state :err
+
 
   def after_create
-   self.path = (self.user ? USER_PATH : REPO_PATH) + self.pkg.name
-    create_repo
+    #TODO: send bdrb job
+   #self.path = (self.user ? USER_PATH : REPO_PATH) + self.pkg.name
+   # create_repo
   end
 
   # Get user by username method. System pkgs stay apart
   # with this logic. Better ideas are welcome....
-  def username
-    user ? user.name : "system"
-  end
+  #def username
+  #  user ? user.name : "system"
+ # end
 
 
   # #
   # GIT
   #
-  def git;     get_repo                 end
+  #
+  def get_repo
+    # bdrb call
+   # Repo.new(self.path)
+  end
 
-  def commits; git.commits;             end
+  def git
+    get_repo
+  end
+
+  def commits
+    git.andand.commits
+  end
+  
   def head;    git.commits.first;       end
   def tree;    git.commits.first.tree;  end #contents;
   def blob;    tree.contents;           end
 
   def empty?
-    commits.empty?
+    commits.andand.empty?
   end
 
   def get_commits from, max=nil

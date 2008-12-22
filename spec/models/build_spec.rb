@@ -3,7 +3,9 @@ require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 describe Build do
 
   it "should create a new instance given valid attributes" do
-    Build.generate!
+    @b = Build.generate
+    #p @b.errors
+    @b.should be_valid
   end
 end
 

@@ -3,14 +3,32 @@
 
 module Arch
   class Pkgbuild
-   	attr_reader :bash_env
+   	attr_reader :bash_env, :pkgname, :pkgver, :pkgrel, :pkgdesc,
+      :url, :license, :source, :depends, :provides, :conflicts
 
    	def initialize(source)
- 			bash_script ="source #{source} set "
+ 			bash_script ="\
+source #{source}
+set
+" #	="source #{source} set "
  			@bash_env = `#{bash_script}`
+      parse
    	end
 
- 	  def vars
+
+    def x32?
+      @x32
+    end
+
+    def x64?
+      @x64
+    end
+
+    def install
+      @install
+    end
+
+ 	  def parse
  		  bvars={}
  		  re=MultiRegexp.new('(\w*)=(.*)$', true)
 
@@ -28,7 +46,20 @@ module Arch
  				  end
  				end
  			end
-	 		return bvars
+	 	#	return bvars
+      @pkgname = bvars['pkgname']
+      @pkgver  = bvars['pkgver']
+      @pkgrel  = bvars['pkgrel'].to_i
+      @pkgdesc  = bvars['pkgdesc']
+      @x32 = bvars['arch'].include? "i686"
+      @x64 = bvars['arch'].include? "x86_64"
+      @url = bvars['url']
+      @license = bvars['license']
+      @source = bvars['source']
+      @install = bvars['install']
+      @depends = bvars['depends']
+      @provides = bvars['provides']
+      @conflicts = bvars['conflicts']
  		end
 
 

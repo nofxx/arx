@@ -1,6 +1,7 @@
 class Repo < ActiveRecord::Base
 
   generator_for :path, "/some/path"
+  generator_for :state, "pending"
 
 end
 
